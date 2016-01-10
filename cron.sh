@@ -1,21 +1,23 @@
-# run daily with
-# 0 22 * * * cron.sh
 #!/usr/bin/env bash
+# run daily with
+# 0 22 * * * /bin/bash -l -c 'cron.sh >> cron.log'
 
-DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-
-echo running in $DIR
-cd $DIR
+BASEDIR=$(dirname $0)
+echo running in $BASEDIR
+cd $BASEDIR
 
 git checkout r-gamedev
 git pull
 
-# load rvm ruby
-source $(rvm env --path -- ruby 2.2.1)
+ruby -v
 
 bundle install
 bundle exec ruby run.rb
 
 git add -A
 git commit -am "Stats update."
+git push
 
+echo done
+echo
+echo
