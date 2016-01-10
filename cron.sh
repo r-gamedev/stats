@@ -18,3 +18,6 @@ git add -A
 git commit -am "Stats update."
 git push
 
+echo done
+echo
+echo
