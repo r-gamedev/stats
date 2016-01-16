@@ -1,0 +1,878 @@
+---
+:meta:
+  :time_utc: 2016-01-16 06:00:07 UTC
+  :time_local: '2016-01-15 22:00:07 -0800'
+  :label: :24h
+  :period: :day
+:stats:
+  :general:
+    :scores:
+      :min: 0
+      :q1: 1.0
+      :q2: 5.0
+      :q3: 8.0
+      :max: 499
+      :mean: 20.35135135135135
+      :sum: 753.0
+    :comments:
+      :min: 0
+      :q1: 2.0
+      :q2: 5.0
+      :q3: 11.0
+      :max: 79
+      :mean: 11.621621621621621
+      :sum: 430.0
+    :count: 37
+  :by_category:
+    Assets:
+      :scores:
+        :min: 9
+        :q1: 17.0
+        :q2: 25.0
+        :q3: 262.0
+        :max: 499
+        :mean: 177.66666666666666
+        :sum: 533.0
+      :comments:
+        :min: 1
+        :q1: 3.5
+        :q2: 6.0
+        :q3: 34.5
+        :max: 63
+        :mean: 23.333333333333332
+        :sum: 70.0
+      :count: 3
+    Article:
+      :scores:
+        :min: 1
+        :q1: 1.0
+        :q2: 4.0
+        :q3: 13.0
+        :max: 51
+        :mean: 14.0
+        :sum: 70.0
+      :comments:
+        :min: 0
+        :q1: 0.0
+        :q2: 2.0
+        :q3: 3.0
+        :max: 5
+        :mean: 2.0
+        :sum: 10.0
+      :count: 5
+    Tutorial:
+      :scores:
+        :min: 37
+        :q1: 37.0
+        :q2: 37.0
+        :q3: 37.0
+        :max: 37
+        :mean: 37.0
+        :sum: 37.0
+      :comments:
+        :min: 0
+        :q1: 0.0
+        :q2: 0.0
+        :q3: 0.0
+        :max: 0
+        :mean: 0.0
+        :sum: 0.0
+      :count: 1
+    FF:
+      :scores:
+        :min: 13
+        :q1: 13.0
+        :q2: 13.0
+        :q3: 13.0
+        :max: 13
+        :mean: 13.0
+        :sum: 13.0
+      :comments:
+        :min: 79
+        :q1: 79.0
+        :q2: 79.0
+        :q3: 79.0
+        :max: 79
+        :mean: 79.0
+        :sum: 79.0
+      :count: 1
+    Discussion:
+      :scores:
+        :min: 1
+        :q1: 4.5
+        :q2: 8.0
+        :q3: 10.5
+        :max: 13
+        :mean: 7.333333333333333
+        :sum: 22.0
+      :comments:
+        :min: 19
+        :q1: 38.5
+        :q2: 58.0
+        :q3: 59.0
+        :max: 60
+        :mean: 45.666666666666664
+        :sum: 137.0
+      :count: 3
+    Question:
+      :scores:
+        :min: 0
+        :q1: 0.5
+        :q2: 2.0
+        :q3: 5.5
+        :max: 9
+        :mean: 3.066666666666667
+        :sum: 46.0
+      :comments:
+        :min: 1
+        :q1: 3.5
+        :q2: 5.0
+        :q3: 11.0
+        :max: 14
+        :mean: 6.733333333333333
+        :sum: 101.0
+      :count: 15
+    Release:
+      :scores:
+        :min: 7
+        :q1: 7.0
+        :q2: 7.0
+        :q3: 7.0
+        :max: 7
+        :mean: 7.0
+        :sum: 7.0
+      :comments:
+        :min: 2
+        :q1: 2.0
+        :q2: 2.0
+        :q3: 2.0
+        :max: 2
+        :mean: 2.0
+        :sum: 2.0
+      :count: 1
+    Feedback:
+      :scores:
+        :min: 1
+        :q1: 1.0
+        :q2: 3.0
+        :q3: 5.5
+        :max: 7
+        :mean: 3.5
+        :sum: 14.0
+      :comments:
+        :min: 3
+        :q1: 3.0
+        :q2: 4.0
+        :q3: 5.25
+        :max: 6
+        :mean: 4.25
+        :sum: 17.0
+      :count: 4
+    Stream:
+      :scores:
+        :min: 5
+        :q1: 5.0
+        :q2: 5.0
+        :q3: 5.0
+        :max: 5
+        :mean: 5.0
+        :sum: 5.0
+      :comments:
+        :min: 0
+        :q1: 0.0
+        :q2: 0.0
+        :q3: 0.0
+        :max: 0
+        :mean: 0.0
+        :sum: 0.0
+      :count: 1
+    ! '':
+      :scores:
+        :min: 3
+        :q1: 3.0
+        :q2: 3.0
+        :q3: 3.0
+        :max: 3
+        :mean: 3.0
+        :sum: 3.0
+      :comments:
+        :min: 5
+        :q1: 5.0
+        :q2: 5.0
+        :q3: 5.0
+        :max: 5
+        :mean: 5.0
+        :sum: 5.0
+      :count: 1
+    Technical:
+      :scores:
+        :min: 2
+        :q1: 2.0
+        :q2: 2.0
+        :q3: 2.0
+        :max: 2
+        :mean: 2.0
+        :sum: 2.0
+      :comments:
+        :min: 7
+        :q1: 7.0
+        :q2: 7.0
+        :q3: 7.0
+        :max: 7
+        :mean: 7.0
+        :sum: 7.0
+      :count: 1
+    Gamejam:
+      :scores:
+        :min: 1
+        :q1: 1.0
+        :q2: 1.0
+        :q3: 1.0
+        :max: 1
+        :mean: 1.0
+        :sum: 1.0
+      :comments:
+        :min: 2
+        :q1: 2.0
+        :q2: 2.0
+        :q3: 2.0
+        :max: 2
+        :mean: 2.0
+        :sum: 2.0
+      :count: 1
+:data:
+- :stats:
+    :score: 499
+    :comments: 63
+    :category: Assets
+    :category_css: assets cat-event
+    :gilded: 0
+  :info:
+    :title: Kenney Game Assets 2 has been launched comes with 800 game assets plus
+      free monthly updates
+    :fullname: t3_412o1b
+    :url: https://www.reddit.com/r/gamedev/comments/412o1b/kenney_game_assets_2_has_been_launched_comes_with/
+    :created: 1452884876.0
+    :editd: false
+    :author_flair:
+      :text: Asset Jesus
+    :link_flair:
+      :text: Assets
+      :css: assets cat-event
+- :stats:
+    :score: 51
+    :comments: 5
+    :category: Article
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: 'An AI neutral network dedicated entirely to Dark Souls PvP x post from
+      r darksouls '
+    :fullname: t3_412hj6
+    :url: https://www.reddit.com/r/gamedev/comments/412hj6/an_ai_neutral_network_dedicated_entirely_to_dark/
+    :created: 1452880864.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article
+      :css: article cat-resource
+- :stats:
+    :score: 37
+    :comments: 0
+    :category: Tutorial
+    :category_css: tutorial cat-resource
+    :gilded: 0
+  :info:
+    :title: Procedurally Generating Wrapping World Maps in Unity
+    :fullname: t3_414oa0
+    :url: https://www.reddit.com/r/gamedev/comments/414oa0/procedurally_generating_wrapping_world_maps_in/
+    :created: 1452915252.0
+    :editd: false
+    :author_flair:
+      :text: jgallant com
+    :link_flair:
+      :text: Tutorial
+      :css: tutorial cat-resource
+- :stats:
+    :score: 13
+    :comments: 79
+    :category: FF
+    :category_css: sts cat-weekly
+    :gilded: 0
+  :info:
+    :title: Feedback Friday 168 Hidden Treasures
+    :fullname: t3_411roq
+    :url: https://www.reddit.com/r/gamedev/comments/411roq/feedback_friday_168_hidden_treasures/
+    :created: 1452865384.0
+    :editd: false
+    :author_flair:
+      :text: " LucklessSeven"
+    :link_flair:
+      :text: FF
+      :css: sts cat-weekly
+- :stats:
+    :score: 13
+    :comments: 60
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'What is the biggest reason indie developers fail '
+    :fullname: t3_411lvd
+    :url: https://www.reddit.com/r/gamedev/comments/411lvd/what_is_the_biggest_reason_indie_developers_fail/
+    :created: 1452862646.0
+    :editd: false
+    :author_flair:
+      :text: 'Raghav Black Shell Media '
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 25
+    :comments: 6
+    :category: Assets
+    :category_css: assets cat-event
+    :gilded: 0
+  :info:
+    :title: Universal Sound FX for game devs just reached 4253 game ready sounds in
+      version 1 3
+    :fullname: t3_415t72
+    :url: https://www.reddit.com/r/gamedev/comments/415t72/universal_sound_fx_for_game_devs_just_reached/
+    :created: 1452930610.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Assets
+      :css: assets cat-event
+- :stats:
+    :score: 9
+    :comments: 9
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Game AI for a beginner
+    :fullname: t3_4135p7
+    :url: https://www.reddit.com/r/gamedev/comments/4135p7/game_ai_for_a_beginner/
+    :created: 1452894599.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 7
+    :comments: 11
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Giving gamedev lessons to kids in my area '
+    :fullname: t3_414mkb
+    :url: https://www.reddit.com/r/gamedev/comments/414mkb/giving_gamedev_lessons_to_kids_in_my_area/
+    :created: 1452914651.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 7
+    :comments: 2
+    :category: Release
+    :category_css: release cat-game
+    :gilded: 0
+  :info:
+    :title: Small and fun game Match Me released
+    :fullname: t3_414ki8
+    :url: https://www.reddit.com/r/gamedev/comments/414ki8/small_and_fun_game_match_me_released/
+    :created: 1452913880.0
+    :editd: false
+    :author_flair:
+      :text: " schmiedewerk"
+    :link_flair:
+      :text: Release
+      :css: release cat-game
+- :stats:
+    :score: 8
+    :comments: 58
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'What s the game that made you want to make games '
+    :fullname: t3_412fqk
+    :url: https://www.reddit.com/r/gamedev/comments/412fqk/whats_the_game_that_made_you_want_to_make_games/
+    :created: 1452879706.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 9
+    :comments: 1
+    :category: Assets
+    :category_css: assets cat-event
+    :gilded: 0
+  :info:
+    :title: Lost Places CC0 Textures
+    :fullname: t3_4150mw
+    :url: https://www.reddit.com/r/gamedev/comments/4150mw/lost_places_cc0_textures/
+    :created: 1452919606.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Assets
+      :css: assets cat-event
+- :stats:
+    :score: 7
+    :comments: 5
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: 'Game I m working on for the iPhone 6s Seeing Red v0 9 '
+    :fullname: t3_4146s0
+    :url: https://www.reddit.com/r/gamedev/comments/4146s0/game_im_working_on_for_the_iphone_6s_seeing_red/
+    :created: 1452909279.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 7
+    :comments: 13
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Those who have published mobile games Importance of perfect 1 0 '
+    :fullname: t3_4116zy
+    :url: https://www.reddit.com/r/gamedev/comments/4116zy/those_who_have_published_mobile_games_importance/
+    :created: 1452856204.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 13
+    :comments: 0
+    :category: Article
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: How to Build and Manage Your Team
+    :fullname: t3_416ami
+    :url: https://www.reddit.com/r/gamedev/comments/416ami/how_to_build_and_manage_your_team/
+    :created: 1452937843.0
+    :editd: false
+    :author_flair:
+      :text: " Rikukat"
+    :link_flair:
+      :text: Article
+      :css: article cat-resource
+- :stats:
+    :score: 6
+    :comments: 2
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How to make auto spectate camera like in League of Legends Unity '
+    :fullname: t3_415bye
+    :url: https://www.reddit.com/r/gamedev/comments/415bye/how_to_make_auto_spectate_camera_like_in_league/
+    :created: 1452923832.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 4
+    :comments: 3
+    :category: Article
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: I m making a 3D point and click adventure game in Unity Here s how my
+      saving and loading works
+    :fullname: t3_412rx2
+    :url: https://www.reddit.com/r/gamedev/comments/412rx2/im_making_a_3d_point_and_click_adventure_game_in/
+    :created: 1452887212.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article
+      :css: article cat-resource
+- :stats:
+    :score: 5
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Question from an outsider trying to look in '
+    :fullname: t3_415r0s
+    :url: https://www.reddit.com/r/gamedev/comments/415r0s/question_from_an_outsider_trying_to_look_in/
+    :created: 1452929718.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 5
+    :comments: 0
+    :category: Stream
+    :category_css: stream cat-event
+    :gilded: 0
+  :info:
+    :title: 2 episodes of the indie dev podcast are out this week
+    :fullname: t3_415fyp
+    :url: https://www.reddit.com/r/gamedev/comments/415fyp/2_episodes_of_the_indie_dev_podcast_are_out_this/
+    :created: 1452925392.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Stream
+      :css: stream cat-event
+- :stats:
+    :score: 5
+    :comments: 5
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Coursera Michigan State 5 course Game Dev Specialization Thoughts '
+    :fullname: t3_4156d9
+    :url: https://www.reddit.com/r/gamedev/comments/4156d9/courseramichigan_state_5_course_game_dev/
+    :created: 1452921688.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 2
+    :comments: 11
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How to detect rotation s direction clockwise or anti clockwise '
+    :fullname: t3_413733
+    :url: https://www.reddit.com/r/gamedev/comments/413733/how_to_detect_rotation_s_direction_clockwise_or/
+    :created: 1452895238.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 5
+    :comments: 6
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: 'The first game I have made Any feedback for improvements '
+    :fullname: t3_416abq
+    :url: https://www.reddit.com/r/gamedev/comments/416abq/the_first_game_i_have_made_any_feedback_for/
+    :created: 1452937719.0
+    :editd: 1452917607.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 3
+    :comments: 5
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'New Hobbyist Game Team '
+    :fullname: t3_4153h8
+    :url: https://www.reddit.com/r/gamedev/comments/4153h8/new_hobbyist_game_team/
+    :created: 1452920628.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 3
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How do you prefer to manage your game assets '
+    :fullname: t3_413iu6
+    :url: https://www.reddit.com/r/gamedev/comments/413iu6/how_do_you_prefer_to_manage_your_game_assets/
+    :created: 1452900410.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 2
+    :comments: 7
+    :category: Technical
+    :category_css: technical cat-resource
+    :gilded: 0
+  :info:
+    :title: How I animate my low poly models
+    :fullname: t3_412dds
+    :url: https://www.reddit.com/r/gamedev/comments/412dds/how_i_animate_my_low_poly_models/
+    :created: 1452878275.0
+    :editd: 1452852764.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Technical
+      :css: technical cat-resource
+- :stats:
+    :score: 1
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'When coding a game what am I supposed to use as units '
+    :fullname: t3_415z0a
+    :url: https://www.reddit.com/r/gamedev/comments/415z0a/when_coding_a_game_what_am_i_supposed_to_use_as/
+    :created: 1452932986.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: Article
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: AI Unplugged How Experienced Devs Think Through AI Panel from 2011 GDC
+      AI Summit
+    :fullname: t3_414lkg
+    :url: https://www.reddit.com/r/gamedev/comments/414lkg/ai_unplugged_how_experienced_devs_think_through/
+    :created: 1452914273.0
+    :editd: false
+    :author_flair:
+      :text: Intrinsic Algorithm LLC
+    :link_flair:
+      :text: Article
+      :css: article cat-resource
+- :stats:
+    :score: 1
+    :comments: 19
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'Is there actually any point in Early Access '
+    :fullname: t3_4147l5
+    :url: https://www.reddit.com/r/gamedev/comments/4147l5/is_there_actually_any_point_in_early_access/
+    :created: 1452909555.0
+    :editd: false
+    :author_flair:
+      :text: " bencelot mutantfactions net"
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 1
+    :comments: 6
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How to deal with difficult team members '
+    :fullname: t3_41448s
+    :url: https://www.reddit.com/r/gamedev/comments/41448s/how_to_deal_with_difficult_team_members/
+    :created: 1452908367.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 2
+    :category: Article
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: '226K downloads in 30 days interview with u RedPaintedHouses audio '
+    :fullname: t3_4143am
+    :url: https://www.reddit.com/r/gamedev/comments/4143am/226k_downloads_in_30_days_interview_with/
+    :created: 1452908006.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article
+      :css: article cat-resource
+- :stats:
+    :score: 1
+    :comments: 1
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Looking for suggestions regarding a battle manager for ARPG Unity '
+    :fullname: t3_413wel
+    :url: https://www.reddit.com/r/gamedev/comments/413wel/looking_for_suggestions_regarding_a_battle/
+    :created: 1452905493.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 2
+    :category: Gamejam
+    :category_css: gamejam cat-event
+    :gilded: 0
+  :info:
+    :title: Indie Arcade Coast to Coast tomorrow in DC
+    :fullname: t3_413s6i
+    :url: https://www.reddit.com/r/gamedev/comments/413s6i/indie_arcade_coast_to_coast_tomorrow_in_dc/
+    :created: 1452903995.0
+    :editd: 1452876234.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Gamejam
+      :css: gamejam cat-event
+- :stats:
+    :score: 1
+    :comments: 3
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: 'Jhulo is out now '
+    :fullname: t3_411rtz
+    :url: https://www.reddit.com/r/gamedev/comments/411rtz/jhulo_is_out_now/
+    :created: 1452865456.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 1
+    :comments: 3
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: fpv racing game prototype
+    :fullname: t3_4118vd
+    :url: https://www.reddit.com/r/gamedev/comments/4118vd/fpv_racing_game_prototype/
+    :created: 1452857001.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 0
+    :comments: 3
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Creating Unity map collision
+    :fullname: t3_4123k2
+    :url: https://www.reddit.com/r/gamedev/comments/4123k2/creating_unity_map_collision/
+    :created: 1452872006.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 11
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Thinking about quitting my job to become a full time solo indie game
+      developer What do you think '
+    :fullname: t3_41461q
+    :url: https://www.reddit.com/r/gamedev/comments/41461q/thinking_about_quitting_my_job_to_become_a_full/
+    :created: 1452909000.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How should I handle my game s endless road to smooth it out '
+    :fullname: t3_413f03
+    :url: https://www.reddit.com/r/gamedev/comments/413f03/how_should_i_handle_my_games_endless_road_to/
+    :created: 1452898804.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 14
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Strange Behavior when comparing strings in c Can someone explain this '
+    :fullname: t3_4135lk
+    :url: https://www.reddit.com/r/gamedev/comments/4135lk/strange_behavior_when_comparing_strings_in_c_can/
+    :created: 1452894554.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
