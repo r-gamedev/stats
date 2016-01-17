@@ -6,7 +6,7 @@ var tooltipFunction = function () {
 
   $.each(sortedPoints, function () {
     s += '<br/><span style="color:'+ this.series.color +'">\u25CF</span> ' + this.series.name + ': ' +
-    this.y + 'm';
+    this.y;
   });
 
   return s;
