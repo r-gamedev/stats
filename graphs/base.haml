@@ -1,0 +1,14 @@
+!!! 5
+%html
+  %head
+    %link{rel: :stylesheet, type: :"test/css", href: "style.css"}
+    %script{src: "//code.jquery.com/jquery-2.2.0.min.js"}
+    %script{src: "//code.highcharts.com/highcharts.js"}
+    %script{src: "chartkick.js"}
+  %body
+    %h1 Weekly
+    =chart_weekly
+    %h1 Daily
+    =chart_daily
+
+    %script{src: "chartfix.js"}

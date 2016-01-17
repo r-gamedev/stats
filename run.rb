@@ -230,5 +230,4 @@ end
         reddscan: reddscan) do |posts|
       all_stats(posts)
     end
-
-end
+  end
