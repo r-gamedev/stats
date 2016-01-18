@@ -21,7 +21,8 @@ week_data.reverse.each { |d|
     res[i[:info][:fullname]] ||= {
       title: i[:info][:title],
       url: i[:info][:url],
-      score: i[:stats][:score]
+      score: i[:stats][:score],
+      comments: i[:stats][:comments]
     }
   }
 }
@@ -33,10 +34,10 @@ res = res.map { |k,v|
 }
 
 File.open("analysis.md", "wb") do |out|
-  out << "| Score | Title |\n"
-  out << "|-------|-------|\n"
+  out << "| Score | Comments | Title |\n"
+  out << "|-------|----------|-------|\n"
   res.each do |i|
-    out << "| #{i[:score]} | [#{i[:title]}](#{i[:url]})|\n"
+    out << "| #{i[:score]} | #{i[:comments]} | [#{i[:title]}](#{i[:url]})|\n"
   end
 end
 
