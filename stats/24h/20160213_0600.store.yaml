@@ -1,0 +1,999 @@
+---
+:meta:
+  :time_utc: 2016-02-13 06:00:06 UTC
+  :time_local: '2016-02-12 22:00:06 -0800'
+  :label: :24h
+  :period: :day
+:stats:
+  :general:
+    :scores:
+      :min: 0
+      :q1: 2.0
+      :q2: 4.0
+      :q3: 10.0
+      :max: 189
+      :mean: 17.244444444444444
+      :sum: 776.0
+    :comments:
+      :min: 0
+      :q1: 2.0
+      :q2: 4.0
+      :q3: 9.0
+      :max: 109
+      :mean: 13.311111111111112
+      :sum: 599.0
+    :count: 45
+  :by_category:
+    Article/Video:
+      :scores:
+        :min: 0
+        :q1: 0.75
+        :q2: 4.0
+        :q3: 52.5
+        :max: 189
+        :mean: 49.25
+        :sum: 197.0
+      :comments:
+        :min: 2
+        :q1: 2.0
+        :q2: 3.0
+        :q3: 17.25
+        :max: 57
+        :mean: 16.25
+        :sum: 65.0
+      :count: 4
+    ! '':
+      :scores:
+        :min: 2
+        :q1: 2.0
+        :q2: 4.0
+        :q3: 8.25
+        :max: 155
+        :mean: 16.5
+        :sum: 231.0
+      :comments:
+        :min: 0
+        :q1: 1.25
+        :q2: 2.0
+        :q3: 2.75
+        :max: 44
+        :mean: 5.285714285714286
+        :sum: 74.0
+      :count: 14
+    Question:
+      :scores:
+        :min: 0
+        :q1: 0.75
+        :q2: 3.5
+        :q3: 16.0
+        :max: 116
+        :mean: 15.625
+        :sum: 250.0
+      :comments:
+        :min: 1
+        :q1: 4.0
+        :q2: 7.0
+        :q3: 13.75
+        :max: 82
+        :mean: 16.25
+        :sum: 260.0
+      :count: 16
+    Discussion:
+      :scores:
+        :min: 2
+        :q1: 11.0
+        :q2: 20.0
+        :q3: 29.0
+        :max: 38
+        :mean: 20.0
+        :sum: 40.0
+      :comments:
+        :min: 10
+        :q1: 24.25
+        :q2: 38.5
+        :q3: 52.75
+        :max: 67
+        :mean: 38.5
+        :sum: 77.0
+      :count: 2
+    Release:
+      :scores:
+        :min: 1
+        :q1: 5.5
+        :q2: 10.0
+        :q3: 14.5
+        :max: 19
+        :mean: 10.0
+        :sum: 20.0
+      :comments:
+        :min: 0
+        :q1: 1.75
+        :q2: 3.5
+        :q3: 5.25
+        :max: 7
+        :mean: 3.5
+        :sum: 7.0
+      :count: 2
+    Tutorial:
+      :scores:
+        :min: 10
+        :q1: 10.0
+        :q2: 10.0
+        :q3: 10.0
+        :max: 10
+        :mean: 10.0
+        :sum: 10.0
+      :comments:
+        :min: 1
+        :q1: 1.0
+        :q2: 1.0
+        :q3: 1.0
+        :max: 1
+        :mean: 1.0
+        :sum: 1.0
+      :count: 1
+    Resource:
+      :scores:
+        :min: 7
+        :q1: 7.5
+        :q2: 8.0
+        :q3: 8.5
+        :max: 9
+        :mean: 8.0
+        :sum: 16.0
+      :comments:
+        :min: 0
+        :q1: 0.25
+        :q2: 0.5
+        :q3: 0.75
+        :max: 1
+        :mean: 0.5
+        :sum: 1.0
+      :count: 2
+    FF:
+      :scores:
+        :min: 8
+        :q1: 8.0
+        :q2: 8.0
+        :q3: 8.0
+        :max: 8
+        :mean: 8.0
+        :sum: 8.0
+      :comments:
+        :min: 109
+        :q1: 109.0
+        :q2: 109.0
+        :q3: 109.0
+        :max: 109
+        :mean: 109.0
+        :sum: 109.0
+      :count: 1
+    AMA:
+      :scores:
+        :min: 4
+        :q1: 4.0
+        :q2: 4.0
+        :q3: 4.0
+        :max: 4
+        :mean: 4.0
+        :sum: 4.0
+      :comments:
+        :min: 1
+        :q1: 1.0
+        :q2: 1.0
+        :q3: 1.0
+        :max: 1
+        :mean: 1.0
+        :sum: 1.0
+      :count: 1
+    Feedback:
+      :scores:
+        :min: 0
+        :q1: 0.0
+        :q2: 0.0
+        :q3: 0.0
+        :max: 0
+        :mean: 0.0
+        :sum: 0.0
+      :comments:
+        :min: 2
+        :q1: 2.0
+        :q2: 2.0
+        :q3: 2.0
+        :max: 2
+        :mean: 2.0
+        :sum: 2.0
+      :count: 1
+    Survey:
+      :scores:
+        :min: 0
+        :q1: 0.0
+        :q2: 0.0
+        :q3: 0.0
+        :max: 0
+        :mean: 0.0
+        :sum: 0.0
+      :comments:
+        :min: 2
+        :q1: 2.0
+        :q2: 2.0
+        :q3: 2.0
+        :max: 2
+        :mean: 2.0
+        :sum: 2.0
+      :count: 1
+:data:
+- :stats:
+    :score: 189
+    :comments: 57
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Kongregate s Launchpad X wants to fund games with less than a month of
+      development time
+    :fullname: t3_45dxep
+    :url: https://www.reddit.com/r/gamedev/comments/45dxep/kongregates_launchpad_x_wants_to_fund_games_with/
+    :created: 1455296812.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 155
+    :comments: 44
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'I m experimenting with implementing a new kind of building system inspired
+      by 3D modelling '
+    :fullname: t3_45fbc5
+    :url: https://www.reddit.com/r/gamedev/comments/45fbc5/im_experimenting_with_implementing_a_new_kind_of/
+    :created: 1455320969.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 116
+    :comments: 66
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'I m a programmer I love gaming but for the life of me I can t get into
+      game dev Any tips tricks or advice '
+    :fullname: t3_45g4xj
+    :url: https://www.reddit.com/r/gamedev/comments/45g4xj/im_a_programmer_i_love_gaming_but_for_the_life_of/
+    :created: 1455331117.0
+    :editd: 1455325974.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 53
+    :comments: 82
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Day jobs that go hand in hand with gamedev '
+    :fullname: t3_45df12
+    :url: https://www.reddit.com/r/gamedev/comments/45df12/day_jobs_that_go_handinhand_with_gamedev/
+    :created: 1455286125.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 38
+    :comments: 67
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: Share an Image of Your First Project
+    :fullname: t3_45eldu
+    :url: https://www.reddit.com/r/gamedev/comments/45eldu/share_an_image_of_your_first_project/
+    :created: 1455310619.0
+    :editd: 1455308709.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 25
+    :comments: 6
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Google Play Services inconsistencies
+    :fullname: t3_45eer0
+    :url: https://www.reddit.com/r/gamedev/comments/45eer0/google_play_services_inconsistencies/
+    :created: 1455307336.0
+    :editd: 1455279075.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 17
+    :comments: 10
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Getting Started With A Rendering Engine '
+    :fullname: t3_45gcto
+    :url: https://www.reddit.com/r/gamedev/comments/45gcto/getting_started_with_a_rendering_engine/
+    :created: 1455333815.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 16
+    :comments: 5
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Looking for solutions with PayPal and chargebacks
+    :fullname: t3_45euve
+    :url: https://www.reddit.com/r/gamedev/comments/45euve/looking_for_solutions_with_paypal_and_chargebacks/
+    :created: 1455314757.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 19
+    :comments: 7
+    :category: Release
+    :category_css: release cat-game
+    :gilded: 0
+  :info:
+    :title: Procedurally generated matchstick math puzzles
+    :fullname: t3_45elk4
+    :url: https://www.reddit.com/r/gamedev/comments/45elk4/procedurally_generated_matchstick_math_puzzles/
+    :created: 1455310703.0
+    :editd: 1455282155.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Release
+      :css: release cat-game
+- :stats:
+    :score: 16
+    :comments: 6
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'What are some great 3d lowpoly artstyles for one man armies that aren
+      t flat shaded low poly '
+    :fullname: t3_45g3ue
+    :url: https://www.reddit.com/r/gamedev/comments/45g3ue/what_are_some_great_3d_lowpoly_artstyles_for_one/
+    :created: 1455330730.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 10
+    :comments: 1
+    :category: Tutorial
+    :category_css: tutorial cat-resource
+    :gilded: 0
+  :info:
+    :title: Unity 3D Loading Screen Tutorial Free Script
+    :fullname: t3_45fu58
+    :url: https://www.reddit.com/r/gamedev/comments/45fu58/unity_3d_loading_screen_tutorial_free_script/
+    :created: 1455327505.0
+    :editd: false
+    :author_flair:
+      :text: Nowhere Prophet Dev
+    :link_flair:
+      :text: Tutorial
+      :css: tutorial cat-resource
+- :stats:
+    :score: 12
+    :comments: 24
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How much of the industry is like the 70 hour a week crunch stories I
+      regularly hear about '
+    :fullname: t3_45f7f8
+    :url: https://www.reddit.com/r/gamedev/comments/45f7f8/how_much_of_the_industry_is_like_the_70_hour_a/
+    :created: 1455319563.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 10
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: " MINE IN SPAAACE Lots of games like this but as my first finished game
+      I m still proud of it "
+    :fullname: t3_45hjii
+    :url: https://www.reddit.com/r/gamedev/comments/45hjii/mine_in_spaaace_lots_of_games_like_this_but_as_my/
+    :created: 1455348696.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 9
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Gravity gun in gamemaker using simple physics
+    :fullname: t3_45h8h3
+    :url: https://www.reddit.com/r/gamedev/comments/45h8h3/gravity_gun_in_gamemaker_using_simple_physics/
+    :created: 1455344626.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 9
+    :comments: 1
+    :category: Resource
+    :category_css: resource cat-resource
+    :gilded: 0
+  :info:
+    :title: 'Trajectory updates '
+    :fullname: t3_45ebmx
+    :url: https://www.reddit.com/r/gamedev/comments/45ebmx/trajectory_updates/
+    :created: 1455305605.0
+    :editd: 1455278736.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Resource
+      :css: resource cat-resource
+- :stats:
+    :score: 7
+    :comments: 0
+    :category: Resource
+    :category_css: resource cat-resource
+    :gilded: 0
+  :info:
+    :title: GDD templates and 2D dynamic camera package for Unity
+    :fullname: t3_45gz8y
+    :url: https://www.reddit.com/r/gamedev/comments/45gz8y/gdd_templates_and_2d_dynamic_camera_package_for/
+    :created: 1455341529.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Resource
+      :css: resource cat-resource
+- :stats:
+    :score: 8
+    :comments: 109
+    :category: FF
+    :category_css: ff cat-weekly
+    :gilded: 0
+  :info:
+    :title: Feedback Friday 172 Major Updates
+    :fullname: t3_45d6p5
+    :url: https://www.reddit.com/r/gamedev/comments/45d6p5/feedback_friday_172_major_updates/
+    :created: 1455282337.0
+    :editd: false
+    :author_flair:
+      :text: " LucklessSeven"
+    :link_flair:
+      :text: FF
+      :css: ff cat-weekly
+- :stats:
+    :score: 6
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'What s the deal with Steam giveaway groups '
+    :fullname: t3_45hgct
+    :url: https://www.reddit.com/r/gamedev/comments/45hgct/whats_the_deal_with_steam_giveaway_groups/
+    :created: 1455347498.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 9
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Almost 40 of Intel G33 G31 Express on Steam Survey
+    :fullname: t3_45ftdj
+    :url: https://www.reddit.com/r/gamedev/comments/45ftdj/almost_40_of_intel_g33g31_express_on_steam_survey/
+    :created: 1455327243.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 7
+    :comments: 2
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Good prototypes come from game jams
+    :fullname: t3_45fpqj
+    :url: https://www.reddit.com/r/gamedev/comments/45fpqj/good_prototypes_come_from_game_jams/
+    :created: 1455325997.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 4
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Building Your First Game Ever with MonoGame
+    :fullname: t3_45hhjd
+    :url: https://www.reddit.com/r/gamedev/comments/45hhjd/building_your_first_game_ever_with_monogame/
+    :created: 1455347964.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 5
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Superpowers engine by Sparklin Labs
+    :fullname: t3_45ihud
+    :url: https://www.reddit.com/r/gamedev/comments/45ihud/superpowers_engine_by_sparklin_labs/
+    :created: 1455362924.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 4
+    :comments: 1
+    :category: AMA
+    :category_css: ama cat-event
+    :gilded: 0
+  :info:
+    :title: 'If you haven t seen it the team from The Witness is doing an AMA '
+    :fullname: t3_45hka9
+    :url: https://www.reddit.com/r/gamedev/comments/45hka9/if_you_havent_seen_it_the_team_from_the_witness/
+    :created: 1455349006.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: AMA
+      :css: ama cat-event
+- :stats:
+    :score: 5
+    :comments: 16
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Should a game programmer make his own art '
+    :fullname: t3_45gn71
+    :url: https://www.reddit.com/r/gamedev/comments/45gn71/should_a_game_programmer_make_his_own_art/
+    :created: 1455337418.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 3
+    :comments: 3
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Correct me if I m wrong anyone but does DirectX have anything like OpenGL
+      VBOs '
+    :fullname: t3_45ijtd
+    :url: https://www.reddit.com/r/gamedev/comments/45ijtd/correct_me_if_im_wrong_anyone_but_does_directx/
+    :created: 1455363769.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 2
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Using 3rd parties SDK in mobile game development
+    :fullname: t3_45ec6n
+    :url: https://www.reddit.com/r/gamedev/comments/45ec6n/using_3rd_parties_sdk_in_mobile_game_development/
+    :created: 1455305900.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 2
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'How do I import several FBX animations back to back into one Maya timeline '
+    :fullname: t3_45irs6
+    :url: https://www.reddit.com/r/gamedev/comments/45irs6/how_do_i_import_several_fbx_animations_back_to/
+    :created: 1455367390.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 4
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Options for Procedural Geometry
+    :fullname: t3_45hmyo
+    :url: https://www.reddit.com/r/gamedev/comments/45hmyo/options_for_procedural_geometry/
+    :created: 1455350029.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 10
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'Game art discussion '
+    :fullname: t3_45g3ca
+    :url: https://www.reddit.com/r/gamedev/comments/45g3ca/game_art_discussion/
+    :created: 1455330567.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 2
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Giving rewards before the kickstarter is over '
+    :fullname: t3_45g1h1
+    :url: https://www.reddit.com/r/gamedev/comments/45g1h1/giving_rewards_before_the_kickstarter_is_over/
+    :created: 1455329965.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 1
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Want to transition to gave development not sure where to start '
+    :fullname: t3_45imik
+    :url: https://www.reddit.com/r/gamedev/comments/45imik/want_to_transition_to_gave_development_not_sure/
+    :created: 1455364939.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 2
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Good 2D mesh authoring tool for OSX '
+    :fullname: t3_45hu1s
+    :url: https://www.reddit.com/r/gamedev/comments/45hu1s/good_2d_mesh_authoring_tool_for_osx/
+    :created: 1455352832.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Part 4 of my Journey to become an indie game dev series '
+    :fullname: t3_45ht9l
+    :url: https://www.reddit.com/r/gamedev/comments/45ht9l/part_4_of_my_journey_to_become_an_indie_game_dev/
+    :created: 1455352537.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 6
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Best way to make a text based rpg roguelike '
+    :fullname: t3_45hojo
+    :url: https://www.reddit.com/r/gamedev/comments/45hojo/best_way_to_make_a_text_based_rpgroguelike/
+    :created: 1455350659.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How to get started on Flixel '
+    :fullname: t3_45gt18
+    :url: https://www.reddit.com/r/gamedev/comments/45gt18/how_to_get_started_on_flixel/
+    :created: 1455339476.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 9
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'how much time would it take to make a 3d rpg fps single player game with
+      some ai and a short quest with a group of 6 people in unreal engine 4 with original
+      average looking assets '
+    :fullname: t3_45gnkl
+    :url: https://www.reddit.com/r/gamedev/comments/45gnkl/how_much_time_would_it_take_to_make_a_3d_rpg_fps/
+    :created: 1455337544.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: Release
+    :category_css: release cat-game
+    :gilded: 0
+  :info:
+    :title: Looking for feedback on Go Wright our mobile game multiplayer in beta
+    :fullname: t3_45fp5d
+    :url: https://www.reddit.com/r/gamedev/comments/45fp5d/looking_for_feedback_on_go_wright_our_mobile_game/
+    :created: 1455325800.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Release
+      :css: release cat-game
+- :stats:
+    :score: 1
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How do I get started on a universe simulator '
+    :fullname: t3_45fezr
+    :url: https://www.reddit.com/r/gamedev/comments/45fezr/how_do_i_get_started_on_a_universe_simulator/
+    :created: 1455322261.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 4
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: 'Syntax_Error Ep 5 Game Feel Game design show '
+    :fullname: t3_45dxqi
+    :url: https://www.reddit.com/r/gamedev/comments/45dxqi/syntax_error_ep_5_game_feel_game_design_show/
+    :created: 1455297035.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 0
+    :comments: 13
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Im 17 and have a few questions on my path to making indie games '
+    :fullname: t3_45hbso
+    :url: https://www.reddit.com/r/gamedev/comments/45hbso/im_17_and_have_a_few_questions_on_my_path_to/
+    :created: 1455345811.0
+    :editd: 1455317311.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 2
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: 'InTheWood discuss and feedback '
+    :fullname: t3_45ecs6
+    :url: https://www.reddit.com/r/gamedev/comments/45ecs6/inthewood_discuss_and_feedback/
+    :created: 1455306229.0
+    :editd: 1455312793.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 0
+    :comments: 2
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Retail will kill virtual reality
+    :fullname: t3_45dlwf
+    :url: https://www.reddit.com/r/gamedev/comments/45dlwf/retail_will_kill_virtual_reality/
+    :created: 1455289660.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 0
+    :comments: 2
+    :category: Survey
+    :category_css: survey cat-talk
+    :gilded: 0
+  :info:
+    :title: Game Developer Salaries
+    :fullname: t3_45fduv
+    :url: https://www.reddit.com/r/gamedev/comments/45fduv/game_developer_salaries/
+    :created: 1455321859.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Survey
+      :css: survey cat-talk
+- :stats:
+    :score: 0
+    :comments: 6
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Beginner
+    :fullname: t3_45fi9j
+    :url: https://www.reddit.com/r/gamedev/comments/45fi9j/beginner/
+    :created: 1455323400.0
+    :editd: 1455308766.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 8
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How Should I '
+    :fullname: t3_45evsx
+    :url: https://www.reddit.com/r/gamedev/comments/45evsx/how_should_i/
+    :created: 1455315158.0
+    :editd: 1455293990.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
