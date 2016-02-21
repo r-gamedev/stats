@@ -1,0 +1,566 @@
+---
+:meta:
+  :time_utc: 2016-02-21 06:00:05 UTC
+  :time_local: '2016-02-20 22:00:05 -0800'
+  :label: :24h
+  :period: :day
+:stats:
+  :general:
+    :scores:
+      :min: 0
+      :q1: 2.0
+      :q2: 3.0
+      :q3: 8.5
+      :max: 157
+      :mean: 11.73913043478261
+      :sum: 270.0
+    :comments:
+      :min: 0
+      :q1: 2.5
+      :q2: 6.0
+      :q3: 11.0
+      :max: 159
+      :mean: 17.08695652173913
+      :sum: 393.0
+    :count: 23
+  :by_category:
+    Discussion:
+      :scores:
+        :min: 1
+        :q1: 3.5
+        :q2: 6.5
+        :q3: 8.75
+        :max: 157
+        :mean: 30.5
+        :sum: 183.0
+      :comments:
+        :min: 1
+        :q1: 5.5
+        :q2: 9.5
+        :q3: 15.75
+        :max: 94
+        :mean: 22.666666666666668
+        :sum: 136.0
+      :count: 6
+    SSS:
+      :scores:
+        :min: 23
+        :q1: 23.0
+        :q2: 23.0
+        :q3: 23.0
+        :max: 23
+        :mean: 23.0
+        :sum: 23.0
+      :comments:
+        :min: 159
+        :q1: 159.0
+        :q2: 159.0
+        :q3: 159.0
+        :max: 159
+        :mean: 159.0
+        :sum: 159.0
+      :count: 1
+    AMA:
+      :scores:
+        :min: 15
+        :q1: 15.0
+        :q2: 15.0
+        :q3: 15.0
+        :max: 15
+        :mean: 15.0
+        :sum: 15.0
+      :comments:
+        :min: 25
+        :q1: 25.0
+        :q2: 25.0
+        :q3: 25.0
+        :max: 25
+        :mean: 25.0
+        :sum: 25.0
+      :count: 1
+    Question:
+      :scores:
+        :min: 0
+        :q1: 1.5
+        :q2: 3.0
+        :q3: 6.5
+        :max: 9
+        :mean: 4.0
+        :sum: 28.0
+      :comments:
+        :min: 1
+        :q1: 2.5
+        :q2: 4.0
+        :q3: 6.5
+        :max: 10
+        :mean: 4.714285714285714
+        :sum: 33.0
+      :count: 7
+    Release:
+      :scores:
+        :min: 6
+        :q1: 6.0
+        :q2: 6.0
+        :q3: 6.0
+        :max: 6
+        :mean: 6.0
+        :sum: 6.0
+      :comments:
+        :min: 9
+        :q1: 9.0
+        :q2: 9.0
+        :q3: 9.0
+        :max: 9
+        :mean: 9.0
+        :sum: 9.0
+      :count: 1
+    ! '':
+      :scores:
+        :min: 0
+        :q1: 0.75
+        :q2: 2.0
+        :q3: 3.5
+        :max: 5
+        :mean: 2.25
+        :sum: 9.0
+      :comments:
+        :min: 1
+        :q1: 4.0
+        :q2: 5.5
+        :q3: 8.5
+        :max: 16
+        :mean: 7.0
+        :sum: 28.0
+      :count: 4
+    Source:
+      :scores:
+        :min: 2
+        :q1: 2.0
+        :q2: 2.0
+        :q3: 2.0
+        :max: 2
+        :mean: 2.0
+        :sum: 2.0
+      :comments:
+        :min: 3
+        :q1: 3.0
+        :q2: 3.0
+        :q3: 3.0
+        :max: 3
+        :mean: 3.0
+        :sum: 3.0
+      :count: 1
+    Article/Video:
+      :scores:
+        :min: 2
+        :q1: 2.0
+        :q2: 2.0
+        :q3: 2.0
+        :max: 2
+        :mean: 2.0
+        :sum: 4.0
+      :comments:
+        :min: 0
+        :q1: 0.0
+        :q2: 0.0
+        :q3: 0.0
+        :max: 0
+        :mean: 0.0
+        :sum: 0.0
+      :count: 2
+:data:
+- :stats:
+    :score: 157
+    :comments: 94
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'Any thoughts on the new Amazon Game Engine Lumberyard '
+    :fullname: t3_46qxvj
+    :url: https://www.reddit.com/r/gamedev/comments/46qxvj/any_thoughts_on_the_new_amazon_game_engine/
+    :created: 1456017088.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 23
+    :comments: 159
+    :category: SSS
+    :category_css: sss cat-weekly
+    :gilded: 0
+  :info:
+    :title: Screenshot Saturday 264 The Right Angle
+    :fullname: t3_46oqsb
+    :url: https://www.reddit.com/r/gamedev/comments/46oqsb/screenshot_saturday_264_the_right_angle/
+    :created: 1455973701.0
+    :editd: false
+    :author_flair:
+      :text: " LucklessSeven"
+    :link_flair:
+      :text: SSS
+      :css: sss cat-weekly
+- :stats:
+    :score: 15
+    :comments: 25
+    :category: AMA
+    :category_css: ama cat-event
+    :gilded: 0
+  :info:
+    :title: 'We are Arcably the first Romanian PR company dedicated to indie game
+      developers Ask us how to market your game or about anything else '
+    :fullname: t3_46rkhm
+    :url: https://www.reddit.com/r/gamedev/comments/46rkhm/we_are_arcably_the_first_romanian_pr_company/
+    :created: 1456025551.0
+    :editd: 1456015659.0
+    :author_flair:
+      :text: 'arcably com PR amp Consulting For Indies '
+    :link_flair:
+      :text: AMA
+      :css: ama cat-event
+- :stats:
+    :score: 9
+    :comments: 3
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Texturing and exporting in Blender
+    :fullname: t3_46pd3z
+    :url: https://www.reddit.com/r/gamedev/comments/46pd3z/texturing_and_exporting_in_blender/
+    :created: 1455986948.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 9
+    :comments: 6
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How can I explain display my new gamedev tool players build things by
+      snapping pieces together '
+    :fullname: t3_46s7yl
+    :url: https://www.reddit.com/r/gamedev/comments/46s7yl/how_can_i_explaindisplay_my_new_gamedev_tool/
+    :created: 1456035006.0
+    :editd: 1456007380.0
+    :author_flair:
+      :text: " t_machine_org"
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 9
+    :comments: 12
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'How do you build a dev team '
+    :fullname: t3_46rz7v
+    :url: https://www.reddit.com/r/gamedev/comments/46rz7v/how_do_you_build_a_dev_team/
+    :created: 1456031704.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 8
+    :comments: 5
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'Ideas for local gamedev knowledge sharing events '
+    :fullname: t3_46pmbm
+    :url: https://www.reddit.com/r/gamedev/comments/46pmbm/ideas_for_local_gamedev_knowledge_sharing_events/
+    :created: 1455993534.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 5
+    :comments: 17
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'Managing larger projects '
+    :fullname: t3_46rdin
+    :url: https://www.reddit.com/r/gamedev/comments/46rdin/managing_larger_projects/
+    :created: 1456022879.0
+    :editd: 1455997145.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 6
+    :comments: 9
+    :category: Release
+    :category_css: release cat-game
+    :gilded: 0
+  :info:
+    :title: Just release my seoncd game on the Play Store RedneckDefenders
+    :fullname: t3_46q593
+    :url: https://www.reddit.com/r/gamedev/comments/46q593/just_release_my_seoncd_game_on_the_play_store/
+    :created: 1456004959.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Release
+      :css: release cat-game
+- :stats:
+    :score: 4
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Should I wait to start a greenlight campaign until I m ready for a kickstarter '
+    :fullname: t3_46p5sn
+    :url: https://www.reddit.com/r/gamedev/comments/46p5sn/should_i_wait_to_start_a_greenlight_campaign/
+    :created: 1455982011.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 3
+    :comments: 1
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'What makes a good or a bad rating reviewing system '
+    :fullname: t3_46rqer
+    :url: https://www.reddit.com/r/gamedev/comments/46rqer/what_makes_a_good_or_a_bad_ratingreviewing_system/
+    :created: 1456027959.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 5
+    :comments: 6
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'What do you do when you find something extremely similar to a game you
+      ve wanted to make My motivation has been severed '
+    :fullname: t3_46trca
+    :url: https://www.reddit.com/r/gamedev/comments/46trca/what_do_you_do_when_you_find_something_extremely/
+    :created: 1456057174.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 3
+    :comments: 5
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'A question for artists is this difficult to do '
+    :fullname: t3_46tb1d
+    :url: https://www.reddit.com/r/gamedev/comments/46tb1d/a_question_for_artists_is_this_difficult_to_do/
+    :created: 1456050403.0
+    :editd: false
+    :author_flair:
+      :text: startupfreakgame com
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 3
+    :comments: 2
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Blender to Quixel Cylinder Seams problem
+    :fullname: t3_46rwoz
+    :url: https://www.reddit.com/r/gamedev/comments/46rwoz/blender_to_quixel_cylinder_seams_problem/
+    :created: 1456030600.0
+    :editd: 1456002230.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 3
+    :comments: 1
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Need a bit of help with entity component systems
+    :fullname: t3_46qths
+    :url: https://www.reddit.com/r/gamedev/comments/46qths/need_a_bit_of_help_with_entity_component_systems/
+    :created: 1456015460.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 2
+    :comments: 3
+    :category: Source
+    :category_css: source cat-event
+    :gilded: 0
+  :info:
+    :title: Open Source Android Wear Augmented Reality Game Utilizing Vuforia SDK
+      for Unity and Subsequently Packaged for Android
+    :fullname: t3_46t52f
+    :url: https://www.reddit.com/r/gamedev/comments/46t52f/open_source_android_wear_augmented_reality_game/
+    :created: 1456048114.0
+    :editd: 1456022558.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Source
+      :css: source cat-event
+- :stats:
+    :score: 2
+    :comments: 0
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Indie Quest Week 3
+    :fullname: t3_46rda4
+    :url: https://www.reddit.com/r/gamedev/comments/46rda4/indie_quest_week_3/
+    :created: 1456022785.0
+    :editd: false
+    :author_flair:
+      :text: " Va11ar "
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 2
+    :comments: 0
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Technical Unity blogging vs Developing A k a how to use your spare time
+    :fullname: t3_46r7vh
+    :url: https://www.reddit.com/r/gamedev/comments/46r7vh/technical_unity_blogging_vs_developing_aka_how_to/
+    :created: 1456020748.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 1
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Unity Help Please '
+    :fullname: t3_46tlhf
+    :url: https://www.reddit.com/r/gamedev/comments/46tlhf/unity_help_please/
+    :created: 1456054624.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 7
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'Whats the best phone for game dev '
+    :fullname: t3_46rti7
+    :url: https://www.reddit.com/r/gamedev/comments/46rti7/whats_the_best_phone_for_game_dev/
+    :created: 1456029238.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 0
+    :comments: 10
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'I m starting to try and learn game development in C I need advice '
+    :fullname: t3_46rwt6
+    :url: https://www.reddit.com/r/gamedev/comments/46rwt6/im_starting_to_try_and_learn_game_development_in/
+    :created: 1456030655.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 16
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Is it racist to have a stereotype in a game name '
+    :fullname: t3_46pjte
+    :url: https://www.reddit.com/r/gamedev/comments/46pjte/is_it_racist_to_have_a_stereotype_in_a_game_name/
+    :created: 1455991748.0
+    :editd: 1455988130.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 7
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Gamemaker or Unity for 2D game development '
+    :fullname: t3_46ovs8
+    :url: https://www.reddit.com/r/gamedev/comments/46ovs8/gamemaker_or_unity_for_2d_game_development/
+    :created: 1455976335.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
