@@ -1,0 +1,1210 @@
+---
+:meta:
+  :time_utc: 2016-03-01 06:00:10 UTC
+  :time_local: '2016-02-29 22:00:10 -0800'
+  :label: :24h
+  :period: :day
+:stats:
+  :general:
+    :scores:
+      :min: 0
+      :q1: 1.5
+      :q2: 4.0
+      :q3: 8.5
+      :max: 220
+      :mean: 12.927272727272728
+      :sum: 711.0
+    :comments:
+      :min: 0
+      :q1: 2.0
+      :q2: 4.0
+      :q3: 8.0
+      :max: 83
+      :mean: 7.254545454545455
+      :sum: 399.0
+    :count: 55
+  :by_category:
+    Article/Video:
+      :scores:
+        :min: 1
+        :q1: 3.0
+        :q2: 25.0
+        :q3: 53.0
+        :max: 220
+        :mean: 60.4
+        :sum: 302.0
+      :comments:
+        :min: 0
+        :q1: 2.0
+        :q2: 2.0
+        :q3: 8.0
+        :max: 40
+        :mean: 10.4
+        :sum: 52.0
+      :count: 5
+    Resource:
+      :scores:
+        :min: 83
+        :q1: 83.0
+        :q2: 83.0
+        :q3: 83.0
+        :max: 83
+        :mean: 83.0
+        :sum: 83.0
+      :comments:
+        :min: 17
+        :q1: 17.0
+        :q2: 17.0
+        :q3: 17.0
+        :max: 17
+        :mean: 17.0
+        :sum: 17.0
+      :count: 1
+    Question:
+      :scores:
+        :min: 0
+        :q1: 1.0
+        :q2: 2.0
+        :q3: 5.5
+        :max: 34
+        :mean: 5.096774193548387
+        :sum: 158.0
+      :comments:
+        :min: 0
+        :q1: 3.0
+        :q2: 5.0
+        :q3: 9.0
+        :max: 83
+        :mean: 8.483870967741936
+        :sum: 263.0
+      :count: 31
+    Announcement:
+      :scores:
+        :min: 2
+        :q1: 8.5
+        :q2: 15.0
+        :q3: 21.5
+        :max: 28
+        :mean: 15.0
+        :sum: 30.0
+      :comments:
+        :min: 0
+        :q1: 1.25
+        :q2: 2.5
+        :q3: 3.75
+        :max: 5
+        :mean: 2.5
+        :sum: 5.0
+      :count: 2
+    ! '':
+      :scores:
+        :min: 0
+        :q1: 4.0
+        :q2: 9.0
+        :q3: 13.0
+        :max: 27
+        :mean: 10.6
+        :sum: 53.0
+      :comments:
+        :min: 0
+        :q1: 0.0
+        :q2: 1.0
+        :q3: 1.0
+        :max: 3
+        :mean: 1.0
+        :sum: 5.0
+      :count: 5
+    Release:
+      :scores:
+        :min: 6
+        :q1: 11.25
+        :q2: 16.5
+        :q3: 21.75
+        :max: 27
+        :mean: 16.5
+        :sum: 33.0
+      :comments:
+        :min: 8
+        :q1: 11.25
+        :q2: 14.5
+        :q3: 17.75
+        :max: 21
+        :mean: 14.5
+        :sum: 29.0
+      :count: 2
+    Postmortem:
+      :scores:
+        :min: 16
+        :q1: 16.0
+        :q2: 16.0
+        :q3: 16.0
+        :max: 16
+        :mean: 16.0
+        :sum: 16.0
+      :comments:
+        :min: 4
+        :q1: 4.0
+        :q2: 4.0
+        :q3: 4.0
+        :max: 4
+        :mean: 4.0
+        :sum: 4.0
+      :count: 1
+    Assets:
+      :scores:
+        :min: 6
+        :q1: 6.0
+        :q2: 6.0
+        :q3: 6.0
+        :max: 6
+        :mean: 6.0
+        :sum: 6.0
+      :comments:
+        :min: 2
+        :q1: 2.0
+        :q2: 2.0
+        :q3: 2.0
+        :max: 2
+        :mean: 2.0
+        :sum: 2.0
+      :count: 1
+    Discussion:
+      :scores:
+        :min: 5
+        :q1: 5.25
+        :q2: 5.5
+        :q3: 5.75
+        :max: 6
+        :mean: 5.5
+        :sum: 11.0
+      :comments:
+        :min: 2
+        :q1: 2.25
+        :q2: 2.5
+        :q3: 2.75
+        :max: 3
+        :mean: 2.5
+        :sum: 5.0
+      :count: 2
+    Stream:
+      :scores:
+        :min: 6
+        :q1: 6.0
+        :q2: 6.0
+        :q3: 6.0
+        :max: 6
+        :mean: 6.0
+        :sum: 6.0
+      :comments:
+        :min: 0
+        :q1: 0.0
+        :q2: 0.0
+        :q3: 0.0
+        :max: 0
+        :mean: 0.0
+        :sum: 0.0
+      :count: 1
+    Feedback:
+      :scores:
+        :min: 4
+        :q1: 4.0
+        :q2: 4.0
+        :q3: 4.0
+        :max: 4
+        :mean: 4.0
+        :sum: 8.0
+      :comments:
+        :min: 5
+        :q1: 6.25
+        :q2: 7.5
+        :q3: 8.75
+        :max: 10
+        :mean: 7.5
+        :sum: 15.0
+      :count: 2
+    Survey:
+      :scores:
+        :min: 3
+        :q1: 3.0
+        :q2: 3.0
+        :q3: 3.0
+        :max: 3
+        :mean: 3.0
+        :sum: 3.0
+      :comments:
+        :min: 2
+        :q1: 2.0
+        :q2: 2.0
+        :q3: 2.0
+        :max: 2
+        :mean: 2.0
+        :sum: 2.0
+      :count: 1
+    Gamejam:
+      :scores:
+        :min: 2
+        :q1: 2.0
+        :q2: 2.0
+        :q3: 2.0
+        :max: 2
+        :mean: 2.0
+        :sum: 2.0
+      :comments:
+        :min: 0
+        :q1: 0.0
+        :q2: 0.0
+        :q3: 0.0
+        :max: 0
+        :mean: 0.0
+        :sum: 0.0
+      :count: 1
+:data:
+- :stats:
+    :score: 220
+    :comments: 40
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Meet the Developer Who Made Games for Three Years While Living on the
+      Streets
+    :fullname: t3_489toa
+    :url: https://www.reddit.com/r/gamedev/comments/489toa/meet_the_developer_who_made_games_for_three_years/
+    :created: 1456774976.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 83
+    :comments: 17
+    :category: Resource
+    :category_css: resource cat-resource
+    :gilded: 0
+  :info:
+    :title: 'Just finished my brainstorming tool for game devs Conception '
+    :fullname: t3_4896gi
+    :url: https://www.reddit.com/r/gamedev/comments/4896gi/just_finished_my_brainstorming_tool_for_game_devs/
+    :created: 1456761897.0
+    :editd: 1456743088.0
+    :author_flair:
+      :text: " Deroro"
+    :link_flair:
+      :text: Resource
+      :css: resource cat-resource
+- :stats:
+    :score: 53
+    :comments: 8
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Excellent video of how completely blind gamers can play fighting games
+    :fullname: t3_48bxqn
+    :url: https://www.reddit.com/r/gamedev/comments/48bxqn/excellent_video_of_how_completely_blind_gamers/
+    :created: 1456803138.0
+    :editd: 1456775186.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 34
+    :comments: 83
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How to be satisfied with your programmer art '
+    :fullname: t3_48b9aq
+    :url: https://www.reddit.com/r/gamedev/comments/48b9aq/how_to_be_satisfied_with_your_programmer_art/
+    :created: 1456795077.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 28
+    :comments: 5
+    :category: Announcement
+    :category_css: announcement cat-event
+    :gilded: 0
+  :info:
+    :title: Seeking Devs for Reboot Indie Game Awards
+    :fullname: t3_48ayum
+    :url: https://www.reddit.com/r/gamedev/comments/48ayum/seeking_devs_for_reboot_indie_game_awards/
+    :created: 1456791645.0
+    :editd: 1456763100.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Announcement
+      :css: announcement cat-event
+- :stats:
+    :score: 28
+    :comments: 14
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Is it still worth it to target Wii U '
+    :fullname: t3_48alhl
+    :url: https://www.reddit.com/r/gamedev/comments/48alhl/is_it_still_worth_it_to_target_wii_u/
+    :created: 1456787111.0
+    :editd: false
+    :author_flair:
+      :text: " vividhelix"
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 27
+    :comments: 3
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: jMonkeyEngine 3 alpha2 released Parting ways with our SDK
+    :fullname: t3_48cdw1
+    :url: https://www.reddit.com/r/gamedev/comments/48cdw1/jmonkeyengine_3_alpha2_released_parting_ways_with/
+    :created: 1456807676.0
+    :editd: 1456779287.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 27
+    :comments: 21
+    :category: Release
+    :category_css: release cat-game
+    :gilded: 0
+  :info:
+    :title: Fragmental a glorious couchplay game we self published today
+    :fullname: t3_489wjb
+    :url: https://www.reddit.com/r/gamedev/comments/489wjb/fragmental_a_glorious_couchplay_game_we_self/
+    :created: 1456776461.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Release
+      :css: release cat-game
+- :stats:
+    :score: 25
+    :comments: 2
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Creating Eastshade s Dynamic Sky in Unity
+    :fullname: t3_48dft0
+    :url: https://www.reddit.com/r/gamedev/comments/48dft0/creating_eastshades_dynamic_sky_in_unity/
+    :created: 1456820075.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 16
+    :comments: 4
+    :category: Postmortem
+    :category_css: postmortem cat-resource
+    :gilded: 0
+  :info:
+    :title: 'Postmortem and open sourced my first game for Android '
+    :fullname: t3_489ki1
+    :url: https://www.reddit.com/r/gamedev/comments/489ki1/postmortem_and_open_sourced_my_first_game_for/
+    :created: 1456769870.0
+    :editd: 1456741283.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Postmortem
+      :css: postmortem cat-resource
+- :stats:
+    :score: 13
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Euro IndieDevs Showcase your game at GameDev Days in Estonia '
+    :fullname: t3_489ikp
+    :url: https://www.reddit.com/r/gamedev/comments/489ikp/euro_indiedevs_showcase_your_game_at_gamedev_days/
+    :created: 1456768755.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 13
+    :comments: 3
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'What are the best ways to approach concept art creation from the ground
+      up '
+    :fullname: t3_488zr3
+    :url: https://www.reddit.com/r/gamedev/comments/488zr3/what_are_the_best_ways_to_approach_concept_art/
+    :created: 1456758587.0
+    :editd: false
+    :author_flair:
+      :text: " saviorxtanren"
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 9
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Counter attack system in Unreal Engine 4
+    :fullname: t3_48aep9
+    :url: https://www.reddit.com/r/gamedev/comments/48aep9/counterattack_system_in_unreal_engine_4/
+    :created: 1456784556.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 8
+    :comments: 6
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'I am a teacher trying to stop young students procrastinating Help me
+      get them hooked '
+    :fullname: t3_4894ea
+    :url: https://www.reddit.com/r/gamedev/comments/4894ea/i_am_a_teacher_trying_to_stop_young_students/
+    :created: 1456760849.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 12
+    :comments: 9
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'What would be a good checklist for starting a game '
+    :fullname: t3_48e1py
+    :url: https://www.reddit.com/r/gamedev/comments/48e1py/what_would_be_a_good_checklist_for_starting_a_game/
+    :created: 1456828492.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 6
+    :comments: 3
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How should I implement a Object Entity System with this game loop '
+    :fullname: t3_48bo1l
+    :url: https://www.reddit.com/r/gamedev/comments/48bo1l/how_should_i_implement_a_objectentity_system_with/
+    :created: 1456799952.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 8
+    :comments: 10
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Just gathered a team of 5 to develop a small game in order to build expertise
+      towards future projects Any guidelines '
+    :fullname: t3_48bcaz
+    :url: https://www.reddit.com/r/gamedev/comments/48bcaz/just_gathered_a_team_of_5_to_develop_a_small_game/
+    :created: 1456796068.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 6
+    :comments: 2
+    :category: Assets
+    :category_css: assets cat-event
+    :gilded: 0
+  :info:
+    :title: Sharing my 2D platformer graphics for free
+    :fullname: t3_48d0ur
+    :url: https://www.reddit.com/r/gamedev/comments/48d0ur/sharing_my_2d_platformer_graphics_for_free/
+    :created: 1456814476.0
+    :editd: false
+    :author_flair:
+      :text: Nubs Adventure Rico using LibGDX
+    :link_flair:
+      :text: Assets
+      :css: assets cat-event
+- :stats:
+    :score: 6
+    :comments: 3
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'BugMonday hashtag '
+    :fullname: t3_48aohi
+    :url: https://www.reddit.com/r/gamedev/comments/48aohi/bugmonday_hashtag/
+    :created: 1456788130.0
+    :editd: false
+    :author_flair:
+      :text: " retroneogames"
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 5
+    :comments: 2
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'Global games jam developers what have you done with your games after
+      the jam '
+    :fullname: t3_489i76
+    :url: https://www.reddit.com/r/gamedev/comments/489i76/global_games_jam_developers_what_have_you_done/
+    :created: 1456768565.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 6
+    :comments: 26
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Best practices to reduce piracy How much does piracy speak about our
+      age '
+    :fullname: t3_489bsj
+    :url: https://www.reddit.com/r/gamedev/comments/489bsj/best_practices_to_reduce_piracy_how_much_does/
+    :created: 1456764826.0
+    :editd: 1456736237.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 6
+    :comments: 8
+    :category: Release
+    :category_css: release cat-game
+    :gilded: 0
+  :info:
+    :title: 'QUADRANT A beautifully simple and original game we just released free
+      Can we get some feedback '
+    :fullname: t3_48dg5l
+    :url: https://www.reddit.com/r/gamedev/comments/48dg5l/quadrant_a_beautifully_simple_and_original_game/
+    :created: 1456820186.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Release
+      :css: release cat-game
+- :stats:
+    :score: 6
+    :comments: 0
+    :category: Stream
+    :category_css: stream cat-event
+    :gilded: 0
+  :info:
+    :title: Will be Live streaming this indie panel from Baltimore March 23rd 7pm
+    :fullname: t3_48c4g4
+    :url: https://www.reddit.com/r/gamedev/comments/48c4g4/will_be_live_streaming_this_indie_panel_from/
+    :created: 1456805329.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Stream
+      :css: stream cat-event
+- :stats:
+    :score: 4
+    :comments: 10
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: 'Check my new game in development need critics '
+    :fullname: t3_489q5f
+    :url: https://www.reddit.com/r/gamedev/comments/489q5f/check_my_new_game_in_development_need_critics/
+    :created: 1456773094.0
+    :editd: 1456746157.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 5
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Effective way to receive critique on a game s story '
+    :fullname: t3_48960h
+    :url: https://www.reddit.com/r/gamedev/comments/48960h/effective_way_to_receive_critique_on_a_games_story/
+    :created: 1456761694.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 4
+    :comments: 10
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Examples of TPS 2 5D Shooters '
+    :fullname: t3_48bi9f
+    :url: https://www.reddit.com/r/gamedev/comments/48bi9f/examples_of_tps_25d_shooters/
+    :created: 1456798057.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 4
+    :comments: 5
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'For implementing a 2D online card game what would you recommend '
+    :fullname: t3_489ned
+    :url: https://www.reddit.com/r/gamedev/comments/489ned/for_implementing_a_2d_online_card_game_what_would/
+    :created: 1456771461.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 5
+    :comments: 3
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Google Play In App purchase with or without VAT
+    :fullname: t3_489at4
+    :url: https://www.reddit.com/r/gamedev/comments/489at4/google_play_in_app_purchase_with_or_without_vat/
+    :created: 1456764279.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 4
+    :comments: 5
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: 'Made a quick prototype of a game can I get some feedback on it '
+    :fullname: t3_48e5y7
+    :url: https://www.reddit.com/r/gamedev/comments/48e5y7/made_a_quick_prototype_of_a_game_can_i_get_some/
+    :created: 1456830116.0
+    :editd: false
+    :author_flair:
+      :text: " tinfoilboyv3"
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 2
+    :comments: 3
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Good way to start game development or meeting other potential devs '
+    :fullname: t3_48d7yt
+    :url: https://www.reddit.com/r/gamedev/comments/48d7yt/good_way_to_start_game_development_or_meeting/
+    :created: 1456816945.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 3
+    :comments: 0
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: 'JavaScript gamedev tutorial An elegant solution to achieving multiple
+      sprite sheet animations using the same sprite object instance '
+    :fullname: t3_48bugi
+    :url: https://www.reddit.com/r/gamedev/comments/48bugi/javascript_gamedev_tutorial_an_elegant_solution/
+    :created: 1456802064.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 3
+    :comments: 7
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: HTML5 Cross platform Engine Considerations
+    :fullname: t3_48btzm
+    :url: https://www.reddit.com/r/gamedev/comments/48btzm/html5_crossplatform_engine_considerations/
+    :created: 1456801916.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 3
+    :comments: 1
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Useful Hardware Tools for Games Design
+    :fullname: t3_48bes3
+    :url: https://www.reddit.com/r/gamedev/comments/48bes3/useful_hardware_tools_for_games_design/
+    :created: 1456796903.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 3
+    :comments: 2
+    :category: Survey
+    :category_css: survey cat-talk
+    :gilded: 0
+  :info:
+    :title: Developer s Questionnaire
+    :fullname: t3_489o07
+    :url: https://www.reddit.com/r/gamedev/comments/489o07/developers_questionnaire/
+    :created: 1456771839.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Survey
+      :css: survey cat-talk
+- :stats:
+    :score: 3
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Is KryoNet still good to use '
+    :fullname: t3_489fiu
+    :url: https://www.reddit.com/r/gamedev/comments/489fiu/is_kryonet_still_good_to_use/
+    :created: 1456766999.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 4
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Asset hierarchies a few complex ones many simple items or '
+    :fullname: t3_48el1s
+    :url: https://www.reddit.com/r/gamedev/comments/48el1s/asset_hierarchies_a_few_complex_ones_many_simple/
+    :created: 1456836441.0
+    :editd: 1456808250.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 0
+    :category: Gamejam
+    :category_css: gamejam cat-event
+    :gilded: 0
+  :info:
+    :title: Calling All Developers for a VR Game Jam
+    :fullname: t3_48dnh8
+    :url: https://www.reddit.com/r/gamedev/comments/48dnh8/calling_all_developers_for_a_vr_game_jam/
+    :created: 1456822945.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Gamejam
+      :css: gamejam cat-event
+- :stats:
+    :score: 2
+    :comments: 0
+    :category: Announcement
+    :category_css: announcement cat-event
+    :gilded: 0
+  :info:
+    :title: 'Game Art Challenge We ve got cool prizes '
+    :fullname: t3_48dm42
+    :url: https://www.reddit.com/r/gamedev/comments/48dm42/game_art_challenge_weve_got_cool_prizes/
+    :created: 1456822438.0
+    :editd: false
+    :author_flair:
+      :text: ThomasP
+    :link_flair:
+      :text: Announcement
+      :css: announcement cat-event
+- :stats:
+    :score: 1
+    :comments: 2
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: She Builds Games Sharing thought provoking stories of real women game
+      developers to inspire the next generation
+    :fullname: t3_48coq0
+    :url: https://www.reddit.com/r/gamedev/comments/48coq0/she_builds_games_sharing_thoughtprovoking_stories/
+    :created: 1456811131.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 2
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Texture mapping onto 2D shapes
+    :fullname: t3_48bwpm
+    :url: https://www.reddit.com/r/gamedev/comments/48bwpm/texture_mapping_onto_2d_shapes/
+    :created: 1456802802.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 2
+    :comments: 2
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Reasonably mature options for turn based multi player game '
+    :fullname: t3_48ahzc
+    :url: https://www.reddit.com/r/gamedev/comments/48ahzc/reasonably_mature_options_for_turnbased/
+    :created: 1456785817.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 2
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Calculate distance of a point to an ellipse which is orientated in 3D
+      Space '
+    :fullname: t3_48abxk
+    :url: https://www.reddit.com/r/gamedev/comments/48abxk/calculate_distance_of_a_point_to_an_ellipse_which/
+    :created: 1456783428.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 3
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Looking for opinions on starting dev on a mobile game or PC console game
+      first or both '
+    :fullname: t3_48ecmt
+    :url: https://www.reddit.com/r/gamedev/comments/48ecmt/looking_for_opinions_on_starting_dev_on_a_mobile/
+    :created: 1456832853.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 3
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Looking for a very simple music maker
+    :fullname: t3_48dzj4
+    :url: https://www.reddit.com/r/gamedev/comments/48dzj4/looking_for_a_very_simple_music_maker/
+    :created: 1456827598.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 5
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Itch io Payout Percentage
+    :fullname: t3_48dv81
+    :url: https://www.reddit.com/r/gamedev/comments/48dv81/itchio_payout_percentage/
+    :created: 1456825894.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 5
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How do I pick a game engine '
+    :fullname: t3_48drpa
+    :url: https://www.reddit.com/r/gamedev/comments/48drpa/how_do_i_pick_a_game_engine/
+    :created: 1456824536.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 3
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How does this wheel turn in this 2 5 D world '
+    :fullname: t3_48cua6
+    :url: https://www.reddit.com/r/gamedev/comments/48cua6/how_does_this_wheel_turn_in_this_25d_world/
+    :created: 1456812549.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 9
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'What kind of gamedev tutorials are sought after that you would love to
+      see in current day and age A question by an unknown tutorial writer who wants
+      to find a good gamedev subject to cover '
+    :fullname: t3_48cjrg
+    :url: https://www.reddit.com/r/gamedev/comments/48cjrg/what_kind_of_gamedev_tutorials_are_sought_after/
+    :created: 1456809488.0
+    :editd: 1456780901.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 10
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How much would it cost to make a browser based isometric view MMO Facebook
+      game if I wanted to invest in such a project '
+    :fullname: t3_48cczp
+    :url: https://www.reddit.com/r/gamedev/comments/48cczp/how_much_would_it_cost_to_make_a_browser_based/
+    :created: 1456807441.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 3
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'What are the best sites to get your game reviewed by '
+    :fullname: t3_48bvwe
+    :url: https://www.reddit.com/r/gamedev/comments/48bvwe/what_are_the_best_sites_to_get_your_game_reviewed/
+    :created: 1456802540.0
+    :editd: false
+    :author_flair:
+      :text: CodeWrangler
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 5
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Will all games eventually make a profit '
+    :fullname: t3_48dxyz
+    :url: https://www.reddit.com/r/gamedev/comments/48dxyz/will_all_games_eventually_make_a_profit/
+    :created: 1456826961.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Music For Programming '
+    :fullname: t3_48dg32
+    :url: https://www.reddit.com/r/gamedev/comments/48dg32/music_for_programming/
+    :created: 1456820161.0
+    :editd: 1456791681.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 6
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Where to start '
+    :fullname: t3_48av57
+    :url: https://www.reddit.com/r/gamedev/comments/48av57/where_to_start/
+    :created: 1456790397.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 0
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Any comipo users on here '
+    :fullname: t3_48ckef
+    :url: https://www.reddit.com/r/gamedev/comments/48ckef/any_comipo_users_on_here/
+    :created: 1456809693.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 10
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: School interview help anyone who works on games
+    :fullname: t3_48cdwz
+    :url: https://www.reddit.com/r/gamedev/comments/48cdwz/school_interview_help_anyone_who_works_on_games/
+    :created: 1456807682.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
