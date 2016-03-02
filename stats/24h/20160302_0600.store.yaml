@@ -1,0 +1,944 @@
+---
+:meta:
+  :time_utc: 2016-03-02 06:00:09 UTC
+  :time_local: '2016-03-01 22:00:09 -0800'
+  :label: :24h
+  :period: :day
+:stats:
+  :general:
+    :scores:
+      :min: 0
+      :q1: 1.0
+      :q2: 4.0
+      :q3: 8.0
+      :max: 213
+      :mean: 11.333333333333334
+      :sum: 510.0
+    :comments:
+      :min: 0
+      :q1: 2.0
+      :q2: 5.0
+      :q3: 9.0
+      :max: 77
+      :mean: 8.577777777777778
+      :sum: 386.0
+    :count: 45
+  :by_category:
+    Feedback:
+      :scores:
+        :min: 1
+        :q1: 2.25
+        :q2: 3.0
+        :q3: 5.25
+        :max: 213
+        :mean: 38.0
+        :sum: 228.0
+      :comments:
+        :min: 2
+        :q1: 5.25
+        :q2: 6.5
+        :q3: 19.0
+        :max: 77
+        :mean: 20.0
+        :sum: 120.0
+      :count: 6
+    Article/Video:
+      :scores:
+        :min: 1
+        :q1: 1.75
+        :q2: 5.0
+        :q3: 14.25
+        :max: 32
+        :mean: 10.166666666666666
+        :sum: 61.0
+      :comments:
+        :min: 0
+        :q1: 0.0
+        :q2: 4.0
+        :q3: 8.75
+        :max: 10
+        :mean: 4.5
+        :sum: 27.0
+      :count: 6
+    Question:
+      :scores:
+        :min: 0
+        :q1: 1.0
+        :q2: 1.0
+        :q3: 8.0
+        :max: 27
+        :mean: 7.0
+        :sum: 119.0
+      :comments:
+        :min: 1
+        :q1: 4.0
+        :q2: 6.0
+        :q3: 9.0
+        :max: 62
+        :mean: 9.882352941176471
+        :sum: 168.0
+      :count: 17
+    ! '':
+      :scores:
+        :min: 0
+        :q1: 3.0
+        :q2: 4.0
+        :q3: 7.5
+        :max: 22
+        :mean: 7.0
+        :sum: 77.0
+      :comments:
+        :min: 0
+        :q1: 0.5
+        :q2: 2.0
+        :q3: 5.0
+        :max: 10
+        :mean: 3.090909090909091
+        :sum: 34.0
+      :count: 11
+    Meta:
+      :scores:
+        :min: 9
+        :q1: 9.0
+        :q2: 9.0
+        :q3: 9.0
+        :max: 9
+        :mean: 9.0
+        :sum: 9.0
+      :comments:
+        :min: 13
+        :q1: 13.0
+        :q2: 13.0
+        :q3: 13.0
+        :max: 13
+        :mean: 13.0
+        :sum: 13.0
+      :count: 1
+    Resource:
+      :scores:
+        :min: 7
+        :q1: 7.0
+        :q2: 7.0
+        :q3: 7.0
+        :max: 7
+        :mean: 7.0
+        :sum: 7.0
+      :comments:
+        :min: 2
+        :q1: 2.0
+        :q2: 2.0
+        :q3: 2.0
+        :max: 2
+        :mean: 2.0
+        :sum: 2.0
+      :count: 1
+    Announcement:
+      :scores:
+        :min: 6
+        :q1: 6.0
+        :q2: 6.0
+        :q3: 6.0
+        :max: 6
+        :mean: 6.0
+        :sum: 6.0
+      :comments:
+        :min: 3
+        :q1: 3.0
+        :q2: 3.0
+        :q3: 3.0
+        :max: 3
+        :mean: 3.0
+        :sum: 3.0
+      :count: 1
+    Discussion:
+      :scores:
+        :min: 0
+        :q1: 0.75
+        :q2: 1.5
+        :q3: 2.25
+        :max: 3
+        :mean: 1.5
+        :sum: 3.0
+      :comments:
+        :min: 4
+        :q1: 6.75
+        :q2: 9.5
+        :q3: 12.25
+        :max: 15
+        :mean: 9.5
+        :sum: 19.0
+      :count: 2
+:data:
+- :stats:
+    :score: 213
+    :comments: 77
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: Experiment Incorporating Machine Learning AI in Games
+    :fullname: t3_48gmhe
+    :url: https://www.reddit.com/r/gamedev/comments/48gmhe/experiment_incorporating_machine_learning_ai_in/
+    :created: 1456870677.0
+    :editd: 1456847076.0
+    :author_flair:
+      :text: " AquasarusWhite"
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 32
+    :comments: 9
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: NVIDIA Intel Unity Samsung and Imagination graphics experts debate Vulkan
+    :fullname: t3_48gq5e
+    :url: https://www.reddit.com/r/gamedev/comments/48gq5e/nvidia_intel_unity_samsung_and_imagination/
+    :created: 1456871880.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 23
+    :comments: 6
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Help with Java Game Development
+    :fullname: t3_48f9ep
+    :url: https://www.reddit.com/r/gamedev/comments/48f9ep/help_with_java_game_development/
+    :created: 1456848789.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 27
+    :comments: 62
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Accepting the fact that there is NO perfect code '
+    :fullname: t3_48i86r
+    :url: https://www.reddit.com/r/gamedev/comments/48i86r/accepting_the_fact_that_there_is_no_perfect_code/
+    :created: 1456890260.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 23
+    :comments: 17
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Resolution Independent Programming via Texture Streaming using SDL 2
+    :fullname: t3_48fsot
+    :url: https://www.reddit.com/r/gamedev/comments/48fsot/resolution_independent_programming_via_texture/
+    :created: 1456859931.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 22
+    :comments: 10
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: '4th Year Indie Retro From not even knowing how to program to taking my
+      biggest risk yet on 8th game '
+    :fullname: t3_48ibel
+    :url: https://www.reddit.com/r/gamedev/comments/48ibel/4th_year_indie_retro_from_not_even_knowing_how_to/
+    :created: 1456891396.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 21
+    :comments: 7
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Game Postmortems
+    :fullname: t3_48fthj
+    :url: https://www.reddit.com/r/gamedev/comments/48fthj/game_postmortems/
+    :created: 1456860398.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 17
+    :comments: 0
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Wot I learned Ways to make your game look FUN and play FUN Listicle for
+      Game Feel Juice techniques
+    :fullname: t3_48ihnv
+    :url: https://www.reddit.com/r/gamedev/comments/48ihnv/wot_i_learned_ways_to_make_your_game_look_fun_and/
+    :created: 1456893624.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 21
+    :comments: 6
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Mechanically Speaking A video about what goes into making a character
+      jump in 2 D video games
+    :fullname: t3_48jslu
+    :url: https://www.reddit.com/r/gamedev/comments/48jslu/mechanically_speaking_a_video_about_what_goes/
+    :created: 1456911228.0
+    :editd: false
+    :author_flair:
+      :text: " gamearray"
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 9
+    :comments: 13
+    :category: Meta
+    :category_css: meta cat-talk
+    :gilded: 0
+  :info:
+    :title: " r gamedev moderation v3 Suggestion Box "
+    :fullname: t3_48f4ix
+    :url: https://www.reddit.com/r/gamedev/comments/48f4ix/rgamedev_moderation_v3_suggestion_box/
+    :created: 1456845868.0
+    :editd: false
+    :author_flair:
+      :text: " lemtzas"
+    :link_flair:
+      :text: Meta
+      :css: meta cat-talk
+- :stats:
+    :score: 8
+    :comments: 8
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Need some help getting back into Game Design '
+    :fullname: t3_48gmf3
+    :url: https://www.reddit.com/r/gamedev/comments/48gmf3/need_some_help_getting_back_into_game_design/
+    :created: 1456870659.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 7
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Devs Connecting at GDC 2016
+    :fullname: t3_48iy48
+    :url: https://www.reddit.com/r/gamedev/comments/48iy48/devs_connecting_at_gdc_2016/
+    :created: 1456899426.0
+    :editd: false
+    :author_flair:
+      :text: 'Dejobaan Games '
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 7
+    :comments: 2
+    :category: Resource
+    :category_css: resource cat-resource
+    :gilded: 0
+  :info:
+    :title: Open Adaptive Music Library
+    :fullname: t3_48hdt9
+    :url: https://www.reddit.com/r/gamedev/comments/48hdt9/open_adaptive_music_library/
+    :created: 1456880212.0
+    :editd: 1456876104.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Resource
+      :css: resource cat-resource
+- :stats:
+    :score: 6
+    :comments: 10
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Cocos Creator Released Today
+    :fullname: t3_48iavb
+    :url: https://www.reddit.com/r/gamedev/comments/48iavb/cocos_creator_released_today/
+    :created: 1456891206.0
+    :editd: 1456886703.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 6
+    :comments: 6
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: Just launched my 1st Kickstarter campaign for my mobile game AMA
+    :fullname: t3_48h5vd
+    :url: https://www.reddit.com/r/gamedev/comments/48h5vd/just_launched_my_1st_kickstarter_campaign_for_my/
+    :created: 1456877528.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 4
+    :comments: 3
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Libgdx vs Monogame and other multiplatform desktop targeting engines '
+    :fullname: t3_48jxwo
+    :url: https://www.reddit.com/r/gamedev/comments/48jxwo/libgdx_vs_monogame_and_other_multiplatform/
+    :created: 1456913310.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 8
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'FYI JetBrains is sending out early access download links to Rider Cross
+      platform C IDE '
+    :fullname: t3_48imug
+    :url: https://www.reddit.com/r/gamedev/comments/48imug/fyi_jetbrains_is_sending_out_early_access/
+    :created: 1456895516.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 6
+    :comments: 3
+    :category: Announcement
+    :category_css: announcement cat-event
+    :gilded: 0
+  :info:
+    :title: 'Come post your game s trailer at r playmygame for Trailer Tuesday '
+    :fullname: t3_48ijjm
+    :url: https://www.reddit.com/r/gamedev/comments/48ijjm/come_post_your_games_trailer_at_rplaymygame_for/
+    :created: 1456894309.0
+    :editd: false
+    :author_flair:
+      :text: " ReflextionsDev com r playmygame reflextionsofic "
+    :link_flair:
+      :text: Announcement
+      :css: announcement cat-event
+- :stats:
+    :score: 4
+    :comments: 4
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: A couch surfing platform for the games industry to help out the smaller
+      budgets of indie developers and bring people closer together
+    :fullname: t3_48i8ag
+    :url: https://www.reddit.com/r/gamedev/comments/48i8ag/a_couch_surfing_platform_for_the_games_industry/
+    :created: 1456890297.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 4
+    :comments: 8
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: 'Exploring procedurally generated ant tunnels x post from r Unity3d '
+    :fullname: t3_48h1dr
+    :url: https://www.reddit.com/r/gamedev/comments/48h1dr/exploring_procedurallygenerated_ant_tunnels_xpost/
+    :created: 1456876018.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 3
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Dedicated site to connect indies Task searches now supported
+    :fullname: t3_48ggyo
+    :url: https://www.reddit.com/r/gamedev/comments/48ggyo/dedicated_site_to_connect_indies_task_searches/
+    :created: 1456868944.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 5
+    :comments: 8
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Best practices for getting into PC game development '
+    :fullname: t3_48i5y0
+    :url: https://www.reddit.com/r/gamedev/comments/48i5y0/best_practices_for_getting_into_pc_game/
+    :created: 1456889454.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 4
+    :comments: 9
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Sites and forums to post daily progress
+    :fullname: t3_48fr7z
+    :url: https://www.reddit.com/r/gamedev/comments/48fr7z/sites_and_forums_to_post_daily_progress/
+    :created: 1456859082.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 3
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: " Ancient Go First Steam Go Client Once Per Game Announcement UE4 C TCP
+      ASIO w TLS"
+    :fullname: t3_48jht6
+    :url: https://www.reddit.com/r/gamedev/comments/48jht6/ancient_go_first_steam_go_client_oncepergame/
+    :created: 1456906841.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 4
+    :comments: 6
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Sub traction my first completed project link in comments '
+    :fullname: t3_48jdlc
+    :url: https://www.reddit.com/r/gamedev/comments/48jdlc/subtraction_my_first_completed_project_link_in/
+    :created: 1456905189.0
+    :editd: 1456876903.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 3
+    :comments: 7
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: 'Can I get some feedback on my music '
+    :fullname: t3_48iaxe
+    :url: https://www.reddit.com/r/gamedev/comments/48iaxe/can_i_get_some_feedback_on_my_music/
+    :created: 1456891224.0
+    :editd: 1456862789.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 3
+    :comments: 2
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: 'I m struggling with marketing and my store page Help Feedback '
+    :fullname: t3_48h7g7
+    :url: https://www.reddit.com/r/gamedev/comments/48h7g7/im_struggling_with_marketing_and_my_store_page/
+    :created: 1456878086.0
+    :editd: false
+    :author_flair:
+      :text: CodeWrangler
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 1
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Is VR Dev limited for only static gameplay '
+    :fullname: t3_48iq4k
+    :url: https://www.reddit.com/r/gamedev/comments/48iq4k/is_vr_dev_limited_for_only_static_gameplay/
+    :created: 1456896661.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 2
+    :comments: 1
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Questions about hire ability old content and college degrees
+    :fullname: t3_48ins3
+    :url: https://www.reddit.com/r/gamedev/comments/48ins3/questions_about_hireability_old_content_and/
+    :created: 1456895843.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 3
+    :comments: 15
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'Question How did you get started '
+    :fullname: t3_48i0h6
+    :url: https://www.reddit.com/r/gamedev/comments/48i0h6/question_how_did_you_get_started/
+    :created: 1456887576.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 2
+    :comments: 5
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: feedback on Growth Clicker my February challenge inspired by Curiosity
+    :fullname: t3_48hy87
+    :url: https://www.reddit.com/r/gamedev/comments/48hy87/feedback_on_growth_clicker_my_february_challenge/
+    :created: 1456886855.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Looking to buy UI Audio Collection Natural not Synthetic
+    :fullname: t3_48ju1d
+    :url: https://www.reddit.com/r/gamedev/comments/48ju1d/looking_to_buy_ui_audio_collection_natural_not/
+    :created: 1456911788.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 5
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How does Unity exports to other platforms '
+    :fullname: t3_48izj0
+    :url: https://www.reddit.com/r/gamedev/comments/48izj0/how_does_unity_exports_to_other_platforms/
+    :created: 1456899955.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Creating a Tactical RPG with Construct 2
+    :fullname: t3_48io8y
+    :url: https://www.reddit.com/r/gamedev/comments/48io8y/creating_a_tactical_rpg_with_construct_2/
+    :created: 1456895999.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 1
+    :comments: 1
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Development Logs Blogs
+    :fullname: t3_48ibvh
+    :url: https://www.reddit.com/r/gamedev/comments/48ibvh/development_logs_blogs/
+    :created: 1456891569.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 19
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Is this a good Unity course For 50 it seems like a lot but any outside
+      opinions would be great Or alternate suggestions '
+    :fullname: t3_48i0a1
+    :url: https://www.reddit.com/r/gamedev/comments/48i0a1/is_this_a_good_unity_course_for_50_it_seems_like/
+    :created: 1456887506.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 23
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: 2D Platforming Rougelike Control Scheme
+    :fullname: t3_48h393
+    :url: https://www.reddit.com/r/gamedev/comments/48h393/2d_platforming_rougelike_control_scheme/
+    :created: 1456876683.0
+    :editd: 1456850528.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 1
+    :comments: 1
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Physics and collision detection libraries for a 3D game in Cocos2D X
+    :fullname: t3_48gf8a
+    :url: https://www.reddit.com/r/gamedev/comments/48gf8a/physics_and_collision_detection_libraries_for_a/
+    :created: 1456868286.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Case Study part 2 The Four P s of Marketing
+    :fullname: t3_48g2qk
+    :url: https://www.reddit.com/r/gamedev/comments/48g2qk/case_study_part_2_the_four_ps_of_marketing/
+    :created: 1456864407.0
+    :editd: false
+    :author_flair:
+      :text: Marketing gamedevmarketer
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 1
+    :comments: 5
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'In OpenFL how can you get a game to rescale to a different resolution
+      from the one that it is built to '
+    :fullname: t3_48fqiy
+    :url: https://www.reddit.com/r/gamedev/comments/48fqiy/in_openfl_how_can_you_get_a_game_to_rescale_to_a/
+    :created: 1456858666.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 4
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: Cross promoting from an HTML5 demo to a native Android iOS game
+    :fullname: t3_48gnq7
+    :url: https://www.reddit.com/r/gamedev/comments/48gnq7/cross_promoting_from_an_html5_demo_to_a_native/
+    :created: 1456871052.0
+    :editd: false
+    :author_flair:
+      :text: " frozenfractal"
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 0
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'List of android iOS publisher that publish paid games '
+    :fullname: t3_48gdi5
+    :url: https://www.reddit.com/r/gamedev/comments/48gdi5/list_of_androidios_publisher_that_publish_paid/
+    :created: 1456867535.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: " Clone Video Games"
+    :fullname: t3_48gozw
+    :url: https://www.reddit.com/r/gamedev/comments/48gozw/clone_video_games/
+    :created: 1456871456.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 10
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Which engine should I go with '
+    :fullname: t3_48f83m
+    :url: https://www.reddit.com/r/gamedev/comments/48f83m/which_engine_should_i_go_with/
+    :created: 1456847970.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 1
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Need to code a single Megaman NES game level using C XNA Where do I start '
+    :fullname: t3_48ii0j
+    :url: https://www.reddit.com/r/gamedev/comments/48ii0j/need_to_code_a_single_megaman_nes_game_level/
+    :created: 1456893754.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
