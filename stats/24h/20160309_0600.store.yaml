@@ -1,0 +1,737 @@
+---
+:meta:
+  :time_utc: 2016-03-09 06:00:05 UTC
+  :time_local: '2016-03-08 22:00:05 -0800'
+  :label: :24h
+  :period: :day
+:stats:
+  :general:
+    :scores:
+      :min: 0
+      :q1: 3.0
+      :q2: 7.0
+      :q3: 13.0
+      :max: 153
+      :mean: 16.142857142857142
+      :sum: 565.0
+    :comments:
+      :min: 0
+      :q1: 2.0
+      :q2: 8.0
+      :q3: 11.0
+      :max: 33
+      :mean: 9.628571428571428
+      :sum: 337.0
+    :count: 35
+  :by_category:
+    Article/Video:
+      :scores:
+        :min: 1
+        :q1: 8.75
+        :q2: 22.0
+        :q3: 43.5
+        :max: 153
+        :mean: 42.166666666666664
+        :sum: 253.0
+      :comments:
+        :min: 1
+        :q1: 3.75
+        :q2: 10.0
+        :q3: 25.25
+        :max: 33
+        :mean: 14.333333333333334
+        :sum: 86.0
+      :count: 6
+    ! '':
+      :scores:
+        :min: 0
+        :q1: 3.5
+        :q2: 8.0
+        :q3: 12.5
+        :max: 64
+        :mean: 14.5
+        :sum: 116.0
+      :comments:
+        :min: 0
+        :q1: 1.5
+        :q2: 6.5
+        :q3: 15.5
+        :max: 32
+        :mean: 10.875
+        :sum: 87.0
+      :count: 8
+    Discussion:
+      :scores:
+        :min: 3
+        :q1: 17.5
+        :q2: 32.0
+        :q3: 46.5
+        :max: 61
+        :mean: 32.0
+        :sum: 64.0
+      :comments:
+        :min: 0
+        :q1: 6.0
+        :q2: 12.0
+        :q3: 18.0
+        :max: 24
+        :mean: 12.0
+        :sum: 24.0
+      :count: 2
+    Feedback:
+      :scores:
+        :min: 3
+        :q1: 4.0
+        :q2: 5.0
+        :q3: 16.0
+        :max: 27
+        :mean: 11.666666666666666
+        :sum: 35.0
+      :comments:
+        :min: 0
+        :q1: 1.0
+        :q2: 2.0
+        :q3: 6.0
+        :max: 10
+        :mean: 4.0
+        :sum: 12.0
+      :count: 3
+    Question:
+      :scores:
+        :min: 0
+        :q1: 2.5
+        :q2: 5.0
+        :q3: 7.5
+        :max: 19
+        :mean: 5.733333333333333
+        :sum: 86.0
+      :comments:
+        :min: 0
+        :q1: 4.0
+        :q2: 7.0
+        :q3: 11.0
+        :max: 18
+        :mean: 8.0
+        :sum: 120.0
+      :count: 15
+    Announcement:
+      :scores:
+        :min: 11
+        :q1: 11.0
+        :q2: 11.0
+        :q3: 11.0
+        :max: 11
+        :mean: 11.0
+        :sum: 11.0
+      :comments:
+        :min: 8
+        :q1: 8.0
+        :q2: 8.0
+        :q3: 8.0
+        :max: 8
+        :mean: 8.0
+        :sum: 8.0
+      :count: 1
+:data:
+- :stats:
+    :score: 153
+    :comments: 33
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Starting Your Own Game Development Studio One Year On
+    :fullname: t3_49i0g3
+    :url: https://www.reddit.com/r/gamedev/comments/49i0g3/starting_your_own_game_development_studio_one/
+    :created: 1457463725.0
+    :editd: 1457458548.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 64
+    :comments: 32
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Pro Bono Voice Acting For You From Me '
+    :fullname: t3_49kvja
+    :url: https://www.reddit.com/r/gamedev/comments/49kvja/pro_bono_voice_acting_for_you_from_me/
+    :created: 1457503900.0
+    :editd: false
+    :author_flair:
+      :text: http youtube com mookiemorjax
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 61
+    :comments: 24
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: Objective Draw the most number of moving objects in Unity
+    :fullname: t3_49i6cx
+    :url: https://www.reddit.com/r/gamedev/comments/49i6cx/objective_draw_the_most_number_of_moving_objects/
+    :created: 1457467082.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 48
+    :comments: 9
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: 'A bit of encouragement for everyone '
+    :fullname: t3_49kgya
+    :url: https://www.reddit.com/r/gamedev/comments/49kgya/a_bit_of_encouragement_for_everyone/
+    :created: 1457498607.0
+    :editd: 1457474351.0
+    :author_flair:
+      :text: " ZebMcN"
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 30
+    :comments: 30
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Time Management for Indie Game Devs
+    :fullname: t3_49hrz4
+    :url: https://www.reddit.com/r/gamedev/comments/49hrz4/time_management_for_indie_game_devs/
+    :created: 1457458480.0
+    :editd: false
+    :author_flair:
+      :text: " in2gpu"
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 27
+    :comments: 10
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: Low Poly Nature Pack
+    :fullname: t3_49hu9i
+    :url: https://www.reddit.com/r/gamedev/comments/49hu9i/low_poly_nature_pack/
+    :created: 1457459907.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 19
+    :comments: 17
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'I struggle a lot with animations when I draw them some parts look squishy
+      and change shapes in it any way to keep the animations shapes consistant '
+    :fullname: t3_49gwdr
+    :url: https://www.reddit.com/r/gamedev/comments/49gwdr/i_struggle_a_lot_with_animations_when_i_draw_them/
+    :created: 1457442337.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 20
+    :comments: 29
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: A Crowdfunding platform strictly for indie developers has been launched
+    :fullname: t3_49jqub
+    :url: https://www.reddit.com/r/gamedev/comments/49jqub/a_crowdfunding_platform_strictly_for_indie/
+    :created: 1457489711.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 14
+    :comments: 11
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Desolus Creating an Ambitious Game as a Solo Developer
+    :fullname: t3_49jbf8
+    :url: https://www.reddit.com/r/gamedev/comments/49jbf8/desolus_creating_an_ambitious_game_as_a_solo/
+    :created: 1457484313.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 10
+    :comments: 11
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'How do you guys deal with negative reception '
+    :fullname: t3_49kzxy
+    :url: https://www.reddit.com/r/gamedev/comments/49kzxy/how_do_you_guys_deal_with_negative_reception/
+    :created: 1457505490.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 11
+    :comments: 8
+    :category: Announcement
+    :category_css: announcement cat-event
+    :gilded: 0
+  :info:
+    :title: Dedicated site to connect indies The site is now completely open
+    :fullname: t3_49ilax
+    :url: https://www.reddit.com/r/gamedev/comments/49ilax/dedicated_site_to_connect_indies_the_site_is_now/
+    :created: 1457474299.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Announcement
+      :css: announcement cat-event
+- :stats:
+    :score: 11
+    :comments: 14
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Thoughts on The Best RPG Progression Mechanic And Your Examples '
+    :fullname: t3_49kech
+    :url: https://www.reddit.com/r/gamedev/comments/49kech/thoughts_on_the_best_rpg_progression_mechanic_and/
+    :created: 1457497738.0
+    :editd: false
+    :author_flair:
+      :text: http youtube com mookiemorjax
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 12
+    :comments: 11
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Comparing graduate schools in game development FIEA DigiPen and USC
+    :fullname: t3_49jicn
+    :url: https://www.reddit.com/r/gamedev/comments/49jicn/comparing_graduate_schools_in_game_development/
+    :created: 1457486743.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 8
+    :comments: 4
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Creating a new RPG Online similar to Medabots custom bots battles '
+    :fullname: t3_49jtr4
+    :url: https://www.reddit.com/r/gamedev/comments/49jtr4/creating_a_new_rpg_online_similar_to_medabots/
+    :created: 1457490724.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 8
+    :comments: 9
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Stardew valley developed using what tools frameworks '
+    :fullname: t3_49jt1a
+    :url: https://www.reddit.com/r/gamedev/comments/49jt1a/stardew_valley_developed_using_what/
+    :created: 1457490476.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 8
+    :comments: 7
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Proper attribution of code snippets
+    :fullname: t3_49j0m0
+    :url: https://www.reddit.com/r/gamedev/comments/49j0m0/proper_attribution_of_code_snippets/
+    :created: 1457480447.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 7
+    :comments: 18
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'First Big Project or the Dream '
+    :fullname: t3_49j3z3
+    :url: https://www.reddit.com/r/gamedev/comments/49j3z3/first_big_project_or_the_dream/
+    :created: 1457481660.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 7
+    :comments: 2
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: 'I m writing a blog about game design based on the game I m currently
+      working on Wanna check it out '
+    :fullname: t3_49j066
+    :url: https://www.reddit.com/r/gamedev/comments/49j066/im_writing_a_blog_about_game_design_based_on_the/
+    :created: 1457480286.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 5
+    :comments: 2
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: 'Rising Islands Gameplay Teaser would like to spread the word and know
+      what people think '
+    :fullname: t3_49jox5
+    :url: https://www.reddit.com/r/gamedev/comments/49jox5/rising_islands_gameplay_teaser_would_like_to/
+    :created: 1457489033.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 6
+    :comments: 11
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'I m about to start my first non game jam project I d like to try to have
+      it Greenlit on steam or sold on somewhere like itch io Is this realistic feasible
+      if I were to use libGDX or should I learn a new technology like Unity '
+    :fullname: t3_49ilzf
+    :url: https://www.reddit.com/r/gamedev/comments/49ilzf/im_about_to_start_my_first_nongamejam_project_id/
+    :created: 1457474576.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 5
+    :comments: 10
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Can I use a similar name to a celebritys in my game
+    :fullname: t3_49iwoa
+    :url: https://www.reddit.com/r/gamedev/comments/49iwoa/can_i_use_a_similar_name_to_a_celebritys_in_my/
+    :created: 1457478948.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 3
+    :comments: 0
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: 'First demo of my Earthbound esque RPG game '
+    :fullname: t3_49m0pr
+    :url: https://www.reddit.com/r/gamedev/comments/49m0pr/first_demo_of_my_earthboundesque_rpg_game/
+    :created: 1457520416.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 3
+    :comments: 0
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: The Vertex Whisperer Mini ish Gamedev Log 2
+    :fullname: t3_49lysk
+    :url: https://www.reddit.com/r/gamedev/comments/49lysk/the_vertex_whisperer_miniish_gamedev_log_2/
+    :created: 1457519620.0
+    :editd: false
+    :author_flair:
+      :text: http www elysrealm com blog
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 5
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Is there a name for the 2D animation style being used in a few recent
+      games '
+    :fullname: t3_49kcly
+    :url: https://www.reddit.com/r/gamedev/comments/49kcly/is_there_a_name_for_the_2d_animation_style_being/
+    :created: 1457497144.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 3
+    :comments: 10
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Which kind of game could be a worthy equivalent to literary short stories
+      in terms of length '
+    :fullname: t3_49it1j
+    :url: https://www.reddit.com/r/gamedev/comments/49it1j/which_kind_of_game_could_be_a_worthy_equivalent/
+    :created: 1457477520.0
+    :editd: 1457449073.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 3
+    :comments: 2
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Is repeating the same project game a good way learn '
+    :fullname: t3_49mg8y
+    :url: https://www.reddit.com/r/gamedev/comments/49mg8y/is_repeating_the_same_projectgame_a_good_way_learn/
+    :created: 1457527165.0
+    :editd: 1457498635.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Research project questions about game development
+    :fullname: t3_49mdgj
+    :url: https://www.reddit.com/r/gamedev/comments/49mdgj/research_project_questions_about_game_development/
+    :created: 1457525978.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 2
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'How long do you wait to look at reviews for your game view the analytics '
+    :fullname: t3_49m9gn
+    :url: https://www.reddit.com/r/gamedev/comments/49m9gn/how_long_do_you_wait_to_look_at_reviews_for_your/
+    :created: 1457524125.0
+    :editd: 1457501645.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 4
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Platformer where you can t jump '
+    :fullname: t3_49m41d
+    :url: https://www.reddit.com/r/gamedev/comments/49m41d/platformer_where_you_cant_jump/
+    :created: 1457521859.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'To use a database or PHP files '
+    :fullname: t3_49lo1x
+    :url: https://www.reddit.com/r/gamedev/comments/49lo1x/to_use_a_database_or_php_files/
+    :created: 1457515218.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 1
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Get Started with Game Dev When You Don t Know How to Code
+    :fullname: t3_49khaz
+    :url: https://www.reddit.com/r/gamedev/comments/49khaz/get_started_with_game_dev_when_you_dont_know_how/
+    :created: 1457498729.0
+    :editd: false
+    :author_flair:
+      :text: A Dark Room iOS
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 1
+    :comments: 6
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Can anybody point me to useful up to date resources on animating armor '
+    :fullname: t3_49h6d1
+    :url: https://www.reddit.com/r/gamedev/comments/49h6d1/can_anybody_point_me_to_useful_uptodate_resources/
+    :created: 1457446559.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 3
+    :comments: 5
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'What s a good starting place for someone with some programming experience '
+    :fullname: t3_49l1mb
+    :url: https://www.reddit.com/r/gamedev/comments/49l1mb/whats_a_good_starting_place_for_someone_with_some/
+    :created: 1457506112.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Selling all access GDC pass
+    :fullname: t3_49k4ax
+    :url: https://www.reddit.com/r/gamedev/comments/49k4ax/selling_allaccess_gdc_pass/
+    :created: 1457494292.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 1
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Steam Greenlight Account and Advice
+    :fullname: t3_49l3ax
+    :url: https://www.reddit.com/r/gamedev/comments/49l3ax/steam_greenlight_account_and_advice/
+    :created: 1457506764.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
