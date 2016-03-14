@@ -1,0 +1,1046 @@
+---
+:meta:
+  :time_utc: 2016-03-14 05:00:05 UTC
+  :time_local: '2016-03-13 22:00:05 -0700'
+  :label: :24h
+  :period: :day
+:stats:
+  :general:
+    :scores:
+      :min: 0
+      :q1: 1.0
+      :q2: 4.0
+      :q3: 13.0
+      :max: 97
+      :mean: 12.89795918367347
+      :sum: 632.0
+    :comments:
+      :min: 0
+      :q1: 1.0
+      :q2: 4.0
+      :q3: 11.0
+      :max: 53
+      :mean: 9.571428571428571
+      :sum: 469.0
+    :count: 49
+  :by_category:
+    Release:
+      :scores:
+        :min: 97
+        :q1: 97.0
+        :q2: 97.0
+        :q3: 97.0
+        :max: 97
+        :mean: 97.0
+        :sum: 97.0
+      :comments:
+        :min: 46
+        :q1: 46.0
+        :q2: 46.0
+        :q3: 46.0
+        :max: 46
+        :mean: 46.0
+        :sum: 46.0
+      :count: 1
+    Technical:
+      :scores:
+        :min: 72
+        :q1: 72.0
+        :q2: 72.0
+        :q3: 72.0
+        :max: 72
+        :mean: 72.0
+        :sum: 72.0
+      :comments:
+        :min: 23
+        :q1: 23.0
+        :q2: 23.0
+        :q3: 23.0
+        :max: 23
+        :mean: 23.0
+        :sum: 23.0
+      :count: 1
+    ! '':
+      :scores:
+        :min: 0
+        :q1: 1.0
+        :q2: 3.0
+        :q3: 8.0
+        :max: 64
+        :mean: 8.16
+        :sum: 204.0
+      :comments:
+        :min: 0
+        :q1: 1.0
+        :q2: 5.0
+        :q3: 8.0
+        :max: 38
+        :mean: 7.28
+        :sum: 182.0
+      :count: 25
+    Question:
+      :scores:
+        :min: 1
+        :q1: 1.0
+        :q2: 3.0
+        :q3: 11.0
+        :max: 45
+        :mean: 9.785714285714286
+        :sum: 137.0
+      :comments:
+        :min: 0
+        :q1: 1.0
+        :q2: 2.5
+        :q3: 11.0
+        :max: 53
+        :mean: 11.071428571428571
+        :sum: 155.0
+      :count: 14
+    Assets:
+      :scores:
+        :min: 59
+        :q1: 59.0
+        :q2: 59.0
+        :q3: 59.0
+        :max: 59
+        :mean: 59.0
+        :sum: 59.0
+      :comments:
+        :min: 4
+        :q1: 4.0
+        :q2: 4.0
+        :q3: 4.0
+        :max: 4
+        :mean: 4.0
+        :sum: 4.0
+      :count: 1
+    Announcement:
+      :scores:
+        :min: 24
+        :q1: 24.0
+        :q2: 24.0
+        :q3: 24.0
+        :max: 24
+        :mean: 24.0
+        :sum: 24.0
+      :comments:
+        :min: 26
+        :q1: 26.0
+        :q2: 26.0
+        :q3: 26.0
+        :max: 26
+        :mean: 26.0
+        :sum: 26.0
+      :count: 1
+    Resource:
+      :scores:
+        :min: 0
+        :q1: 3.25
+        :q2: 6.5
+        :q3: 9.75
+        :max: 13
+        :mean: 6.5
+        :sum: 13.0
+      :comments:
+        :min: 0
+        :q1: 1.0
+        :q2: 2.0
+        :q3: 3.0
+        :max: 4
+        :mean: 2.0
+        :sum: 4.0
+      :count: 2
+    STS:
+      :scores:
+        :min: 13
+        :q1: 13.0
+        :q2: 13.0
+        :q3: 13.0
+        :max: 13
+        :mean: 13.0
+        :sum: 13.0
+      :comments:
+        :min: 23
+        :q1: 23.0
+        :q2: 23.0
+        :q3: 23.0
+        :max: 23
+        :mean: 23.0
+        :sum: 23.0
+      :count: 1
+    Showcase:
+      :scores:
+        :min: 7
+        :q1: 7.0
+        :q2: 7.0
+        :q3: 7.0
+        :max: 7
+        :mean: 7.0
+        :sum: 7.0
+      :comments:
+        :min: 2
+        :q1: 2.0
+        :q2: 2.0
+        :q3: 2.0
+        :max: 2
+        :mean: 2.0
+        :sum: 2.0
+      :count: 1
+    Article/Video:
+      :scores:
+        :min: 0
+        :q1: 1.5
+        :q2: 3.0
+        :q3: 4.5
+        :max: 6
+        :mean: 3.0
+        :sum: 6.0
+      :comments:
+        :min: 0
+        :q1: 1.0
+        :q2: 2.0
+        :q3: 3.0
+        :max: 4
+        :mean: 2.0
+        :sum: 4.0
+      :count: 2
+:data:
+- :stats:
+    :score: 97
+    :comments: 46
+    :category: Release
+    :category_css: release cat-game
+    :gilded: 0
+  :info:
+    :title: 'I dev d a game FlipStuff is out on Android and iOS '
+    :fullname: t3_4a8wnk
+    :url: https://www.reddit.com/r/gamedev/comments/4a8wnk/i_devd_a_game_flipstuff_is_out_on_android_and_ios/
+    :created: 1457915613.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Release
+      :css: release cat-game
+- :stats:
+    :score: 72
+    :comments: 23
+    :category: Technical
+    :category_css: technical cat-resource
+    :gilded: 0
+  :info:
+    :title: Pitfalls of Object Oriented Programming
+    :fullname: t3_4a80b9
+    :url: https://www.reddit.com/r/gamedev/comments/4a80b9/pitfalls_of_object_oriented_programming/
+    :created: 1457896077.0
+    :editd: false
+    :author_flair:
+      :text: " undefdev"
+    :link_flair:
+      :text: Technical
+      :css: technical cat-resource
+- :stats:
+    :score: 64
+    :comments: 11
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Free spaceship assets Made for a game I never finished '
+    :fullname: t3_4a811f
+    :url: https://www.reddit.com/r/gamedev/comments/4a811f/free_spaceship_assets_made_for_a_game_i_never/
+    :created: 1457896654.0
+    :editd: 1457908366.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 45
+    :comments: 31
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'I can t code but I d like to make a game '
+    :fullname: t3_4a8fm8
+    :url: https://www.reddit.com/r/gamedev/comments/4a8fm8/i_cant_code_but_id_like_to_make_a_game/
+    :created: 1457907014.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 59
+    :comments: 4
+    :category: Assets
+    :category_css: assets cat-event
+    :gilded: 0
+  :info:
+    :title: " 750 RPG weapon armor item monster icons from my old iOS game CC 4 0
+      Intl license"
+    :fullname: t3_4ab1mz
+    :url: https://www.reddit.com/r/gamedev/comments/4ab1mz/750_rpg_weaponarmoritemmonster_icons_from_my_old/
+    :created: 1457947607.0
+    :editd: 1457926582.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Assets
+      :css: assets cat-event
+- :stats:
+    :score: 39
+    :comments: 53
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How to protect your game from piracy on Android Russia 1200 users 7 paid '
+    :fullname: t3_4a9qtx
+    :url: https://www.reddit.com/r/gamedev/comments/4a9qtx/how_to_protect_your_game_from_piracy_on_android/
+    :created: 1457928008.0
+    :editd: 1457926233.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 25
+    :comments: 38
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Are advanced math skills required in game development '
+    :fullname: t3_4a7o1v
+    :url: https://www.reddit.com/r/gamedev/comments/4a7o1v/are_advanced_math_skills_required_in_game/
+    :created: 1457886579.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 24
+    :comments: 26
+    :category: Announcement
+    :category_css: announcement cat-event
+    :gilded: 0
+  :info:
+    :title: 'Giant GDC Thead '
+    :fullname: t3_4a9lir
+    :url: https://www.reddit.com/r/gamedev/comments/4a9lir/giant_gdc_thead/
+    :created: 1457925918.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Announcement
+      :css: announcement cat-event
+- :stats:
+    :score: 20
+    :comments: 12
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: How is usually the revenue share of an artist
+    :fullname: t3_4a86zc
+    :url: https://www.reddit.com/r/gamedev/comments/4a86zc/how_is_usually_the_revenue_share_of_an_artist/
+    :created: 1457901494.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 18
+    :comments: 5
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: What I made on the Train Jam to GDC 2016
+    :fullname: t3_4a7gpx
+    :url: https://www.reddit.com/r/gamedev/comments/4a7gpx/what_i_made_on_the_train_jam_to_gdc_2016/
+    :created: 1457881487.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 14
+    :comments: 0
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: " Missile homing Calculate LoS angular rate from point1 to point2 "
+    :fullname: t3_4a80ce
+    :url: https://www.reddit.com/r/gamedev/comments/4a80ce/missile_homing_calculate_los_angular_rate_from/
+    :created: 1457896103.0
+    :editd: 1457873390.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 12
+    :comments: 37
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How long does it take to get good at coding '
+    :fullname: t3_4a97a2
+    :url: https://www.reddit.com/r/gamedev/comments/4a97a2/how_long_does_it_take_to_get_good_at_coding/
+    :created: 1457920234.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 13
+    :comments: 4
+    :category: Resource
+    :category_css: resource cat-resource
+    :gilded: 0
+  :info:
+    :title: 3D Open Source Game Engine BDX Reaches v0 2 4
+    :fullname: t3_4a7gqn
+    :url: https://www.reddit.com/r/gamedev/comments/4a7gqn/3d_opensource_game_engine_bdx_reaches_v024/
+    :created: 1457881501.0
+    :editd: 1457885544.0
+    :author_flair:
+      :text: " SolarLune"
+    :link_flair:
+      :text: Resource
+      :css: resource cat-resource
+- :stats:
+    :score: 13
+    :comments: 23
+    :category: STS
+    :category_css: sts cat-weekly
+    :gilded: 0
+  :info:
+    :title: Soundtrack 131 Breaking Trends
+    :fullname: t3_4a78xb
+    :url: https://www.reddit.com/r/gamedev/comments/4a78xb/soundtrack_131_breaking_trends/
+    :created: 1457876439.0
+    :editd: false
+    :author_flair:
+      :text: " LucklessSeven"
+    :link_flair:
+      :text: STS
+      :css: sts cat-weekly
+- :stats:
+    :score: 12
+    :comments: 34
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Is it worth studying an MA in Games Design '
+    :fullname: t3_4a8r1c
+    :url: https://www.reddit.com/r/gamedev/comments/4a8r1c/is_it_worth_studying_an_ma_in_games_design/
+    :created: 1457912979.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 10
+    :comments: 8
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Generating a 3D forest
+    :fullname: t3_4a8ckv
+    :url: https://www.reddit.com/r/gamedev/comments/4a8ckv/generating_a_3d_forest/
+    :created: 1457905146.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 8
+    :comments: 5
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Blogging overkill for a beginner '
+    :fullname: t3_4aa5bf
+    :url: https://www.reddit.com/r/gamedev/comments/4aa5bf/blogging_overkill_for_a_beginner/
+    :created: 1457933840.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 7
+    :comments: 2
+    :category: Showcase
+    :category_css: showcase cat-game
+    :gilded: 0
+  :info:
+    :title: Character Controller Prototype with platform gameplay elements r Unity3D
+      xpost Webplayer demo
+    :fullname: t3_4a99va
+    :url: https://www.reddit.com/r/gamedev/comments/4a99va/character_controller_prototype_with_platform/
+    :created: 1457921282.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Showcase
+      :css: showcase cat-game
+- :stats:
+    :score: 8
+    :comments: 8
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How do you calculate X Y Z collision between main character and triangle
+      based game level s floor geometry '
+    :fullname: t3_4a7r55
+    :url: https://www.reddit.com/r/gamedev/comments/4a7r55/how_do_you_calculate_xyz_collision_between_main/
+    :created: 1457888782.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 6
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Released my first game on Play Store made from Open Source assets
+    :fullname: t3_4aabgk
+    :url: https://www.reddit.com/r/gamedev/comments/4aabgk/released_my_first_game_on_play_store_made_from/
+    :created: 1457936310.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 6
+    :comments: 0
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: OpenGL based Particle Editor for a student game project
+    :fullname: t3_4aa4yf
+    :url: https://www.reddit.com/r/gamedev/comments/4aa4yf/openglbased_particle_editor_for_a_student_game/
+    :created: 1457933696.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 8
+    :comments: 3
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Complicated issue Trying to set position in local space not translate '
+    :fullname: t3_4a9z9x
+    :url: https://www.reddit.com/r/gamedev/comments/4a9z9x/complicated_issue_trying_to_set_position_in_local/
+    :created: 1457931382.0
+    :editd: 1457902900.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 6
+    :comments: 12
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'want to make web browser games Tried before and failed now I want to
+      get it right help '
+    :fullname: t3_4a9isa
+    :url: https://www.reddit.com/r/gamedev/comments/4a9isa/want_to_make_web_browser_games_tried_before_and/
+    :created: 1457924859.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 7
+    :comments: 5
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Want to start learning Python Possible on iOS '
+    :fullname: t3_4a91fz
+    :url: https://www.reddit.com/r/gamedev/comments/4a91fz/want_to_start_learning_python_possible_on_ios/
+    :created: 1457917717.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 4
+    :comments: 8
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Server costs
+    :fullname: t3_4a9qyo
+    :url: https://www.reddit.com/r/gamedev/comments/4a9qyo/server_costs/
+    :created: 1457928057.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 4
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Getting a mod onto Steam a post Greenlight analysis
+    :fullname: t3_4a7qr2
+    :url: https://www.reddit.com/r/gamedev/comments/4a7qr2/getting_a_mod_onto_steam_a_postgreenlight_analysis/
+    :created: 1457888484.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 3
+    :comments: 3
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: '2D artwork for games '
+    :fullname: t3_4a8uzv
+    :url: https://www.reddit.com/r/gamedev/comments/4a8uzv/2d_artwork_for_games/
+    :created: 1457914825.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 2
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Help with Scoring method
+    :fullname: t3_4a8gvt
+    :url: https://www.reddit.com/r/gamedev/comments/4a8gvt/help_with_scoring_method/
+    :created: 1457907765.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 3
+    :comments: 4
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Indie or Big '
+    :fullname: t3_4aaasj
+    :url: https://www.reddit.com/r/gamedev/comments/4aaasj/indie_or_big/
+    :created: 1457936027.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 3
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Twitch development stream Depth of Field tutorial
+    :fullname: t3_4aaa6q
+    :url: https://www.reddit.com/r/gamedev/comments/4aaa6q/twitch_development_stream_depth_of_field_tutorial/
+    :created: 1457935772.0
+    :editd: 1457909677.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 1
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Smooth tile based movement pacman '
+    :fullname: t3_4aa5nd
+    :url: https://www.reddit.com/r/gamedev/comments/4aa5nd/smooth_tile_based_movement_pacman/
+    :created: 1457933963.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 2
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'In need of help Need answers to some general questions '
+    :fullname: t3_4a980s
+    :url: https://www.reddit.com/r/gamedev/comments/4a980s/in_need_of_help_need_answers_to_some_general/
+    :created: 1457920541.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 3
+    :comments: 2
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Looking to make a 2D side scroller
+    :fullname: t3_4abhn7
+    :url: https://www.reddit.com/r/gamedev/comments/4abhn7/looking_to_make_a_2d_side_scroller/
+    :created: 1457955142.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Streaming development of my upcoming story based survival game '
+    :fullname: t3_4aauej
+    :url: https://www.reddit.com/r/gamedev/comments/4aauej/streaming_development_of_my_upcoming_storybased/
+    :created: 1457944394.0
+    :editd: 1457921853.0
+    :author_flair:
+      :text: That Indie Kid
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Game Developers in NYC needed 2nd time posting '
+    :fullname: t3_4aast4
+    :url: https://www.reddit.com/r/gamedev/comments/4aast4/game_developers_in_nyc_needed_2nd_time_posting/
+    :created: 1457943686.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 1
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Scaling a UI panel over time '
+    :fullname: t3_4aasoa
+    :url: https://www.reddit.com/r/gamedev/comments/4aasoa/scaling_a_ui_panel_over_time/
+    :created: 1457943628.0
+    :editd: 1457915026.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Simple Android puzzle game some questions '
+    :fullname: t3_4aaogw
+    :url: https://www.reddit.com/r/gamedev/comments/4aaogw/simple_android_puzzle_game_some_questions/
+    :created: 1457941817.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'It s 2016 now how viable are sponsorships for games '
+    :fullname: t3_4aafb9
+    :url: https://www.reddit.com/r/gamedev/comments/4aafb9/its_2016_now_how_viable_are_sponsorships_for_games/
+    :created: 1457937945.0
+    :editd: false
+    :author_flair:
+      :text: " antonuklein"
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 5
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Want to be a full time indie dev afraid of the future
+    :fullname: t3_4aadqy
+    :url: https://www.reddit.com/r/gamedev/comments/4aadqy/want_to_be_a_full_time_indie_dev_afraid_of_the/
+    :created: 1457937287.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 7
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Good 3D Physics Engines '
+    :fullname: t3_4a904x
+    :url: https://www.reddit.com/r/gamedev/comments/4a904x/good_3d_physics_engines/
+    :created: 1457917157.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 18
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: c saving help
+    :fullname: t3_4a85yu
+    :url: https://www.reddit.com/r/gamedev/comments/4a85yu/c_saving_help/
+    :created: 1457900761.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 2
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'OpenGL C question collision detection for games Ray vs Triangle Intersection
+      How to convert intersection point from barycentric to cartesian coordinate system '
+    :fullname: t3_4a7py5
+    :url: https://www.reddit.com/r/gamedev/comments/4a7py5/openglc_question_collision_detection_for_games/
+    :created: 1457887894.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How would you go about generating a Navigation Grid for a 3D space '
+    :fullname: t3_4a7lz4
+    :url: https://www.reddit.com/r/gamedev/comments/4a7lz4/how_would_you_go_about_generating_a_navigation/
+    :created: 1457885127.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 3
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Using opengl for FPS
+    :fullname: t3_4abaup
+    :url: https://www.reddit.com/r/gamedev/comments/4abaup/using_opengl_for_fps/
+    :created: 1457951848.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 0
+    :category: Resource
+    :category_css: resource cat-resource
+    :gilded: 0
+  :info:
+    :title: 'AppFlipAlerts aka Google Alerts for Game and App Developers released
+      and free to use '
+    :fullname: t3_4a7z9m
+    :url: https://www.reddit.com/r/gamedev/comments/4a7z9m/appflipalerts_aka_google_alerts_for_game_and_app/
+    :created: 1457895291.0
+    :editd: 1457868112.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Resource
+      :css: resource cat-resource
+- :stats:
+    :score: 0
+    :comments: 6
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Advice on how to detect pirated version from within the game '
+    :fullname: t3_4aacvf
+    :url: https://www.reddit.com/r/gamedev/comments/4aacvf/advice_on_how_to_detect_pirated_version_from/
+    :created: 1457936914.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 8
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Is being good at languages going to help me in learning programming '
+    :fullname: t3_4a8bkj
+    :url: https://www.reddit.com/r/gamedev/comments/4a8bkj/is_being_good_at_languages_going_to_help_me_in/
+    :created: 1457904514.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 4
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Trying to paint a Mesh in unity3d so hard it makes you hate Unity
+    :fullname: t3_4a86lk
+    :url: https://www.reddit.com/r/gamedev/comments/4a86lk/trying_to_paint_a_mesh_in_unity3d_so_hard_it/
+    :created: 1457901218.0
+    :editd: false
+    :author_flair:
+      :text: " t_machine_org"
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 0
+    :comments: 6
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'PSA NEED GAME DESIGN HELP LGBT FRIENDLY GAMES '
+    :fullname: t3_4a8xa9
+    :url: https://www.reddit.com/r/gamedev/comments/4a8xa9/psa_need_game_design_help_lgbt_friendly_games/
+    :created: 1457915908.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
