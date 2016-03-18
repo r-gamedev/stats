@@ -1,0 +1,865 @@
+---
+:meta:
+  :time_utc: 2016-03-18 05:00:05 UTC
+  :time_local: '2016-03-17 22:00:05 -0700'
+  :label: :24h
+  :period: :day
+:stats:
+  :general:
+    :scores:
+      :min: 0
+      :q1: 1.0
+      :q2: 2.0
+      :q3: 4.0
+      :max: 129
+      :mean: 11.282051282051283
+      :sum: 440.0
+    :comments:
+      :min: 0
+      :q1: 0.0
+      :q2: 3.0
+      :q3: 4.5
+      :max: 35
+      :mean: 5.17948717948718
+      :sum: 202.0
+    :count: 39
+  :by_category:
+    Announcement:
+      :scores:
+        :min: 38
+        :q1: 60.75
+        :q2: 83.5
+        :q3: 106.25
+        :max: 129
+        :mean: 83.5
+        :sum: 167.0
+      :comments:
+        :min: 12
+        :q1: 17.75
+        :q2: 23.5
+        :q3: 29.25
+        :max: 35
+        :mean: 23.5
+        :sum: 47.0
+      :count: 2
+    ! '':
+      :scores:
+        :min: 0
+        :q1: 1.0
+        :q2: 2.0
+        :q3: 3.0
+        :max: 74
+        :mean: 5.739130434782608
+        :sum: 132.0
+      :comments:
+        :min: 0
+        :q1: 0.0
+        :q2: 2.0
+        :q3: 5.0
+        :max: 30
+        :mean: 5.260869565217392
+        :sum: 121.0
+      :count: 23
+    Article/Video:
+      :scores:
+        :min: 0
+        :q1: 0.75
+        :q2: 1.0
+        :q3: 13.25
+        :max: 50
+        :mean: 13.0
+        :sum: 52.0
+      :comments:
+        :min: 0
+        :q1: 0.0
+        :q2: 0.5
+        :q3: 1.75
+        :max: 4
+        :mean: 1.25
+        :sum: 5.0
+      :count: 4
+    Tutorial:
+      :scores:
+        :min: 48
+        :q1: 48.0
+        :q2: 48.0
+        :q3: 48.0
+        :max: 48
+        :mean: 48.0
+        :sum: 48.0
+      :comments:
+        :min: 2
+        :q1: 2.0
+        :q2: 2.0
+        :q3: 2.0
+        :max: 2
+        :mean: 2.0
+        :sum: 2.0
+      :count: 1
+    Roundup:
+      :scores:
+        :min: 30
+        :q1: 30.0
+        :q2: 30.0
+        :q3: 30.0
+        :max: 30
+        :mean: 30.0
+        :sum: 30.0
+      :comments:
+        :min: 3
+        :q1: 3.0
+        :q2: 3.0
+        :q3: 3.0
+        :max: 3
+        :mean: 3.0
+        :sum: 3.0
+      :count: 1
+    Discussion:
+      :scores:
+        :min: 4
+        :q1: 4.0
+        :q2: 4.0
+        :q3: 4.0
+        :max: 4
+        :mean: 4.0
+        :sum: 4.0
+      :comments:
+        :min: 2
+        :q1: 2.0
+        :q2: 2.0
+        :q3: 2.0
+        :max: 2
+        :mean: 2.0
+        :sum: 2.0
+      :count: 1
+    Release:
+      :scores:
+        :min: 1
+        :q1: 1.25
+        :q2: 1.5
+        :q3: 1.75
+        :max: 2
+        :mean: 1.5
+        :sum: 3.0
+      :comments:
+        :min: 0
+        :q1: 0.0
+        :q2: 0.0
+        :q3: 0.0
+        :max: 0
+        :mean: 0.0
+        :sum: 0.0
+      :count: 2
+    Question:
+      :scores:
+        :min: 0
+        :q1: 0.75
+        :q2: 1.0
+        :q3: 1.25
+        :max: 2
+        :mean: 1.0
+        :sum: 4.0
+      :comments:
+        :min: 3
+        :q1: 3.75
+        :q2: 4.5
+        :q3: 5.5
+        :max: 7
+        :mean: 4.75
+        :sum: 19.0
+      :count: 4
+    Resource:
+      :scores:
+        :min: 0
+        :q1: 0.0
+        :q2: 0.0
+        :q3: 0.0
+        :max: 0
+        :mean: 0.0
+        :sum: 0.0
+      :comments:
+        :min: 3
+        :q1: 3.0
+        :q2: 3.0
+        :q3: 3.0
+        :max: 3
+        :mean: 3.0
+        :sum: 3.0
+      :count: 1
+:data:
+- :stats:
+    :score: 129
+    :comments: 35
+    :category: Announcement
+    :category_css: announcement cat-event
+    :gilded: 0
+  :info:
+    :title: MonoGame 3 5 Released
+    :fullname: t3_4au593
+    :url: https://www.reddit.com/r/gamedev/comments/4au593/monogame_35_released/
+    :created: 1458264267.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Announcement
+      :css: announcement cat-event
+- :stats:
+    :score: 74
+    :comments: 19
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Great GDC presentation on how the Hearthstone UI was developed
+    :fullname: t3_4arrkl
+    :url: https://www.reddit.com/r/gamedev/comments/4arrkl/great_gdc_presentation_on_how_the_hearthstone_ui/
+    :created: 1458223492.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 50
+    :comments: 4
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Delightful GDC talk by Gunpoint creator Tom Francis
+    :fullname: t3_4aszg2
+    :url: https://www.reddit.com/r/gamedev/comments/4aszg2/delightful_gdc_talk_by_gunpoint_creator_tom/
+    :created: 1458250198.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 48
+    :comments: 2
+    :category: Tutorial
+    :category_css: tutorial cat-resource
+    :gilded: 0
+  :info:
+    :title: 2dgameartguru making seamless dirt tiles and transitions in inkscape
+    :fullname: t3_4as2dr
+    :url: https://www.reddit.com/r/gamedev/comments/4as2dr/2dgameartguru_making_seamless_dirt_tiles_and/
+    :created: 1458231105.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Tutorial
+      :css: tutorial cat-resource
+- :stats:
+    :score: 38
+    :comments: 12
+    :category: Announcement
+    :category_css: announcement cat-event
+    :gilded: 0
+  :info:
+    :title: Xenko 1 6 released New features highlights particles prefabs new gfx engine
+      amp D3D12 renderer
+    :fullname: t3_4asf0y
+    :url: https://www.reddit.com/r/gamedev/comments/4asf0y/xenko_16β_released_new_features_highlights/
+    :created: 1458240567.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Announcement
+      :css: announcement cat-event
+- :stats:
+    :score: 30
+    :comments: 3
+    :category: Roundup
+    :category_css: qs
+    :gilded: 0
+  :info:
+    :title: 'GDC 2016 Day Three Article Round Up '
+    :fullname: t3_4arl69
+    :url: https://www.reddit.com/r/gamedev/comments/4arl69/gdc_2016_day_three_article_round_up/
+    :created: 1458219657.0
+    :editd: 1458192130.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Roundup
+      :css: qs
+- :stats:
+    :score: 15
+    :comments: 8
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'How to coordinate music with game '
+    :fullname: t3_4at95h
+    :url: https://www.reddit.com/r/gamedev/comments/4at95h/how_to_coordinate_music_with_game/
+    :created: 1458253324.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 7
+    :comments: 30
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'I am planning on entering a paid course to learn programming How can
+      I detect warning flags and how can I avoid getting scammed with false promises '
+    :fullname: t3_4as0hu
+    :url: https://www.reddit.com/r/gamedev/comments/4as0hu/i_am_planning_on_entering_a_paid_course_to_learn/
+    :created: 1458229676.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 4
+    :comments: 3
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'If I make an android game when something very similar exists is it breaking
+      copyright patent '
+    :fullname: t3_4av4ep
+    :url: https://www.reddit.com/r/gamedev/comments/4av4ep/if_i_make_an_android_game_when_something_very/
+    :created: 1458277315.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 4
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: " r xenko is now open for the public Official page for the Xenko3D game
+      engine "
+    :fullname: t3_4arp8f
+    :url: https://www.reddit.com/r/gamedev/comments/4arp8f/rxenko_is_now_open_for_the_public_official_page/
+    :created: 1458222009.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 4
+    :comments: 2
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'Resources on level design theory '
+    :fullname: t3_4awdzh
+    :url: https://www.reddit.com/r/gamedev/comments/4awdzh/resources_on_level_design_theory/
+    :created: 1458296325.0
+    :editd: 1458268315.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 3
+    :comments: 3
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Looking for control scheme ideas What s the best example of a Bomberman
+      esque game you ve seen on mobile touch example videos inside '
+    :fullname: t3_4avknx
+    :url: https://www.reddit.com/r/gamedev/comments/4avknx/looking_for_control_scheme_ideas_whats_the_best/
+    :created: 1458283865.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 3
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Indie Dev Podcast Ep 29 Ska Studios Salt amp Sanctuary
+    :fullname: t3_4auqsd
+    :url: https://www.reddit.com/r/gamedev/comments/4auqsd/indie_dev_podcast_ep_29_ska_studios_salt_sanctuary/
+    :created: 1458272280.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Experiences with this year s GDC '
+    :fullname: t3_4awi8w
+    :url: https://www.reddit.com/r/gamedev/comments/4awi8w/experiences_with_this_years_gdc/
+    :created: 1458298283.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 0
+    :category: Release
+    :category_css: release cat-game
+    :gilded: 0
+  :info:
+    :title: 'Introducing Cupboard Closer by Gray Day Games '
+    :fullname: t3_4avzhy
+    :url: https://www.reddit.com/r/gamedev/comments/4avzhy/introducing_cupboard_closer_by_gray_day_games/
+    :created: 1458290074.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Release
+      :css: release cat-game
+- :stats:
+    :score: 2
+    :comments: 7
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Anyone have any negative experience with going to a predatory game school
+      that they regret attending '
+    :fullname: t3_4au8lq
+    :url: https://www.reddit.com/r/gamedev/comments/4au8lq/anyone_have_any_negative_experience_with_going_to/
+    :created: 1458265510.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 3
+    :comments: 25
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: GameName io vs GameNameGame com
+    :fullname: t3_4atimv
+    :url: https://www.reddit.com/r/gamedev/comments/4atimv/gamenameio_vs_gamenamegamecom/
+    :created: 1458256496.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Advice regarding localisation translaition and how it affects graphic
+      desgin
+    :fullname: t3_4arvks
+    :url: https://www.reddit.com/r/gamedev/comments/4arvks/advice_regarding_localisationtranslaition_and_how/
+    :created: 1458226150.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: Release
+    :category_css: release cat-game
+    :gilded: 0
+  :info:
+    :title: 'Zombie Annihilation Bloody top down defense shooter single and multiplayer '
+    :fullname: t3_4awpxz
+    :url: https://www.reddit.com/r/gamedev/comments/4awpxz/zombie_annihilation_bloody_topdown_defense/
+    :created: 1458301893.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Release
+      :css: release cat-game
+- :stats:
+    :score: 2
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Haxe Developers How did you all learn Haxe How should someone new to
+      Haxe get started '
+    :fullname: t3_4awnrn
+    :url: https://www.reddit.com/r/gamedev/comments/4awnrn/haxe_developers_how_did_you_all_learn_haxe_how/
+    :created: 1458300872.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Can you recommend any good audiobooks or podcasts about learning coding
+      and game development '
+    :fullname: t3_4awmz3
+    :url: https://www.reddit.com/r/gamedev/comments/4awmz3/can_you_recommend_any_good_audiobooks_or_podcasts/
+    :created: 1458300500.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 3
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: A good machine for game development
+    :fullname: t3_4awmac
+    :url: https://www.reddit.com/r/gamedev/comments/4awmac/a_good_machine_for_game_development/
+    :created: 1458300180.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'GDC 2016 Day Four Article Round Up '
+    :fullname: t3_4awdkz
+    :url: https://www.reddit.com/r/gamedev/comments/4awdkz/gdc_2016_day_four_article_round_up/
+    :created: 1458296138.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Internships for Music at Game Companies '
+    :fullname: t3_4aw6nm
+    :url: https://www.reddit.com/r/gamedev/comments/4aw6nm/internships_for_music_at_game_companies/
+    :created: 1458293099.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Elegant way to couple speed of animation with entity s stats '
+    :fullname: t3_4avxwv
+    :url: https://www.reddit.com/r/gamedev/comments/4avxwv/elegant_way_to_couple_speed_of_animation_with/
+    :created: 1458289397.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: The Vertex Whisperer Gamedev Log 3
+    :fullname: t3_4avrgz
+    :url: https://www.reddit.com/r/gamedev/comments/4avrgz/the_vertex_whisperer_gamedev_log_3/
+    :created: 1458286760.0
+    :editd: false
+    :author_flair:
+      :text: http www elysrealm com blog
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 1
+    :comments: 1
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Pixel Art with Photoshop Tips Video
+    :fullname: t3_4avfpi
+    :url: https://www.reddit.com/r/gamedev/comments/4avfpi/pixel_art_with_photoshop_tips_video/
+    :created: 1458281830.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 1
+    :comments: 4
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Indie Dev Website
+    :fullname: t3_4av4ui
+    :url: https://www.reddit.com/r/gamedev/comments/4av4ui/indie_dev_website/
+    :created: 1458277488.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 3
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Book Recommendations for a Beginning Unity Programmer '
+    :fullname: t3_4av4mu
+    :url: https://www.reddit.com/r/gamedev/comments/4av4mu/book_recommendations_for_a_beginning_unity/
+    :created: 1458277396.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 6
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Please help if I want to be an indie dev should I go to college or 6th
+      form uk education '
+    :fullname: t3_4av31r
+    :url: https://www.reddit.com/r/gamedev/comments/4av31r/please_help_if_i_want_to_be_an_indie_dev_should_i/
+    :created: 1458276801.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Match 3 puzzle game algorithms
+    :fullname: t3_4atryv
+    :url: https://www.reddit.com/r/gamedev/comments/4atryv/match3_puzzle_game_algorithms/
+    :created: 1458259454.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 11
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'What are some fun and unique turn based combat ideas '
+    :fullname: t3_4atfcb
+    :url: https://www.reddit.com/r/gamedev/comments/4atfcb/what_are_some_fun_and_unique_turn_based_combat/
+    :created: 1458255398.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 5
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Good bad art studios '
+    :fullname: t3_4asify
+    :url: https://www.reddit.com/r/gamedev/comments/4asify/goodbad_art_studios/
+    :created: 1458242791.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Game devs amp app devs take your ASO app store optimization to the next
+      level
+    :fullname: t3_4asicm
+    :url: https://www.reddit.com/r/gamedev/comments/4asicm/game_devs_app_devs_take_your_aso_app_store/
+    :created: 1458242733.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Collision Detection
+    :fullname: t3_4arzb1
+    :url: https://www.reddit.com/r/gamedev/comments/4arzb1/collision_detection/
+    :created: 1458228804.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 0
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Maratron Two Rock Paper Scissors Second part of my Swift Game Development
+      Series
+    :fullname: t3_4auwyr
+    :url: https://www.reddit.com/r/gamedev/comments/4auwyr/maratron_two_rock_paper_scissors_second_part_of/
+    :created: 1458274489.0
+    :editd: 1458246954.0
+    :author_flair:
+      :text: sizeof io
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 0
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Develop games with Tiny Games Reach one million users an interview with
+      Unity Dev Daniele Bianchini
+    :fullname: t3_4atedk
+    :url: https://www.reddit.com/r/gamedev/comments/4atedk/develop_games_with_tiny_games_reach_one_million/
+    :created: 1458255071.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 3
+    :category: Resource
+    :category_css: resource cat-resource
+    :gilded: 0
+  :info:
+    :title: Elias Adaptive game music
+    :fullname: t3_4atdr0
+    :url: https://www.reddit.com/r/gamedev/comments/4atdr0/elias_adaptive_game_music/
+    :created: 1458254859.0
+    :editd: false
+    :author_flair:
+      :text: tedwennerstrom com
+    :link_flair:
+      :text: Resource
+      :css: resource cat-resource
+- :stats:
+    :score: 0
+    :comments: 3
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'If Anyone Has A moment Then Please Aid Some Budding Game Devs Thanks '
+    :fullname: t3_4aszv5
+    :url: https://www.reddit.com/r/gamedev/comments/4aszv5/if_anyone_has_a_moment_then_please_aid_some/
+    :created: 1458250331.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
