@@ -1,0 +1,813 @@
+---
+:meta:
+  :time_utc: 2016-03-19 05:00:05 UTC
+  :time_local: '2016-03-18 22:00:05 -0700'
+  :label: :24h
+  :period: :day
+:stats:
+  :general:
+    :scores:
+      :min: 0
+      :q1: 1.0
+      :q2: 2.0
+      :q3: 7.75
+      :max: 646
+      :mean: 25.5
+      :sum: 867.0
+    :comments:
+      :min: 0
+      :q1: 2.0
+      :q2: 6.5
+      :q3: 14.25
+      :max: 303
+      :mean: 19.61764705882353
+      :sum: 667.0
+    :count: 34
+  :by_category:
+    Announcement:
+      :scores:
+        :min: 646
+        :q1: 646.0
+        :q2: 646.0
+        :q3: 646.0
+        :max: 646
+        :mean: 646.0
+        :sum: 646.0
+      :comments:
+        :min: 303
+        :q1: 303.0
+        :q2: 303.0
+        :q3: 303.0
+        :max: 303
+        :mean: 303.0
+        :sum: 303.0
+      :count: 1
+    ! '':
+      :scores:
+        :min: 1
+        :q1: 7.0
+        :q2: 11.0
+        :q3: 18.5
+        :max: 56
+        :mean: 15.2
+        :sum: 152.0
+      :comments:
+        :min: 0
+        :q1: 4.25
+        :q2: 9.0
+        :q3: 14.25
+        :max: 28
+        :mean: 10.4
+        :sum: 104.0
+      :count: 10
+    FF:
+      :scores:
+        :min: 15
+        :q1: 15.0
+        :q2: 15.0
+        :q3: 15.0
+        :max: 15
+        :mean: 15.0
+        :sum: 15.0
+      :comments:
+        :min: 116
+        :q1: 116.0
+        :q2: 116.0
+        :q3: 116.0
+        :max: 116
+        :mean: 116.0
+        :sum: 116.0
+      :count: 1
+    Article/Video:
+      :scores:
+        :min: 1
+        :q1: 2.75
+        :q2: 4.5
+        :q3: 6.25
+        :max: 8
+        :mean: 4.5
+        :sum: 9.0
+      :comments:
+        :min: 1
+        :q1: 1.0
+        :q2: 1.0
+        :q3: 1.0
+        :max: 1
+        :mean: 1.0
+        :sum: 2.0
+      :count: 2
+    Technical:
+      :scores:
+        :min: 5
+        :q1: 5.0
+        :q2: 5.0
+        :q3: 5.0
+        :max: 5
+        :mean: 5.0
+        :sum: 5.0
+      :comments:
+        :min: 1
+        :q1: 1.0
+        :q2: 1.0
+        :q3: 1.0
+        :max: 1
+        :mean: 1.0
+        :sum: 1.0
+      :count: 1
+    Question:
+      :scores:
+        :min: 0
+        :q1: 0.75
+        :q2: 1.0
+        :q3: 2.75
+        :max: 6
+        :mean: 2.0
+        :sum: 24.0
+      :comments:
+        :min: 0
+        :q1: 3.5
+        :q2: 10.0
+        :q3: 15.5
+        :max: 21
+        :mean: 9.75
+        :sum: 117.0
+      :count: 12
+    Feedback:
+      :scores:
+        :min: 1
+        :q1: 1.5
+        :q2: 2.0
+        :q3: 4.0
+        :max: 6
+        :mean: 3.0
+        :sum: 9.0
+      :comments:
+        :min: 1
+        :q1: 2.0
+        :q2: 3.0
+        :q3: 5.5
+        :max: 8
+        :mean: 4.0
+        :sum: 12.0
+      :count: 3
+    Roundup:
+      :scores:
+        :min: 2
+        :q1: 2.0
+        :q2: 2.0
+        :q3: 2.0
+        :max: 2
+        :mean: 2.0
+        :sum: 2.0
+      :comments:
+        :min: 0
+        :q1: 0.0
+        :q2: 0.0
+        :q3: 0.0
+        :max: 0
+        :mean: 0.0
+        :sum: 0.0
+      :count: 1
+    Survey:
+      :scores:
+        :min: 2
+        :q1: 2.0
+        :q2: 2.0
+        :q3: 2.0
+        :max: 2
+        :mean: 2.0
+        :sum: 2.0
+      :comments:
+        :min: 5
+        :q1: 5.0
+        :q2: 5.0
+        :q3: 5.0
+        :max: 5
+        :mean: 5.0
+        :sum: 5.0
+      :count: 1
+    Assets:
+      :scores:
+        :min: 2
+        :q1: 2.0
+        :q2: 2.0
+        :q3: 2.0
+        :max: 2
+        :mean: 2.0
+        :sum: 2.0
+      :comments:
+        :min: 0
+        :q1: 0.0
+        :q2: 0.0
+        :q3: 0.0
+        :max: 0
+        :mean: 0.0
+        :sum: 0.0
+      :count: 1
+    Discussion:
+      :scores:
+        :min: 1
+        :q1: 1.0
+        :q2: 1.0
+        :q3: 1.0
+        :max: 1
+        :mean: 1.0
+        :sum: 1.0
+      :comments:
+        :min: 7
+        :q1: 7.0
+        :q2: 7.0
+        :q3: 7.0
+        :max: 7
+        :mean: 7.0
+        :sum: 7.0
+      :count: 1
+:data:
+- :stats:
+    :score: 646
+    :comments: 303
+    :category: Announcement
+    :category_css: announcement cat-event
+    :gilded: 1
+  :info:
+    :title: PSA Stop putting keybindings on Z half of the western countries have Y
+      and Z switched
+    :fullname: t3_4axepv
+    :url: https://www.reddit.com/r/gamedev/comments/4axepv/psa_stop_putting_keybindings_on_z_half_of_the/
+    :created: 1458317746.0
+    :editd: 1458289334.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Announcement
+      :css: announcement cat-event
+- :stats:
+    :score: 56
+    :comments: 28
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Revealing your game can be a nightmare an emotional postmortem of The
+      Book of Demons announcement '
+    :fullname: t3_4azio9
+    :url: https://www.reddit.com/r/gamedev/comments/4azio9/revealing_your_game_can_be_a_nightmare_an/
+    :created: 1458353716.0
+    :editd: 1458335945.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 20
+    :comments: 8
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Game Art environment made in Unreal Engine walkthrough
+    :fullname: t3_4aynfh
+    :url: https://www.reddit.com/r/gamedev/comments/4aynfh/game_art_environment_made_in_unreal_engine/
+    :created: 1458342002.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 23
+    :comments: 15
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Chris England thoughts on the inclusion of his game Xenonauts on Humble
+      Bundle
+    :fullname: t3_4aymj2
+    :url: https://www.reddit.com/r/gamedev/comments/4aymj2/chris_england_thoughts_on_the_inclusion_of_his/
+    :created: 1458341631.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 15
+    :comments: 116
+    :category: FF
+    :category_css: ff cat-weekly
+    :gilded: 0
+  :info:
+    :title: Feedback Friday 177 Indie Highlights
+    :fullname: t3_4awrcx
+    :url: https://www.reddit.com/r/gamedev/comments/4awrcx/feedback_friday_177_indie_highlights/
+    :created: 1458302620.0
+    :editd: false
+    :author_flair:
+      :text: " LucklessSeven"
+    :link_flair:
+      :text: FF
+      :css: ff cat-weekly
+- :stats:
+    :score: 12
+    :comments: 5
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Player XP analyzing huge quantities of user reviews '
+    :fullname: t3_4ayxw3
+    :url: https://www.reddit.com/r/gamedev/comments/4ayxw3/player_xp_analyzing_huge_quantities_of_user/
+    :created: 1458345708.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 14
+    :comments: 4
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Experimental Game Dev Podcast Machine Learning In Games '
+    :fullname: t3_4axju9
+    :url: https://www.reddit.com/r/gamedev/comments/4axju9/experimental_game_dev_podcast_machine_learning_in/
+    :created: 1458321937.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 10
+    :comments: 18
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Locking Frame Rate
+    :fullname: t3_4aytpd
+    :url: https://www.reddit.com/r/gamedev/comments/4aytpd/locking_frame_rate/
+    :created: 1458344211.0
+    :editd: 1458331273.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 8
+    :comments: 1
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: How to Make Your Game Appeal to Streamers by Tiny Build
+    :fullname: t3_4ay9ov
+    :url: https://www.reddit.com/r/gamedev/comments/4ay9ov/how_to_make_your_game_appeal_to_streamers_by_tiny/
+    :created: 1458336219.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 7
+    :comments: 10
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Active but small indie gamedevs how do you manage play testing and sign
+      ups '
+    :fullname: t3_4az4uu
+    :url: https://www.reddit.com/r/gamedev/comments/4az4uu/active_but_small_indie_gamedevs_how_do_you_manage/
+    :created: 1458348367.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 7
+    :comments: 12
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'With CryEngine V being Pay what you want What are some good sources to
+      learn how to use the engine '
+    :fullname: t3_4axnn2
+    :url: https://www.reddit.com/r/gamedev/comments/4axnn2/with_cryengine_v_being_pay_what_you_want_what_are/
+    :created: 1458324673.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 5
+    :comments: 1
+    :category: Technical
+    :category_css: technical cat-resource
+    :gilded: 0
+  :info:
+    :title: Neural network generating variations of game art
+    :fullname: t3_4azbwt
+    :url: https://www.reddit.com/r/gamedev/comments/4azbwt/neural_network_generating_variations_of_game_art/
+    :created: 1458351068.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Technical
+      :css: technical cat-resource
+- :stats:
+    :score: 6
+    :comments: 11
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Game Maker Studios
+    :fullname: t3_4axm8u
+    :url: https://www.reddit.com/r/gamedev/comments/4axm8u/game_maker_studios/
+    :created: 1458323670.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 6
+    :comments: 8
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: 'Wintosh Unixverse The idea and prototype '
+    :fullname: t3_4b0zvw
+    :url: https://www.reddit.com/r/gamedev/comments/4b0zvw/wintosh_unixverse_the_idea_and_prototype/
+    :created: 1458376003.0
+    :editd: 1458351659.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 6
+    :comments: 17
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Raycasting
+    :fullname: t3_4axxcs
+    :url: https://www.reddit.com/r/gamedev/comments/4axxcs/raycasting/
+    :created: 1458331066.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 5
+    :comments: 18
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How did you come up with a story for your game '
+    :fullname: t3_4b0cxy
+    :url: https://www.reddit.com/r/gamedev/comments/4b0cxy/how_did_you_come_up_with_a_story_for_your_game/
+    :created: 1458365800.0
+    :editd: false
+    :author_flair:
+      :text: http rotorist1 wix com warzone
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Masters Program
+    :fullname: t3_4b08be
+    :url: https://www.reddit.com/r/gamedev/comments/4b08be/masters_program/
+    :created: 1458363890.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 2
+    :comments: 0
+    :category: Roundup
+    :category_css: qs
+    :gilded: 0
+  :info:
+    :title: GDC 2016 Final Day Article Round Up Plus podcast discussing the entire
+      event
+    :fullname: t3_4b1k88
+    :url: https://www.reddit.com/r/gamedev/comments/4b1k88/gdc_2016_final_day_article_round_up_plus_podcast/
+    :created: 1458385791.0
+    :editd: 1458357975.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Roundup
+      :css: qs
+- :stats:
+    :score: 2
+    :comments: 1
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: Cube that couldn t platformer where you can t jump
+    :fullname: t3_4b0l4e
+    :url: https://www.reddit.com/r/gamedev/comments/4b0l4e/cube_that_couldnt_platformer_where_you_cant_jump/
+    :created: 1458369326.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 2
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'My Indie Game Going Mobile Part 10 Documenting my journey towards becoming
+      an indie game developer '
+    :fullname: t3_4b0i81
+    :url: https://www.reddit.com/r/gamedev/comments/4b0i81/my_indie_game_going_mobile_part_10_documenting_my/
+    :created: 1458368079.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 5
+    :category: Survey
+    :category_css: survey cat-talk
+    :gilded: 0
+  :info:
+    :title: Naming my Murder Mystery game Other gamedev s feedback
+    :fullname: t3_4b057f
+    :url: https://www.reddit.com/r/gamedev/comments/4b057f/naming_my_murder_mystery_game_other_gamedevs/
+    :created: 1458362624.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Survey
+      :css: survey cat-talk
+- :stats:
+    :score: 1
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Creating a generic editor from scratch '
+    :fullname: t3_4b1ilj
+    :url: https://www.reddit.com/r/gamedev/comments/4b1ilj/creating_a_generic_editor_from_scratch/
+    :created: 1458384945.0
+    :editd: 1458359545.0
+    :author_flair:
+      :text: mrspeaker net games
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 2
+    :comments: 6
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Max and Maya files in Humble Bundle
+    :fullname: t3_4b0ukr
+    :url: https://www.reddit.com/r/gamedev/comments/4b0ukr/max_and_maya_files_in_humble_bundle/
+    :created: 1458373522.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 3
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: Requesting feedback on IndieDB game page and general appearance of game
+      Stratagem
+    :fullname: t3_4b0e7k
+    :url: https://www.reddit.com/r/gamedev/comments/4b0e7k/requesting_feedback_on_indiedb_game_page_and/
+    :created: 1458366342.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 2
+    :comments: 0
+    :category: Assets
+    :category_css: assets cat-event
+    :gilded: 0
+  :info:
+    :title: Free songs from Audio Library Free Music and Audionautix
+    :fullname: t3_4b0a9p
+    :url: https://www.reddit.com/r/gamedev/comments/4b0a9p/free_songs_from_audio_library_free_music_and/
+    :created: 1458364699.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Assets
+      :css: assets cat-event
+- :stats:
+    :score: 1
+    :comments: 2
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Shortcuts to building a shooter '
+    :fullname: t3_4azy7s
+    :url: https://www.reddit.com/r/gamedev/comments/4azy7s/shortcuts_to_building_a_shooter/
+    :created: 1458359822.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 4
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'what s out there for open console development '
+    :fullname: t3_4aznxy
+    :url: https://www.reddit.com/r/gamedev/comments/4aznxy/whats_out_there_for_open_console_development/
+    :created: 1458355774.0
+    :editd: 1458336446.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 9
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'What s a decent step up to Stencyl '
+    :fullname: t3_4az3fd
+    :url: https://www.reddit.com/r/gamedev/comments/4az3fd/whats_a_decent_step_up_to_stencyl/
+    :created: 1458347806.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 15
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Best way of coding the movement of notes in a Guitar Hero like rhythm
+      game '
+    :fullname: t3_4ayt6w
+    :url: https://www.reddit.com/r/gamedev/comments/4ayt6w/best_way_of_coding_the_movement_of_notes_in_a/
+    :created: 1458344048.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 1
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Podcast Warren Spector shares his insights on the role of narrative in
+      games
+    :fullname: t3_4ay8vl
+    :url: https://www.reddit.com/r/gamedev/comments/4ay8vl/podcast_warren_spector_shares_his_insights_on_the/
+    :created: 1458335919.0
+    :editd: 1458319128.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 1
+    :comments: 7
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'Does programming bots count as game development '
+    :fullname: t3_4ax6ua
+    :url: https://www.reddit.com/r/gamedev/comments/4ax6ua/does_programming_bots_count_as_game_development/
+    :created: 1458311879.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 0
+    :comments: 2
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Game production
+    :fullname: t3_4az6r9
+    :url: https://www.reddit.com/r/gamedev/comments/4az6r9/game_production/
+    :created: 1458349090.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 12
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Can someone PLEASE help me with my developer title '
+    :fullname: t3_4b10li
+    :url: https://www.reddit.com/r/gamedev/comments/4b10li/can_someone_please_help_me_with_my_developer_title/
+    :created: 1458376324.0
+    :editd: 1458347681.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 21
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Want to make a game Please help '
+    :fullname: t3_4azkjc
+    :url: https://www.reddit.com/r/gamedev/comments/4azkjc/want_to_make_a_game_please_help/
+    :created: 1458354448.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
