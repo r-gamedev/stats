@@ -1,0 +1,582 @@
+---
+:meta:
+  :time_utc: 2016-04-04 05:00:06 UTC
+  :time_local: '2016-04-03 22:00:06 -0700'
+  :label: :24h
+  :period: :day
+:stats:
+  :general:
+    :scores:
+      :min: 0
+      :q1: 1.0
+      :q2: 5.0
+      :q3: 19.0
+      :max: 210
+      :mean: 31.88
+      :sum: 797.0
+    :comments:
+      :min: 0
+      :q1: 2.0
+      :q2: 9.0
+      :q3: 15.0
+      :max: 28
+      :mean: 10.32
+      :sum: 258.0
+    :count: 25
+  :by_category:
+    Article/Video:
+      :scores:
+        :min: 208
+        :q1: 208.0
+        :q2: 208.0
+        :q3: 208.0
+        :max: 208
+        :mean: 208.0
+        :sum: 208.0
+      :comments:
+        :min: 28
+        :q1: 28.0
+        :q2: 28.0
+        :q3: 28.0
+        :max: 28
+        :mean: 28.0
+        :sum: 28.0
+      :count: 1
+    Postmortem:
+      :scores:
+        :min: 210
+        :q1: 210.0
+        :q2: 210.0
+        :q3: 210.0
+        :max: 210
+        :mean: 210.0
+        :sum: 210.0
+      :comments:
+        :min: 25
+        :q1: 25.0
+        :q2: 25.0
+        :q3: 25.0
+        :max: 25
+        :mean: 25.0
+        :sum: 25.0
+      :count: 1
+    ! '':
+      :scores:
+        :min: 0
+        :q1: 1.0
+        :q2: 4.0
+        :q3: 8.0
+        :max: 138
+        :mean: 18.23076923076923
+        :sum: 237.0
+      :comments:
+        :min: 0
+        :q1: 2.0
+        :q2: 9.0
+        :q3: 11.0
+        :max: 25
+        :mean: 8.307692307692308
+        :sum: 108.0
+      :count: 13
+    Resource:
+      :scores:
+        :min: 3
+        :q1: 21.75
+        :q2: 40.5
+        :q3: 59.25
+        :max: 78
+        :mean: 40.5
+        :sum: 81.0
+      :comments:
+        :min: 0
+        :q1: 2.75
+        :q2: 5.5
+        :q3: 8.25
+        :max: 11
+        :mean: 5.5
+        :sum: 11.0
+      :count: 2
+    Question:
+      :scores:
+        :min: 0
+        :q1: 1.75
+        :q2: 6.5
+        :q3: 11.25
+        :max: 25
+        :mean: 8.5
+        :sum: 51.0
+      :comments:
+        :min: 2
+        :q1: 3.0
+        :q2: 10.5
+        :q3: 15.75
+        :max: 26
+        :mean: 11.166666666666666
+        :sum: 67.0
+      :count: 6
+    Discussion:
+      :scores:
+        :min: 5
+        :q1: 5.0
+        :q2: 5.0
+        :q3: 5.0
+        :max: 5
+        :mean: 5.0
+        :sum: 5.0
+      :comments:
+        :min: 9
+        :q1: 9.0
+        :q2: 9.0
+        :q3: 9.0
+        :max: 9
+        :mean: 9.0
+        :sum: 9.0
+      :count: 1
+    STS:
+      :scores:
+        :min: 5
+        :q1: 5.0
+        :q2: 5.0
+        :q3: 5.0
+        :max: 5
+        :mean: 5.0
+        :sum: 5.0
+      :comments:
+        :min: 10
+        :q1: 10.0
+        :q2: 10.0
+        :q3: 10.0
+        :max: 10
+        :mean: 10.0
+        :sum: 10.0
+      :count: 1
+:data:
+- :stats:
+    :score: 208
+    :comments: 28
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: 99 reasons not to open a game studio and 1 as to why you should
+    :fullname: t3_4d5v9o
+    :url: https://www.reddit.com/r/gamedev/comments/4d5v9o/99_reasons_not_to_open_a_game_studio_and_1_as_to/
+    :created: 1459712326.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 210
+    :comments: 25
+    :category: Postmortem
+    :category_css: postmortem cat-resource
+    :gilded: 0
+  :info:
+    :title: 'We sold 25 000 copies on Steam in 12 languages which locas paid off '
+    :fullname: t3_4d7umm
+    :url: https://www.reddit.com/r/gamedev/comments/4d7umm/we_sold_25000_copies_on_steam_in_12_languages/
+    :created: 1459745227.0
+    :editd: 1459716643.0
+    :author_flair:
+      :text: " sergeiklimov Gremlins Inc "
+    :link_flair:
+      :text: Postmortem
+      :css: postmortem cat-resource
+- :stats:
+    :score: 138
+    :comments: 21
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Poor Man s Sky experiments with procedural character generation
+    :fullname: t3_4d58k5
+    :url: https://www.reddit.com/r/gamedev/comments/4d58k5/poor_mans_sky_experiments_with_procedural/
+    :created: 1459694081.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 78
+    :comments: 11
+    :category: Resource
+    :category_css: resource cat-resource
+    :gilded: 0
+  :info:
+    :title: 16 GB royalty free SFX download from sonniss com
+    :fullname: t3_4d7qfg
+    :url: https://www.reddit.com/r/gamedev/comments/4d7qfg/16_gb_royalty_free_sfx_download_from_sonnisscom/
+    :created: 1459743549.0
+    :editd: false
+    :author_flair:
+      :text: Nowhere Prophet Dev
+    :link_flair:
+      :text: Resource
+      :css: resource cat-resource
+- :stats:
+    :score: 55
+    :comments: 11
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Haxe will soon transpile to Lua
+    :fullname: t3_4d63jf
+    :url: https://www.reddit.com/r/gamedev/comments/4d63jf/haxe_will_soon_transpile_to_lua/
+    :created: 1459718054.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 25
+    :comments: 16
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'What level of in person crowd interaction is typically required to market
+      an indie game '
+    :fullname: t3_4d5ck1
+    :url: https://www.reddit.com/r/gamedev/comments/4d5ck1/what_level_of_inpersoncrowd_interaction_is/
+    :created: 1459697029.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 19
+    :comments: 9
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'How do you prepare plan an RPG game before you start '
+    :fullname: t3_4d5gyu
+    :url: https://www.reddit.com/r/gamedev/comments/4d5gyu/how_do_you_prepareplan_an_rpg_game_before_you/
+    :created: 1459700634.0
+    :editd: false
+    :author_flair:
+      :text: Swift Developer JozemiteApps
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 12
+    :comments: 26
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Looking for free 2D game engines that export to PC and Android
+    :fullname: t3_4d5o0a
+    :url: https://www.reddit.com/r/gamedev/comments/4d5o0a/looking_for_free_2d_game_engines_that_export_to/
+    :created: 1459706496.0
+    :editd: 1459713584.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 9
+    :comments: 2
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'i have way too many ideas what s the best way to decide which to make '
+    :fullname: t3_4d90jv
+    :url: https://www.reddit.com/r/gamedev/comments/4d90jv/i_have_way_too_many_ideas_whats_the_best_way_to/
+    :created: 1459763454.0
+    :editd: 1459734956.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 8
+    :comments: 11
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Tile maps and edges blending how exactly does that work '
+    :fullname: t3_4d7qqk
+    :url: https://www.reddit.com/r/gamedev/comments/4d7qqk/tile_maps_and_edges_blending_how_exactly_does/
+    :created: 1459743688.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 5
+    :comments: 9
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'Going from Hobby to More Serious development and some questions '
+    :fullname: t3_4d7nsi
+    :url: https://www.reddit.com/r/gamedev/comments/4d7nsi/going_from_hobby_to_more_serious_development_and/
+    :created: 1459742488.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 5
+    :comments: 3
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Advice for getting into Project Management in the Game Dev world '
+    :fullname: t3_4d6h3b
+    :url: https://www.reddit.com/r/gamedev/comments/4d6h3b/advice_for_getting_into_project_management_in_the/
+    :created: 1459725090.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 5
+    :comments: 10
+    :category: STS
+    :category_css: sts cat-weekly
+    :gilded: 0
+  :info:
+    :title: Soundtrack Sunday 134 Just another track
+    :fullname: t3_4d4vn2
+    :url: https://www.reddit.com/r/gamedev/comments/4d4vn2/soundtrack_sunday_134_just_another_track/
+    :created: 1459686116.0
+    :editd: false
+    :author_flair:
+      :text: " LucklessSeven"
+    :link_flair:
+      :text: STS
+      :css: sts cat-weekly
+- :stats:
+    :score: 4
+    :comments: 6
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Any Advice for encouraging members in a dev team '
+    :fullname: t3_4d8ul4
+    :url: https://www.reddit.com/r/gamedev/comments/4d8ul4/any_advice_for_encouraging_members_in_a_dev_team/
+    :created: 1459760697.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 4
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Alpha masks are so useful to solve problems '
+    :fullname: t3_4d7u5k
+    :url: https://www.reddit.com/r/gamedev/comments/4d7u5k/alpha_masks_are_so_useful_to_solve_problems/
+    :created: 1459745047.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 4
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Voxel Cascade Gameplay Alpha 1 2 67
+    :fullname: t3_4d7hko
+    :url: https://www.reddit.com/r/gamedev/comments/4d7hko/voxel_cascade_gameplay_alpha_1267/
+    :created: 1459740013.0
+    :editd: false
+    :author_flair:
+      :text: " Alomax Voxel Cascade"
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 3
+    :comments: 0
+    :category: Resource
+    :category_css: resource cat-resource
+    :gilded: 0
+  :info:
+    :title: If you re making an oculus game and want it to be compatible with the
+      latest version of the runtime 1 3 instructions
+    :fullname: t3_4d7d0j
+    :url: https://www.reddit.com/r/gamedev/comments/4d7d0j/if_youre_making_an_oculus_game_and_want_it_to_be/
+    :created: 1459738270.0
+    :editd: 1459712532.0
+    :author_flair:
+      :text: http void21 com dev
+    :link_flair:
+      :text: Resource
+      :css: resource cat-resource
+- :stats:
+    :score: 1
+    :comments: 4
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Should Player be able to attack any NPC '
+    :fullname: t3_4d99oo
+    :url: https://www.reddit.com/r/gamedev/comments/4d99oo/should_player_be_able_to_attack_any_npc/
+    :created: 1459767746.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: New website for designers variant makers and even just game players
+    :fullname: t3_4d9911
+    :url: https://www.reddit.com/r/gamedev/comments/4d9911/new_website_for_designers_variant_makers_and_even/
+    :created: 1459767426.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 2
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Legal question about MakeHuman and CC0 license
+    :fullname: t3_4d7sh7
+    :url: https://www.reddit.com/r/gamedev/comments/4d7sh7/legal_question_about_makehuman_and_cc0_license/
+    :created: 1459744397.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Anyone know where I can see an overview of the visual effects and game
+      art pipeline '
+    :fullname: t3_4d6vjs
+    :url: https://www.reddit.com/r/gamedev/comments/4d6vjs/anyone_know_where_i_can_see_an_overview_of_the/
+    :created: 1459731404.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 9
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Need something I can read for a long journey
+    :fullname: t3_4d63hp
+    :url: https://www.reddit.com/r/gamedev/comments/4d63hp/need_something_i_can_read_for_a_long_journey/
+    :created: 1459718024.0
+    :editd: 1459690954.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 11
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Question on language of choice
+    :fullname: t3_4d7386
+    :url: https://www.reddit.com/r/gamedev/comments/4d7386/question_on_language_of_choice/
+    :created: 1459734404.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 15
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How does it cost money to make games when you use free software other
+      than marketing '
+    :fullname: t3_4d8rll
+    :url: https://www.reddit.com/r/gamedev/comments/4d8rll/how_does_it_cost_money_to_make_games_when_you_use/
+    :created: 1459759331.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 25
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Completly new game idea looking for ideas to implement help and feedback '
+    :fullname: t3_4d6anm
+    :url: https://www.reddit.com/r/gamedev/comments/4d6anm/completly_new_game_idea_looking_for_ideas_to/
+    :created: 1459721978.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
