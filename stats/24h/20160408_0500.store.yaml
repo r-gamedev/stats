@@ -1,0 +1,916 @@
+---
+:meta:
+  :time_utc: 2016-04-08 05:00:08 UTC
+  :time_local: '2016-04-07 22:00:08 -0700'
+  :label: :24h
+  :period: :day
+:stats:
+  :general:
+    :scores:
+      :min: 0
+      :q1: 1.0
+      :q2: 4.0
+      :q3: 10.0
+      :max: 266
+      :mean: 17.48780487804878
+      :sum: 717.0
+    :comments:
+      :min: 0
+      :q1: 1.0
+      :q2: 3.0
+      :q3: 8.0
+      :max: 47
+      :mean: 8.24390243902439
+      :sum: 338.0
+    :count: 41
+  :by_category:
+    ! '':
+      :scores:
+        :min: 0
+        :q1: 1.0
+        :q2: 1.0
+        :q3: 5.0
+        :max: 266
+        :mean: 17.57894736842105
+        :sum: 334.0
+      :comments:
+        :min: 0
+        :q1: 1.0
+        :q2: 2.0
+        :q3: 6.5
+        :max: 47
+        :mean: 7.2631578947368425
+        :sum: 138.0
+      :count: 19
+    Tutorial:
+      :scores:
+        :min: 10
+        :q1: 14.0
+        :q2: 18.0
+        :q3: 121.0
+        :max: 224
+        :mean: 84.0
+        :sum: 252.0
+      :comments:
+        :min: 0
+        :q1: 1.0
+        :q2: 2.0
+        :q3: 19.0
+        :max: 36
+        :mean: 12.666666666666666
+        :sum: 38.0
+      :count: 3
+    Question:
+      :scores:
+        :min: 0
+        :q1: 1.0
+        :q2: 2.5
+        :q3: 8.5
+        :max: 28
+        :mean: 6.3
+        :sum: 63.0
+      :comments:
+        :min: 0
+        :q1: 3.0
+        :q2: 4.0
+        :q3: 7.25
+        :max: 37
+        :mean: 8.2
+        :sum: 82.0
+      :count: 10
+    Discussion:
+      :scores:
+        :min: 5
+        :q1: 8.25
+        :q2: 11.5
+        :q3: 14.75
+        :max: 18
+        :mean: 11.5
+        :sum: 23.0
+      :comments:
+        :min: 0
+        :q1: 5.5
+        :q2: 11.0
+        :q3: 16.5
+        :max: 22
+        :mean: 11.0
+        :sum: 22.0
+      :count: 2
+    Gamejam:
+      :scores:
+        :min: 14
+        :q1: 14.0
+        :q2: 14.0
+        :q3: 14.0
+        :max: 14
+        :mean: 14.0
+        :sum: 14.0
+      :comments:
+        :min: 7
+        :q1: 7.0
+        :q2: 7.0
+        :q3: 7.0
+        :max: 7
+        :mean: 7.0
+        :sum: 7.0
+      :count: 1
+    Showcase:
+      :scores:
+        :min: 9
+        :q1: 9.0
+        :q2: 9.0
+        :q3: 9.0
+        :max: 9
+        :mean: 9.0
+        :sum: 9.0
+      :comments:
+        :min: 6
+        :q1: 6.0
+        :q2: 6.0
+        :q3: 6.0
+        :max: 6
+        :mean: 6.0
+        :sum: 6.0
+      :count: 1
+    Feedback:
+      :scores:
+        :min: 8
+        :q1: 8.0
+        :q2: 8.0
+        :q3: 8.0
+        :max: 8
+        :mean: 8.0
+        :sum: 8.0
+      :comments:
+        :min: 9
+        :q1: 9.0
+        :q2: 9.0
+        :q3: 9.0
+        :max: 9
+        :mean: 9.0
+        :sum: 9.0
+      :count: 1
+    Survey:
+      :scores:
+        :min: 2
+        :q1: 2.5
+        :q2: 3.0
+        :q3: 3.5
+        :max: 4
+        :mean: 3.0
+        :sum: 6.0
+      :comments:
+        :min: 0
+        :q1: 8.25
+        :q2: 16.5
+        :q3: 24.75
+        :max: 33
+        :mean: 16.5
+        :sum: 33.0
+      :count: 2
+    Article/Video:
+      :scores:
+        :min: 5
+        :q1: 5.0
+        :q2: 5.0
+        :q3: 5.0
+        :max: 5
+        :mean: 5.0
+        :sum: 5.0
+      :comments:
+        :min: 3
+        :q1: 3.0
+        :q2: 3.0
+        :q3: 3.0
+        :max: 3
+        :mean: 3.0
+        :sum: 3.0
+      :count: 1
+    FF:
+      :scores:
+        :min: 3
+        :q1: 3.0
+        :q2: 3.0
+        :q3: 3.0
+        :max: 3
+        :mean: 3.0
+        :sum: 3.0
+      :comments:
+        :min: 0
+        :q1: 0.0
+        :q2: 0.0
+        :q3: 0.0
+        :max: 0
+        :mean: 0.0
+        :sum: 0.0
+      :count: 1
+:data:
+- :stats:
+    :score: 266
+    :comments: 37
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 5 yrs later modders still message me over my FOSS Garry s Mod alternative
+      Half Life 2 Sandbox
+    :fullname: t3_4ds13t
+    :url: https://www.reddit.com/r/gamedev/comments/4ds13t/5_yrs_later_modders_still_message_me_over_my_foss/
+    :created: 1460077849.0
+    :editd: 1460079974.0
+    :author_flair:
+      :text: Planimeter
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 224
+    :comments: 36
+    :category: Tutorial
+    :category_css: tutorial cat-resource
+    :gilded: 0
+  :info:
+    :title: Evolutionary Computation in Unity Part 1
+    :fullname: t3_4dqbqi
+    :url: https://www.reddit.com/r/gamedev/comments/4dqbqi/evolutionary_computation_in_unity_part_1/
+    :created: 1460050616.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Tutorial
+      :css: tutorial cat-resource
+- :stats:
+    :score: 28
+    :comments: 5
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: My game is in the GiantBomb database but it still won t show up on Twitch
+    :fullname: t3_4dq53a
+    :url: https://www.reddit.com/r/gamedev/comments/4dq53a/my_game_is_in_the_giantbomb_database_but_it_still/
+    :created: 1460045863.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 19
+    :comments: 14
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Seeking for advice would you share your game built in HTML5 on the web
+      for testing purposes '
+    :fullname: t3_4dqtv8
+    :url: https://www.reddit.com/r/gamedev/comments/4dqtv8/seeking_for_advice_would_you_share_your_game/
+    :created: 1460061410.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 18
+    :comments: 22
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'What do you do when you re not enjoying what you re developing '
+    :fullname: t3_4dt8nz
+    :url: https://www.reddit.com/r/gamedev/comments/4dt8nz/what_do_you_do_when_youre_not_enjoying_what_youre/
+    :created: 1460093041.0
+    :editd: 1460091093.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 18
+    :comments: 2
+    :category: Tutorial
+    :category_css: tutorial cat-resource
+    :gilded: 0
+  :info:
+    :title: Tutorial Sliding menu system using Texture Mask shader
+    :fullname: t3_4dss72
+    :url: https://www.reddit.com/r/gamedev/comments/4dss72/tutorial_sliding_menu_system_using_texture_mask/
+    :created: 1460087118.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Tutorial
+      :css: tutorial cat-resource
+- :stats:
+    :score: 17
+    :comments: 47
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Programmers do you actually make your art yourself '
+    :fullname: t3_4ds7ob
+    :url: https://www.reddit.com/r/gamedev/comments/4ds7ob/programmers_do_you_actually_make_your_art_yourself/
+    :created: 1460080023.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 13
+    :comments: 37
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Direction of Game Development
+    :fullname: t3_4dq4p9
+    :url: https://www.reddit.com/r/gamedev/comments/4dq4p9/direction_of_game_development/
+    :created: 1460045587.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 14
+    :comments: 7
+    :category: Gamejam
+    :category_css: gamejam cat-event
+    :gilded: 0
+  :info:
+    :title: 'With Ludum Dare 35 a week away what tips do you have for first time participants '
+    :fullname: t3_4dts3o
+    :url: https://www.reddit.com/r/gamedev/comments/4dts3o/with_ludum_dare_35_a_week_away_what_tips_do_you/
+    :created: 1460100515.0
+    :editd: false
+    :author_flair:
+      :text: " test_zero"
+    :link_flair:
+      :text: Gamejam
+      :css: gamejam cat-event
+- :stats:
+    :score: 10
+    :comments: 3
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Remaking open source classics can you publish them '
+    :fullname: t3_4dqjcd
+    :url: https://www.reddit.com/r/gamedev/comments/4dqjcd/remaking_open_source_classics_can_you_publish_them/
+    :created: 1460055679.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 9
+    :comments: 6
+    :category: Showcase
+    :category_css: showcase cat-game
+    :gilded: 0
+  :info:
+    :title: 'A Game Jam Win and a year later my first large project is released today
+      Here I tracked my progress throughout development '
+    :fullname: t3_4dqscb
+    :url: https://www.reddit.com/r/gamedev/comments/4dqscb/a_game_jam_win_and_a_year_later_my_first_large/
+    :created: 1460060669.0
+    :editd: 1460047197.0
+    :author_flair:
+      :text: " corriejgreen"
+    :link_flair:
+      :text: Showcase
+      :css: showcase cat-game
+- :stats:
+    :score: 8
+    :comments: 9
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: 'My new project A bit over a month in and progressing well '
+    :fullname: t3_4dqw0t
+    :url: https://www.reddit.com/r/gamedev/comments/4dqw0t/my_new_project_a_bit_over_a_month_in_and/
+    :created: 1460062459.0
+    :editd: 1460038400.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 7
+    :comments: 12
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'How do you go about critiquing your teammates work if they feel self
+      conscious about themselves '
+    :fullname: t3_4ds5pa
+    :url: https://www.reddit.com/r/gamedev/comments/4ds5pa/how_do_you_go_about_critiquing_your_teammates/
+    :created: 1460079353.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 10
+    :comments: 0
+    :category: Tutorial
+    :category_css: tutorial cat-resource
+    :gilded: 0
+  :info:
+    :title: Creating dirt and rock textures using Blender particle systems
+    :fullname: t3_4duera
+    :url: https://www.reddit.com/r/gamedev/comments/4duera/creating_dirt_and_rock_textures_using_blender/
+    :created: 1460110239.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Tutorial
+      :css: tutorial cat-resource
+- :stats:
+    :score: 6
+    :comments: 6
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: " seeking advice Have some questions about my first unity game "
+    :fullname: t3_4ds1yh
+    :url: https://www.reddit.com/r/gamedev/comments/4ds1yh/seeking_advice_have_some_questions_about_my_first/
+    :created: 1460078133.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 4
+    :comments: 33
+    :category: Survey
+    :category_css: survey cat-talk
+    :gilded: 0
+  :info:
+    :title: 'How old were you when you first stated learning to develop games code '
+    :fullname: t3_4dsxm7
+    :url: https://www.reddit.com/r/gamedev/comments/4dsxm7/how_old_were_you_when_you_first_stated_learning/
+    :created: 1460089071.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Survey
+      :css: survey cat-talk
+- :stats:
+    :score: 5
+    :comments: 0
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'Tools are Changing the Landscape of Game Development What does this mean
+      for developers '
+    :fullname: t3_4dsxjb
+    :url: https://www.reddit.com/r/gamedev/comments/4dsxjb/tools_are_changing_the_landscape_of_game/
+    :created: 1460089036.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 5
+    :comments: 3
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: The largest independent video games cooperative in the world is formed
+      in Quebec
+    :fullname: t3_4dr0j5
+    :url: https://www.reddit.com/r/gamedev/comments/4dr0j5/the_largest_independent_video_games_cooperative/
+    :created: 1460064349.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 4
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Question for fans of text iphone games
+    :fullname: t3_4dsy1k
+    :url: https://www.reddit.com/r/gamedev/comments/4dsy1k/question_for_fans_of_text_iphone_games/
+    :created: 1460089211.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 3
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'What would the Gamedev community want to see in a dev blog and podcast '
+    :fullname: t3_4dsjco
+    :url: https://www.reddit.com/r/gamedev/comments/4dsjco/what_would_the_gamedev_community_want_to_see_in_a/
+    :created: 1460084022.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 3
+    :comments: 3
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Where how to get people to test my game '
+    :fullname: t3_4dpvho
+    :url: https://www.reddit.com/r/gamedev/comments/4dpvho/wherehow_to_get_people_to_test_my_game/
+    :created: 1460039294.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 4
+    :comments: 8
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'I want to get into game design not sure where to start '
+    :fullname: t3_4dph36
+    :url: https://www.reddit.com/r/gamedev/comments/4dph36/i_want_to_get_into_game_design_not_sure_where_to/
+    :created: 1460031057.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 4
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: " X Post from r truegaming Economic Realism in 4x Games theorycrafting
+      and design"
+    :fullname: t3_4du3a3
+    :url: https://www.reddit.com/r/gamedev/comments/4du3a3/xpost_from_rtruegaming_economic_realism_in_4x/
+    :created: 1460105195.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 0
+    :category: Survey
+    :category_css: survey cat-talk
+    :gilded: 0
+  :info:
+    :title: 'Recommend your best Unity Assets and I ll write reviews for them xpost
+      from r unity3d '
+    :fullname: t3_4drc4t
+    :url: https://www.reddit.com/r/gamedev/comments/4drc4t/recommend_your_best_unity_assets_and_ill_write/
+    :created: 1460068964.0
+    :editd: false
+    :author_flair:
+      :text: " t_machine_org"
+    :link_flair:
+      :text: Survey
+      :css: survey cat-talk
+- :stats:
+    :score: 2
+    :comments: 17
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: First post serious talk
+    :fullname: t3_4dprra
+    :url: https://www.reddit.com/r/gamedev/comments/4dprra/first_post_serious_talk/
+    :created: 1460036895.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 3
+    :comments: 0
+    :category: FF
+    :category_css: ff cat-weekly
+    :gilded: 0
+  :info:
+    :title: Feedback Friday 180 Sleek Interface
+    :fullname: t3_4dut86
+    :url: https://www.reddit.com/r/gamedev/comments/4dut86/feedback_friday_180_sleek_interface/
+    :created: 1460116968.0
+    :editd: false
+    :author_flair:
+      :text: " LucklessSeven"
+    :link_flair:
+      :text: FF
+      :css: ff cat-weekly
+- :stats:
+    :score: 1
+    :comments: 1
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Current Gen games using chromatic aberration '
+    :fullname: t3_4duewk
+    :url: https://www.reddit.com/r/gamedev/comments/4duewk/current_gen_games_using_chromatic_aberration/
+    :created: 1460110310.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Figuring out what a game is created in and how to emulate the style
+    :fullname: t3_4du5wm
+    :url: https://www.reddit.com/r/gamedev/comments/4du5wm/figuring_out_what_a_game_is_created_in_and_how_to/
+    :created: 1460106313.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Help with figuring out how much equity is fair and how to deal with payments
+      for a Game startup '
+    :fullname: t3_4dtsjw
+    :url: https://www.reddit.com/r/gamedev/comments/4dtsjw/help_with_figuring_out_how_much_equity_is_fair/
+    :created: 1460100690.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Best framework for a bullet hell game '
+    :fullname: t3_4dth83
+    :url: https://www.reddit.com/r/gamedev/comments/4dth83/best_framework_for_a_bullet_hell_game/
+    :created: 1460096290.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'UAL KU Game Design MA UK '
+    :fullname: t3_4dtfkm
+    :url: https://www.reddit.com/r/gamedev/comments/4dtfkm/ual_ku_game_design_ma_uk/
+    :created: 1460095667.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 7
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Do you prefer Female and or Male voice over '
+    :fullname: t3_4drpzd
+    :url: https://www.reddit.com/r/gamedev/comments/4drpzd/do_you_prefer_female_andor_male_voice_over/
+    :created: 1460073979.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Looking for a Dev to do an Informational Interview
+    :fullname: t3_4drpv6
+    :url: https://www.reddit.com/r/gamedev/comments/4drpv6/looking_for_a_dev_to_do_an_informational_interview/
+    :created: 1460073943.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'What percentage of game development teams are in each role '
+    :fullname: t3_4drkyh
+    :url: https://www.reddit.com/r/gamedev/comments/4drkyh/what_percentage_of_game_development_teams_are_in/
+    :created: 1460072137.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Attempting first game making a procedural generated rouge like would like
+      some advice for optimizations
+    :fullname: t3_4dqo13
+    :url: https://www.reddit.com/r/gamedev/comments/4dqo13/attempting_first_game_making_a_procedural/
+    :created: 1460058462.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Render Budget Planning Unreal
+    :fullname: t3_4dq9r8
+    :url: https://www.reddit.com/r/gamedev/comments/4dq9r8/render_budget_planning_unreal/
+    :created: 1460049219.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Watch an AI stream through randomly generated levels in meditative puzzle
+      action game
+    :fullname: t3_4dq8w4
+    :url: https://www.reddit.com/r/gamedev/comments/4dq8w4/watch_an_ai_stream_through_randomly_generated/
+    :created: 1460048589.0
+    :editd: false
+    :author_flair:
+      :text: " EmotionTheory Adam Thompson is making SUPER SHIELD "
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 3
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Professor not teaching the game loop or basic concepta
+    :fullname: t3_4du315
+    :url: https://www.reddit.com/r/gamedev/comments/4du315/professor_not_teaching_the_game_loop_or_basic/
+    :created: 1460105081.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Procedural Generation implementation considerations
+    :fullname: t3_4dsepy
+    :url: https://www.reddit.com/r/gamedev/comments/4dsepy/procedural_generation_implementation/
+    :created: 1460082416.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Help When walking my y position changes depending on the direction and
+      my walk cycle continues when I stop walking '
+    :fullname: t3_4dq922
+    :url: https://www.reddit.com/r/gamedev/comments/4dq922/help_when_walking_my_y_position_changes_depending/
+    :created: 1460048708.0
+    :editd: 1460020212.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: River generation tool for developers dissertation
+    :fullname: t3_4drb38
+    :url: https://www.reddit.com/r/gamedev/comments/4drb38/river_generation_tool_for_developers_dissertation/
+    :created: 1460068580.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
