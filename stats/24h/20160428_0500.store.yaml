@@ -1,0 +1,691 @@
+---
+:meta:
+  :time_utc: 2016-04-28 05:00:06 UTC
+  :time_local: '2016-04-27 22:00:06 -0700'
+  :label: :24h
+  :period: :day
+:stats:
+  :general:
+    :scores:
+      :min: 0
+      :q1: 2.0
+      :q2: 4.0
+      :q3: 10.0
+      :max: 442
+      :mean: 25.51851851851852
+      :sum: 689.0
+    :comments:
+      :min: 0
+      :q1: 2.5
+      :q2: 6.0
+      :q3: 13.0
+      :max: 125
+      :mean: 13.148148148148149
+      :sum: 355.0
+    :count: 27
+  :by_category:
+    Tutorial:
+      :scores:
+        :min: 3
+        :q1: 112.75
+        :q2: 222.5
+        :q3: 332.25
+        :max: 442
+        :mean: 222.5
+        :sum: 445.0
+      :comments:
+        :min: 0
+        :q1: 9.5
+        :q2: 19.0
+        :q3: 28.5
+        :max: 38
+        :mean: 19.0
+        :sum: 38.0
+      :count: 2
+    Resource:
+      :scores:
+        :min: 3
+        :q1: 12.5
+        :q2: 22.0
+        :q3: 41.5
+        :max: 61
+        :mean: 28.666666666666668
+        :sum: 86.0
+      :comments:
+        :min: 0
+        :q1: 3.5
+        :q2: 7.0
+        :q3: 19.5
+        :max: 32
+        :mean: 13.0
+        :sum: 39.0
+      :count: 3
+    WIPW:
+      :scores:
+        :min: 32
+        :q1: 32.0
+        :q2: 32.0
+        :q3: 32.0
+        :max: 32
+        :mean: 32.0
+        :sum: 32.0
+      :comments:
+        :min: 125
+        :q1: 125.0
+        :q2: 125.0
+        :q3: 125.0
+        :max: 125
+        :mean: 125.0
+        :sum: 125.0
+      :count: 1
+    Discussion:
+      :scores:
+        :min: 1
+        :q1: 1.75
+        :q2: 13.5
+        :q3: 25.5
+        :max: 27
+        :mean: 13.75
+        :sum: 55.0
+      :comments:
+        :min: 4
+        :q1: 4.0
+        :q2: 8.5
+        :q3: 16.0
+        :max: 25
+        :mean: 11.5
+        :sum: 46.0
+      :count: 4
+    Question:
+      :scores:
+        :min: 2
+        :q1: 3.0
+        :q2: 4.0
+        :q3: 8.0
+        :max: 12
+        :mean: 6.0
+        :sum: 18.0
+      :comments:
+        :min: 3
+        :q1: 6.5
+        :q2: 10.0
+        :q3: 11.5
+        :max: 13
+        :mean: 8.666666666666666
+        :sum: 26.0
+      :count: 3
+    Feedback:
+      :scores:
+        :min: 8
+        :q1: 8.0
+        :q2: 8.0
+        :q3: 8.0
+        :max: 8
+        :mean: 8.0
+        :sum: 8.0
+      :comments:
+        :min: 15
+        :q1: 15.0
+        :q2: 15.0
+        :q3: 15.0
+        :max: 15
+        :mean: 15.0
+        :sum: 15.0
+      :count: 1
+    Article/Video:
+      :scores:
+        :min: 5
+        :q1: 5.75
+        :q2: 6.5
+        :q3: 7.25
+        :max: 8
+        :mean: 6.5
+        :sum: 13.0
+      :comments:
+        :min: 1
+        :q1: 1.0
+        :q2: 1.0
+        :q3: 1.0
+        :max: 1
+        :mean: 1.0
+        :sum: 2.0
+      :count: 2
+    Survey:
+      :scores:
+        :min: 7
+        :q1: 7.0
+        :q2: 7.0
+        :q3: 7.0
+        :max: 7
+        :mean: 7.0
+        :sum: 7.0
+      :comments:
+        :min: 6
+        :q1: 6.0
+        :q2: 6.0
+        :q3: 6.0
+        :max: 6
+        :mean: 6.0
+        :sum: 6.0
+      :count: 1
+    Announcement:
+      :scores:
+        :min: 8
+        :q1: 8.0
+        :q2: 8.0
+        :q3: 8.0
+        :max: 8
+        :mean: 8.0
+        :sum: 8.0
+      :comments:
+        :min: 7
+        :q1: 7.0
+        :q2: 7.0
+        :q3: 7.0
+        :max: 7
+        :mean: 7.0
+        :sum: 7.0
+      :count: 1
+    ! '':
+      :scores:
+        :min: 0
+        :q1: 0.75
+        :q2: 1.5
+        :q3: 3.25
+        :max: 6
+        :mean: 2.125
+        :sum: 17.0
+      :comments:
+        :min: 0
+        :q1: 1.75
+        :q2: 4.0
+        :q3: 6.0
+        :max: 14
+        :mean: 4.875
+        :sum: 39.0
+      :count: 8
+    Idea:
+      :scores:
+        :min: 0
+        :q1: 0.0
+        :q2: 0.0
+        :q3: 0.0
+        :max: 0
+        :mean: 0.0
+        :sum: 0.0
+      :comments:
+        :min: 12
+        :q1: 12.0
+        :q2: 12.0
+        :q3: 12.0
+        :max: 12
+        :mean: 12.0
+        :sum: 12.0
+      :count: 1
+:data:
+- :stats:
+    :score: 442
+    :comments: 38
+    :category: Tutorial
+    :category_css: tutorial cat-resource
+    :gilded: 0
+  :info:
+    :title: 'Genetic Programming for Game Developers with Unity package '
+    :fullname: t3_4gnv03
+    :url: https://www.reddit.com/r/gamedev/comments/4gnv03/genetic_programming_for_game_developers_with/
+    :created: 1461781542.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Tutorial
+      :css: tutorial cat-resource
+- :stats:
+    :score: 61
+    :comments: 7
+    :category: Resource
+    :category_css: resource cat-resource
+    :gilded: 0
+  :info:
+    :title: Google launches the Google Play Awards
+    :fullname: t3_4gnlvp
+    :url: https://www.reddit.com/r/gamedev/comments/4gnlvp/google_launches_the_google_play_awards/
+    :created: 1461775580.0
+    :editd: false
+    :author_flair:
+      :text: " EageronEN"
+    :link_flair:
+      :text: Resource
+      :css: resource cat-resource
+- :stats:
+    :score: 32
+    :comments: 125
+    :category: WIPW
+    :category_css: wipw cat-weekly
+    :gilded: 0
+  :info:
+    :title: WIP Wednesday 1 Working on progress
+    :fullname: t3_4gmw92
+    :url: https://www.reddit.com/r/gamedev/comments/4gmw92/wip_wednesday_1_working_on_progress/
+    :created: 1461760130.0
+    :editd: false
+    :author_flair:
+      :text: " FlorianCaesar"
+    :link_flair:
+      :text: WIPW
+      :css: wipw cat-weekly
+- :stats:
+    :score: 27
+    :comments: 25
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'My very first sprite ever '
+    :fullname: t3_4gncim
+    :url: https://www.reddit.com/r/gamedev/comments/4gncim/my_very_first_sprite_ever/
+    :created: 1461769228.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 25
+    :comments: 13
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'How do you go about implementing new features '
+    :fullname: t3_4gnqyt
+    :url: https://www.reddit.com/r/gamedev/comments/4gnqyt/how_do_you_go_about_implementing_new_features/
+    :created: 1461778990.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 22
+    :comments: 32
+    :category: Resource
+    :category_css: resource cat-resource
+    :gilded: 0
+  :info:
+    :title: 'How to find the best gamedev role for you '
+    :fullname: t3_4gnljv
+    :url: https://www.reddit.com/r/gamedev/comments/4gnljv/how_to_find_the_best_gamedev_role_for_you/
+    :created: 1461775335.0
+    :editd: false
+    :author_flair:
+      :text: " stevepunk__"
+    :link_flair:
+      :text: Resource
+      :css: resource cat-resource
+- :stats:
+    :score: 12
+    :comments: 13
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Could an artificial life simulator be viable as a computer game '
+    :fullname: t3_4gq996
+    :url: https://www.reddit.com/r/gamedev/comments/4gq996/could_an_artificial_life_simulator_be_viable_as_a/
+    :created: 1461815407.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 8
+    :comments: 15
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: 'Making Explosions Feel Juicy animated gifs inside '
+    :fullname: t3_4gp4sx
+    :url: https://www.reddit.com/r/gamedev/comments/4gp4sx/making_explosions_feel_juicy_animated_gifs_inside/
+    :created: 1461801493.0
+    :editd: false
+    :author_flair:
+      :text: " orunbot Lazorun com"
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 8
+    :comments: 1
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Design process of a paper pop up book visual style for our hack amp slash
+      and six more games
+    :fullname: t3_4gonxh
+    :url: https://www.reddit.com/r/gamedev/comments/4gonxh/design_process_of_a_paper_popup_book_visual_style/
+    :created: 1461795448.0
+    :editd: 1461767920.0
+    :author_flair:
+      :text: Retrun 2 Games Thing Trunk
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 7
+    :comments: 6
+    :category: Survey
+    :category_css: survey cat-talk
+    :gilded: 0
+  :info:
+    :title: 'Understanding icons in games and other software programs '
+    :fullname: t3_4gplr6
+    :url: https://www.reddit.com/r/gamedev/comments/4gplr6/understanding_icons_in_games_and_other_software/
+    :created: 1461807279.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Survey
+      :css: survey cat-talk
+- :stats:
+    :score: 8
+    :comments: 7
+    :category: Announcement
+    :category_css: announcement cat-event
+    :gilded: 0
+  :info:
+    :title: 'RE I Made This Engine In A Few Months Level Editor Demo And Release News '
+    :fullname: t3_4gpf0p
+    :url: https://www.reddit.com/r/gamedev/comments/4gpf0p/re_i_made_this_engine_in_a_few_months_level/
+    :created: 1461805046.0
+    :editd: 1461800262.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Announcement
+      :css: announcement cat-event
+- :stats:
+    :score: 6
+    :comments: 14
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Blender alternatives '
+    :fullname: t3_4gocdo
+    :url: https://www.reddit.com/r/gamedev/comments/4gocdo/blender_alternatives/
+    :created: 1461790739.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 4
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Experiences with low end mocap '
+    :fullname: t3_4gra53
+    :url: https://www.reddit.com/r/gamedev/comments/4gra53/experiences_with_low_end_mocap/
+    :created: 1461829045.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 5
+    :comments: 1
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Deciding the visual style for a cyberpunk top down shooter created by
+      a small team using an in house engine
+    :fullname: t3_4gqef6
+    :url: https://www.reddit.com/r/gamedev/comments/4gqef6/deciding_the_visual_style_for_a_cyberpunk_topdown/
+    :created: 1461817272.0
+    :editd: 1461789001.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 3
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Vive controller Axis Inputs in Unity
+    :fullname: t3_4gojal
+    :url: https://www.reddit.com/r/gamedev/comments/4gojal/vive_controller_axis_inputs_in_unity/
+    :created: 1461793660.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 3
+    :comments: 0
+    :category: Tutorial
+    :category_css: tutorial cat-resource
+    :gilded: 0
+  :info:
+    :title: Characters eyes follow the mouse Game maker studio
+    :fullname: t3_4gnkd7
+    :url: https://www.reddit.com/r/gamedev/comments/4gnkd7/characters_eyes_follow_the_mouse_game_maker_studio/
+    :created: 1461774454.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Tutorial
+      :css: tutorial cat-resource
+- :stats:
+    :score: 4
+    :comments: 10
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Should I use any specific program to create pixel art '
+    :fullname: t3_4gpd98
+    :url: https://www.reddit.com/r/gamedev/comments/4gpd98/should_i_use_any_specific_program_to_create_pixel/
+    :created: 1461804415.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 3
+    :comments: 0
+    :category: Resource
+    :category_css: resource cat-resource
+    :gilded: 0
+  :info:
+    :title: Gearing up for Gaming Live Event Today Featuring Logitech G and SteelSeries
+    :fullname: t3_4gp50v
+    :url: https://www.reddit.com/r/gamedev/comments/4gp50v/gearing_up_for_gaming_live_event_today_featuring/
+    :created: 1461801579.0
+    :editd: 1461772963.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Resource
+      :css: resource cat-resource
+- :stats:
+    :score: 2
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Did Lollipop Chainsaw get rights to some of their anime themed unlockable
+      costumes '
+    :fullname: t3_4gqz84
+    :url: https://www.reddit.com/r/gamedev/comments/4gqz84/did_lollipop_chainsaw_get_rights_to_some_of_their/
+    :created: 1461824742.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 4
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'Need marketing options and tips for an Indie game '
+    :fullname: t3_4gqv6l
+    :url: https://www.reddit.com/r/gamedev/comments/4gqv6l/need_marketing_options_and_tips_for_an_indie_game/
+    :created: 1461823205.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 2
+    :comments: 3
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Building a AI storytelling system a programming language with if statements
+      etc within a game VS2015 C MonoGame Windows Recommendations '
+    :fullname: t3_4gqs4m
+    :url: https://www.reddit.com/r/gamedev/comments/4gqs4m/building_a_ai_storytelling_system_a_programming/
+    :created: 1461822028.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 4
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'Assuming you want to provide leaderboards for your game Which technology
+      service provider would you use '
+    :fullname: t3_4gpdem
+    :url: https://www.reddit.com/r/gamedev/comments/4gpdem/assuming_you_want_to_provide_leaderboards_for/
+    :created: 1461804469.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 1
+    :comments: 5
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Mobile multi platform game engine especially good at 2D interface components
+      xpost r androiddev '
+    :fullname: t3_4gov9t
+    :url: https://www.reddit.com/r/gamedev/comments/4gov9t/mobile_multi_platform_game_engine_especially_good/
+    :created: 1461798142.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 4
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Putting together examples of work '
+    :fullname: t3_4gnhdq
+    :url: https://www.reddit.com/r/gamedev/comments/4gnhdq/putting_together_examples_of_work/
+    :created: 1461772420.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 4
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'questions on salary gamedesigner san fran usa '
+    :fullname: t3_4gpv82
+    :url: https://www.reddit.com/r/gamedev/comments/4gpv82/questions_on_salary_gamedesigner_san_fran_usa/
+    :created: 1461810477.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 9
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Using real world bad guys '
+    :fullname: t3_4gmwej
+    :url: https://www.reddit.com/r/gamedev/comments/4gmwej/using_real_world_bad_guys/
+    :created: 1461760205.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 12
+    :category: Idea
+    :category_css: ide cat-talk
+    :gilded: 0
+  :info:
+    :title: 'Help me figure out what to develop with this code I have An Open World
+      Tekken Engine with more than 2 players '
+    :fullname: t3_4gnfxs
+    :url: https://www.reddit.com/r/gamedev/comments/4gnfxs/help_me_figure_out_what_to_develop_with_this_code/
+    :created: 1461771386.0
+    :editd: 1461743527.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Idea
+      :css: ide cat-talk
