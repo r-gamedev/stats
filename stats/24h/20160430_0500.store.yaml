@@ -1,0 +1,599 @@
+---
+:meta:
+  :time_utc: 2016-04-30 05:00:06 UTC
+  :time_local: '2016-04-29 22:00:06 -0700'
+  :label: :24h
+  :period: :day
+:stats:
+  :general:
+    :scores:
+      :min: 0
+      :q1: 1.25
+      :q2: 5.0
+      :q3: 10.5
+      :max: 305
+      :mean: 21.96153846153846
+      :sum: 571.0
+    :comments:
+      :min: 1
+      :q1: 3.25
+      :q2: 5.5
+      :q3: 18.75
+      :max: 91
+      :mean: 14.115384615384615
+      :sum: 367.0
+    :count: 26
+  :by_category:
+    Discussion:
+      :scores:
+        :min: 2
+        :q1: 77.75
+        :q2: 153.5
+        :q3: 229.25
+        :max: 305
+        :mean: 153.5
+        :sum: 307.0
+      :comments:
+        :min: 4
+        :q1: 25.75
+        :q2: 47.5
+        :q3: 69.25
+        :max: 91
+        :mean: 47.5
+        :sum: 95.0
+      :count: 2
+    Assets:
+      :scores:
+        :min: 119
+        :q1: 119.0
+        :q2: 119.0
+        :q3: 119.0
+        :max: 119
+        :mean: 119.0
+        :sum: 119.0
+      :comments:
+        :min: 20
+        :q1: 20.0
+        :q2: 20.0
+        :q3: 20.0
+        :max: 20
+        :mean: 20.0
+        :sum: 20.0
+      :count: 1
+    Question:
+      :scores:
+        :min: 0
+        :q1: 1.25
+        :q2: 4.0
+        :q3: 9.75
+        :max: 26
+        :mean: 6.7
+        :sum: 67.0
+      :comments:
+        :min: 2
+        :q1: 4.25
+        :q2: 7.0
+        :q3: 18.25
+        :max: 24
+        :mean: 10.7
+        :sum: 107.0
+      :count: 10
+    Article/Video:
+      :scores:
+        :min: 12
+        :q1: 15.5
+        :q2: 19.0
+        :q3: 22.5
+        :max: 26
+        :mean: 19.0
+        :sum: 38.0
+      :comments:
+        :min: 3
+        :q1: 3.25
+        :q2: 3.5
+        :q3: 3.75
+        :max: 4
+        :mean: 3.5
+        :sum: 7.0
+      :count: 2
+    FF:
+      :scores:
+        :min: 9
+        :q1: 9.0
+        :q2: 9.0
+        :q3: 9.0
+        :max: 9
+        :mean: 9.0
+        :sum: 9.0
+      :comments:
+        :min: 69
+        :q1: 69.0
+        :q2: 69.0
+        :q3: 69.0
+        :max: 69
+        :mean: 69.0
+        :sum: 69.0
+      :count: 1
+    Technical:
+      :scores:
+        :min: 7
+        :q1: 7.0
+        :q2: 7.0
+        :q3: 7.0
+        :max: 7
+        :mean: 7.0
+        :sum: 7.0
+      :comments:
+        :min: 8
+        :q1: 8.0
+        :q2: 8.0
+        :q3: 8.0
+        :max: 8
+        :mean: 8.0
+        :sum: 8.0
+      :count: 1
+    ! '':
+      :scores:
+        :min: 0
+        :q1: 0.0
+        :q2: 3.0
+        :q3: 5.0
+        :max: 7
+        :mean: 2.6666666666666665
+        :sum: 24.0
+      :comments:
+        :min: 1
+        :q1: 2.0
+        :q2: 4.0
+        :q3: 8.0
+        :max: 21
+        :mean: 6.777777777777778
+        :sum: 61.0
+      :count: 9
+:data:
+- :stats:
+    :score: 305
+    :comments: 91
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'What happened to the technology behind L A Noires facial capture '
+    :fullname: t3_4gyntw
+    :url: https://www.reddit.com/r/gamedev/comments/4gyntw/what_happened_to_the_technology_behind_la_noires/
+    :created: 1461951613.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 119
+    :comments: 20
+    :category: Assets
+    :category_css: assets cat-event
+    :gilded: 0
+  :info:
+    :title: 'Kenney Studion version 0 5 released adds axonometric generator '
+    :fullname: t3_4gzb1a
+    :url: https://www.reddit.com/r/gamedev/comments/4gzb1a/kenney_studion_version_05_released_adds/
+    :created: 1461964401.0
+    :editd: 1461936131.0
+    :author_flair:
+      :text: Asset Jesus
+    :link_flair:
+      :text: Assets
+      :css: assets cat-event
+- :stats:
+    :score: 26
+    :comments: 24
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Question to non US citizen indie game developers
+    :fullname: t3_4gyc4m
+    :url: https://www.reddit.com/r/gamedev/comments/4gyc4m/question_to_nonus_citizen_indie_game_developers/
+    :created: 1461943180.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 26
+    :comments: 4
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: I did a tiny Physics Experiment in a 600 Person Moshpit
+    :fullname: t3_4gzcdi
+    :url: https://www.reddit.com/r/gamedev/comments/4gzcdi/i_did_a_tiny_physics_experiment_in_a_600_person/
+    :created: 1461964938.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 13
+    :comments: 24
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How much of your game needs to be completed before starting a Kickstarter '
+    :fullname: t3_4h0grn
+    :url: https://www.reddit.com/r/gamedev/comments/4h0grn/how_much_of_your_game_needs_to_be_completed/
+    :created: 1461979418.0
+    :editd: false
+    :author_flair:
+      :text: " SleipnirsGhost"
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 11
+    :comments: 21
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'What DAW do you use for music and sound production '
+    :fullname: t3_4h00fp
+    :url: https://www.reddit.com/r/gamedev/comments/4h00fp/what_daw_do_you_use_for_music_and_sound_production/
+    :created: 1461973835.0
+    :editd: false
+    :author_flair:
+      :text: Amateur Hour
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 12
+    :comments: 3
+    :category: Article/Video
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Our Success with Steam Greenlight
+    :fullname: t3_4gzx0g
+    :url: https://www.reddit.com/r/gamedev/comments/4gzx0g/our_success_with_steam_greenlight/
+    :created: 1461972668.0
+    :editd: false
+    :author_flair:
+      :text: Wulverblade
+    :link_flair:
+      :text: Article/Video
+      :css: article cat-resource
+- :stats:
+    :score: 9
+    :comments: 69
+    :category: FF
+    :category_css: ff cat-weekly
+    :gilded: 0
+  :info:
+    :title: Feedback Friday 183 The hot list
+    :fullname: t3_4gxxw9
+    :url: https://www.reddit.com/r/gamedev/comments/4gxxw9/feedback_friday_183_the_hot_list/
+    :created: 1461934440.0
+    :editd: false
+    :author_flair:
+      :text: " LucklessSeven"
+    :link_flair:
+      :text: FF
+      :css: ff cat-weekly
+- :stats:
+    :score: 7
+    :comments: 8
+    :category: Technical
+    :category_css: technical cat-resource
+    :gilded: 0
+  :info:
+    :title: 'Does it make sense to use Scene2D for UI exclusively '
+    :fullname: t3_4h009o
+    :url: https://www.reddit.com/r/gamedev/comments/4h009o/does_it_make_sense_to_use_scene2d_for_ui/
+    :created: 1461973778.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Technical
+      :css: technical cat-resource
+- :stats:
+    :score: 7
+    :comments: 5
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'I believe I have made my textures transparent but upon loading it in
+      my game with C SDL2 they lose that transparency and is replaced with a black
+      white background '
+    :fullname: t3_4h0mot
+    :url: https://www.reddit.com/r/gamedev/comments/4h0mot/i_believe_i_have_made_my_textures_transparent_but/
+    :created: 1461981392.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 5
+    :comments: 4
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Homogeneous containers in C for game objects '
+    :fullname: t3_4h2l7c
+    :url: https://www.reddit.com/r/gamedev/comments/4h2l7c/homogeneous_containers_in_c_for_game_objects/
+    :created: 1462008972.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 5
+    :comments: 8
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'How do I make a font from a png '
+    :fullname: t3_4h229k
+    :url: https://www.reddit.com/r/gamedev/comments/4h229k/how_do_i_make_a_font_from_a_png/
+    :created: 1462000404.0
+    :editd: false
+    :author_flair:
+      :text: " laxvikingames"
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 6
+    :comments: 8
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: A question from a graphic designer with little bit coding knowledge
+    :fullname: t3_4h0ydx
+    :url: https://www.reddit.com/r/gamedev/comments/4h0ydx/a_question_from_a_graphic_designer_with_little/
+    :created: 1461985274.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 6
+    :comments: 6
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Make a simple game on Android Studio or keep on Unity '
+    :fullname: t3_4h0gvr
+    :url: https://www.reddit.com/r/gamedev/comments/4h0gvr/make_a_simple_game_on_android_studio_or_keep_on/
+    :created: 1461979453.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 10
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Why can t my games get successful '
+    :fullname: t3_4h2xtl
+    :url: https://www.reddit.com/r/gamedev/comments/4h2xtl/why_cant_my_games_get_successful/
+    :created: 1462015065.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 3
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Xbox one controller button icons '
+    :fullname: t3_4h27jk
+    :url: https://www.reddit.com/r/gamedev/comments/4h27jk/xbox_one_controller_button_icons/
+    :created: 1462002715.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 3
+    :comments: 3
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Choosing framework for menu data driven game
+    :fullname: t3_4gy1dk
+    :url: https://www.reddit.com/r/gamedev/comments/4gy1dk/choosing_framework_for_menudata_driven_game/
+    :created: 1461936388.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 5
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Anyone know of any good 3D modeling software like Tinkercad that is free
+      for commercial use '
+    :fullname: t3_4h2tim
+    :url: https://www.reddit.com/r/gamedev/comments/4h2tim/anyone_know_of_any_good_3d_modeling_software_like/
+    :created: 1462012962.0
+    :editd: false
+    :author_flair:
+      :text: http www elysrealm com blog
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 21
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Need advice before I start
+    :fullname: t3_4gzfby
+    :url: https://www.reddit.com/r/gamedev/comments/4gzfby/need_advice_before_i_start/
+    :created: 1461966154.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 4
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'Crunch Your input is wanted '
+    :fullname: t3_4h12at
+    :url: https://www.reddit.com/r/gamedev/comments/4h12at/crunch_your_input_is_wanted/
+    :created: 1461986695.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 2
+    :comments: 2
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Creating portfolio
+    :fullname: t3_4h0t6p
+    :url: https://www.reddit.com/r/gamedev/comments/4h0t6p/creating_portfolio/
+    :created: 1461983532.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 3
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Game Asset Development question '
+    :fullname: t3_4gy3zc
+    :url: https://www.reddit.com/r/gamedev/comments/4gy3zc/game_asset_development_question/
+    :created: 1461937954.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Best game engine for a survival game '
+    :fullname: t3_4h2d2o
+    :url: https://www.reddit.com/r/gamedev/comments/4h2d2o/best_game_engine_for_a_survival_game/
+    :created: 1462005178.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: " partytimeHXLNT gives a detailed illustration of what 8 bit art is and
+      questions whether or not it is dead"
+    :fullname: t3_4h084c
+    :url: https://www.reddit.com/r/gamedev/comments/4h084c/partytimehxlnt_gives_a_detailed_illustration_of/
+    :created: 1461976427.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Language Engine suggestion '
+    :fullname: t3_4h0wgt
+    :url: https://www.reddit.com/r/gamedev/comments/4h0wgt/language_engine_suggestion/
+    :created: 1461984629.0
+    :editd: 1461961223.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 15
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'To go Indie or not '
+    :fullname: t3_4h00cm
+    :url: https://www.reddit.com/r/gamedev/comments/4h00cm/to_go_indie_or_not/
+    :created: 1461973806.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
