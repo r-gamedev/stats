@@ -1,0 +1,812 @@
+---
+:meta:
+  :time_utc: 2016-05-10 05:00:06 UTC
+  :time_local: '2016-05-09 22:00:06 -0700'
+  :label: :24h
+  :period: :day
+:stats:
+  :general:
+    :scores:
+      :min: 0
+      :q1: 2.0
+      :q2: 4.0
+      :q3: 8.5
+      :max: 320
+      :mean: 16.857142857142858
+      :sum: 590.0
+    :comments:
+      :min: 0
+      :q1: 1.0
+      :q2: 5.0
+      :q3: 6.5
+      :max: 68
+      :mean: 8.0
+      :sum: 280.0
+    :count: 35
+  :by_category:
+    Technical:
+      :scores:
+        :min: 320
+        :q1: 320.0
+        :q2: 320.0
+        :q3: 320.0
+        :max: 320
+        :mean: 320.0
+        :sum: 320.0
+      :comments:
+        :min: 58
+        :q1: 58.0
+        :q2: 58.0
+        :q3: 58.0
+        :max: 58
+        :mean: 58.0
+        :sum: 58.0
+      :count: 1
+    Video:
+      :scores:
+        :min: 4
+        :q1: 8.5
+        :q2: 13.0
+        :q3: 24.5
+        :max: 36
+        :mean: 17.666666666666668
+        :sum: 53.0
+      :comments:
+        :min: 0
+        :q1: 0.5
+        :q2: 1.0
+        :q3: 1.5
+        :max: 2
+        :mean: 1.0
+        :sum: 3.0
+      :count: 3
+    ! '':
+      :scores:
+        :min: 0
+        :q1: 4.0
+        :q2: 4.0
+        :q3: 5.0
+        :max: 41
+        :mean: 7.2727272727272725
+        :sum: 80.0
+      :comments:
+        :min: 0
+        :q1: 1.0
+        :q2: 3.0
+        :q3: 5.5
+        :max: 20
+        :mean: 4.636363636363637
+        :sum: 51.0
+      :count: 11
+    Resource:
+      :scores:
+        :min: 12
+        :q1: 17.75
+        :q2: 23.5
+        :q3: 29.25
+        :max: 35
+        :mean: 23.5
+        :sum: 47.0
+      :comments:
+        :min: 0
+        :q1: 1.5
+        :q2: 3.0
+        :q3: 4.5
+        :max: 6
+        :mean: 3.0
+        :sum: 6.0
+      :count: 2
+    Feedback:
+      :scores:
+        :min: 7
+        :q1: 10.0
+        :q2: 13.0
+        :q3: 16.0
+        :max: 19
+        :mean: 13.0
+        :sum: 26.0
+      :comments:
+        :min: 1
+        :q1: 3.75
+        :q2: 6.5
+        :q3: 9.25
+        :max: 12
+        :mean: 6.5
+        :sum: 13.0
+      :count: 2
+    Discussion:
+      :scores:
+        :min: 3
+        :q1: 6.5
+        :q2: 10.0
+        :q3: 13.5
+        :max: 17
+        :mean: 10.0
+        :sum: 20.0
+      :comments:
+        :min: 2
+        :q1: 3.0
+        :q2: 4.0
+        :q3: 5.0
+        :max: 6
+        :mean: 4.0
+        :sum: 8.0
+      :count: 2
+    MM:
+      :scores:
+        :min: 8
+        :q1: 8.0
+        :q2: 8.0
+        :q3: 8.0
+        :max: 8
+        :mean: 8.0
+        :sum: 8.0
+      :comments:
+        :min: 68
+        :q1: 68.0
+        :q2: 68.0
+        :q3: 68.0
+        :max: 68
+        :mean: 68.0
+        :sum: 68.0
+      :count: 1
+    Question:
+      :scores:
+        :min: 0
+        :q1: 1.0
+        :q2: 2.0
+        :q3: 5.0
+        :max: 9
+        :mean: 3.090909090909091
+        :sum: 34.0
+      :comments:
+        :min: 1
+        :q1: 4.5
+        :q2: 5.0
+        :q3: 7.5
+        :max: 18
+        :mean: 6.636363636363637
+        :sum: 73.0
+      :count: 11
+    Article:
+      :scores:
+        :min: 2
+        :q1: 2.0
+        :q2: 2.0
+        :q3: 2.0
+        :max: 2
+        :mean: 2.0
+        :sum: 2.0
+      :comments:
+        :min: 0
+        :q1: 0.0
+        :q2: 0.0
+        :q3: 0.0
+        :max: 0
+        :mean: 0.0
+        :sum: 0.0
+      :count: 1
+    Stream:
+      :scores:
+        :min: 0
+        :q1: 0.0
+        :q2: 0.0
+        :q3: 0.0
+        :max: 0
+        :mean: 0.0
+        :sum: 0.0
+      :comments:
+        :min: 0
+        :q1: 0.0
+        :q2: 0.0
+        :q3: 0.0
+        :max: 0
+        :mean: 0.0
+        :sum: 0.0
+      :count: 1
+:data:
+- :stats:
+    :score: 320
+    :comments: 58
+    :category: Technical
+    :category_css: technical cat-resource
+    :gilded: 0
+  :info:
+    :title: New real time text rendering technique based on multi channel distance
+      fields
+    :fullname: t3_4ij5ih
+    :url: https://www.reddit.com/r/gamedev/comments/4ij5ih/new_realtime_text_rendering_technique_based_on/
+    :created: 1462822427.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Technical
+      :css: technical cat-resource
+- :stats:
+    :score: 36
+    :comments: 1
+    :category: Video
+    :category_css: video cat-resource
+    :gilded: 0
+  :info:
+    :title: HandmadeCon 2015 Tommy Refenes
+    :fullname: t3_4ik5dm
+    :url: https://www.reddit.com/r/gamedev/comments/4ik5dm/handmadecon_2015_tommy_refenes/
+    :created: 1462837646.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Video
+      :css: video cat-resource
+- :stats:
+    :score: 41
+    :comments: 9
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Combat Analysis Dark Souls Video A Frame by Frame break down explaining
+      Input Windows and Press Buffers
+    :fullname: t3_4ilbd4
+    :url: https://www.reddit.com/r/gamedev/comments/4ilbd4/combat_analysis_dark_souls_video_a_frame_by_frame/
+    :created: 1462851762.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 35
+    :comments: 6
+    :category: Resource
+    :category_css: resource cat-resource
+    :gilded: 0
+  :info:
+    :title: 'Need feedback on your game Submit to Indie Insights '
+    :fullname: t3_4ijnm9
+    :url: https://www.reddit.com/r/gamedev/comments/4ijnm9/need_feedback_on_your_game_submit_to_indie/
+    :created: 1462831133.0
+    :editd: false
+    :author_flair:
+      :text: Levantera miniLAW
+    :link_flair:
+      :text: Resource
+      :css: resource cat-resource
+- :stats:
+    :score: 19
+    :comments: 12
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: 'F2P route or Steam route for my game '
+    :fullname: t3_4ii6vx
+    :url: https://www.reddit.com/r/gamedev/comments/4ii6vx/f2p_route_or_steam_route_for_my_game/
+    :created: 1462799843.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 17
+    :comments: 6
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'So we didn t get into Gamescom Indie Megabooth '
+    :fullname: t3_4ilx00
+    :url: https://www.reddit.com/r/gamedev/comments/4ilx00/so_we_didnt_get_into_gamescom_indie_megabooth/
+    :created: 1462859022.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 13
+    :comments: 2
+    :category: Video
+    :category_css: video cat-resource
+    :gilded: 0
+  :info:
+    :title: Video Visual Evolution of My First Game
+    :fullname: t3_4ike6u
+    :url: https://www.reddit.com/r/gamedev/comments/4ike6u/video_visual_evolution_of_my_first_game/
+    :created: 1462840667.0
+    :editd: false
+    :author_flair:
+      :text: " onewheelstudio"
+    :link_flair:
+      :text: Video
+      :css: video cat-resource
+- :stats:
+    :score: 12
+    :comments: 0
+    :category: Resource
+    :category_css: resource cat-resource
+    :gilded: 0
+  :info:
+    :title: Photoshop as game editor
+    :fullname: t3_4ikv6b
+    :url: https://www.reddit.com/r/gamedev/comments/4ikv6b/photoshop_as_game_editor/
+    :created: 1462846416.0
+    :editd: false
+    :author_flair:
+      :text: " matthieubaldy"
+    :link_flair:
+      :text: Resource
+      :css: resource cat-resource
+- :stats:
+    :score: 8
+    :comments: 68
+    :category: MM
+    :category_css: mm cat-weekly
+    :gilded: 0
+  :info:
+    :title: Marketing Monday 116 Making the grade
+    :fullname: t3_4ii3gl
+    :url: https://www.reddit.com/r/gamedev/comments/4ii3gl/marketing_monday_116_making_the_grade/
+    :created: 1462798007.0
+    :editd: false
+    :author_flair:
+      :text: " LucklessSeven"
+    :link_flair:
+      :text: MM
+      :css: mm cat-weekly
+- :stats:
+    :score: 9
+    :comments: 5
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Best avenue to create games on Linux devices like raspberry pi '
+    :fullname: t3_4ij65p
+    :url: https://www.reddit.com/r/gamedev/comments/4ij65p/best_avenue_to_create_games_on_linux_devices_like/
+    :created: 1462822793.0
+    :editd: 1462794173.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 6
+    :comments: 7
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Average amount of time it takes to do specific game art and animation
+      tasks '
+    :fullname: t3_4ii06x
+    :url: https://www.reddit.com/r/gamedev/comments/4ii06x/average_amount_of_time_it_takes_to_do_specific/
+    :created: 1462796318.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 7
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Trying to find a game engine port
+    :fullname: t3_4imtgi
+    :url: https://www.reddit.com/r/gamedev/comments/4imtgi/trying_to_find_a_game_engine_port/
+    :created: 1462871490.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 6
+    :comments: 1
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Anything I should know before publishing a post mortem '
+    :fullname: t3_4imgtk
+    :url: https://www.reddit.com/r/gamedev/comments/4imgtk/anything_i_should_know_before_publishing_a/
+    :created: 1462866400.0
+    :editd: false
+    :author_flair:
+      :text: ShiCompany
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 7
+    :comments: 1
+    :category: Feedback
+    :category_css: feedback cat-game
+    :gilded: 0
+  :info:
+    :title: 'Looking for feedback for our game Disco Flip Beta '
+    :fullname: t3_4ilvqd
+    :url: https://www.reddit.com/r/gamedev/comments/4ilvqd/looking_for_feedback_for_our_game_disco_flip_beta/
+    :created: 1462858602.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Feedback
+      :css: feedback cat-game
+- :stats:
+    :score: 5
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: In VR Scene Editor for Unity using Vive
+    :fullname: t3_4ikryb
+    :url: https://www.reddit.com/r/gamedev/comments/4ikryb/in_vr_scene_editor_for_unity_using_vive/
+    :created: 1462845351.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 4
+    :comments: 6
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: How to Submit a game to Yahoo
+    :fullname: t3_4iilu8
+    :url: https://www.reddit.com/r/gamedev/comments/4iilu8/how_to_submit_a_game_to_yahoo/
+    :created: 1462809044.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 4
+    :comments: 0
+    :category: Video
+    :category_css: video cat-resource
+    :gilded: 0
+  :info:
+    :title: TV Docu series Features Episode About Indie Dev
+    :fullname: t3_4imw77
+    :url: https://www.reddit.com/r/gamedev/comments/4imw77/tv_docuseries_features_episode_about_indie_dev/
+    :created: 1462872580.0
+    :editd: false
+    :author_flair:
+      :text: " RikuKat Potions A Curious Tale"
+    :link_flair:
+      :text: Video
+      :css: video cat-resource
+- :stats:
+    :score: 4
+    :comments: 5
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Paths into the industry '
+    :fullname: t3_4im5ta
+    :url: https://www.reddit.com/r/gamedev/comments/4im5ta/paths_into_the_industry/
+    :created: 1462862208.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 5
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Historica free to play puzzle RPG from Japan announces quest writing
+      contest Pen Your Legend 5 9 5 16 '
+    :fullname: t3_4ilxrq
+    :url: https://www.reddit.com/r/gamedev/comments/4ilxrq/historica_free_to_play_puzzlerpg_from_japan/
+    :created: 1462859289.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 4
+    :comments: 5
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Does anyone know of good resources for naming convention practices Not
+      just for programming but also folder structures filenames asset names etc '
+    :fullname: t3_4ik1si
+    :url: https://www.reddit.com/r/gamedev/comments/4ik1si/does_anyone_know_of_good_resources_for_naming/
+    :created: 1462836383.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 4
+    :comments: 18
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Looking for a space partitioning algorithm for the 2d world in my game
+      Info inside '
+    :fullname: t3_4iinm9
+    :url: https://www.reddit.com/r/gamedev/comments/4iinm9/looking_for_a_space_partitioning_algorithm_for/
+    :created: 1462810320.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 4
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How do I figure out how to code something myself '
+    :fullname: t3_4imzub
+    :url: https://www.reddit.com/r/gamedev/comments/4imzub/how_do_i_figure_out_how_to_code_something_myself/
+    :created: 1462873964.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 5
+    :comments: 3
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Motivation to finish text based rpg
+    :fullname: t3_4imy4x
+    :url: https://www.reddit.com/r/gamedev/comments/4imy4x/motivation_to_finish_textbased_rpg/
+    :created: 1462873304.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 0
+    :category: Article
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: 'The Vertex Whisperer The Robotic Lab Update Game Devlog 7 '
+    :fullname: t3_4ikwdx
+    :url: https://www.reddit.com/r/gamedev/comments/4ikwdx/the_vertex_whisperer_the_robotic_lab_update_game/
+    :created: 1462846807.0
+    :editd: false
+    :author_flair:
+      :text: http www elysrealm com blog
+    :link_flair:
+      :text: Article
+      :css: article cat-resource
+- :stats:
+    :score: 2
+    :comments: 6
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Rhythm game How to sync notes to reach the strumbar right when the song
+      starts '
+    :fullname: t3_4ij20v
+    :url: https://www.reddit.com/r/gamedev/comments/4ij20v/rhythm_game_how_to_sync_notes_to_reach_the/
+    :created: 1462820390.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 3
+    :comments: 2
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'How do you design main menus '
+    :fullname: t3_4inddf
+    :url: https://www.reddit.com/r/gamedev/comments/4inddf/how_do_you_design_main_menus/
+    :created: 1462879535.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 4
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: ConnectedNES is a hardware software project that allows one to wirelessly
+      stream internet data to an 8 bit NES game console
+    :fullname: t3_4in7dq
+    :url: https://www.reddit.com/r/gamedev/comments/4in7dq/connectednes_is_a_hardware_software_project_that/
+    :created: 1462877020.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 12
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How long would it take to 3D model this city for Unreal Engine 4 '
+    :fullname: t3_4iky0l
+    :url: https://www.reddit.com/r/gamedev/comments/4iky0l/how_long_would_it_take_to_3d_model_this_city_for/
+    :created: 1462847359.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 5
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Unity 2D UI raycasting fun '
+    :fullname: t3_4ijhqz
+    :url: https://www.reddit.com/r/gamedev/comments/4ijhqz/unity_2d_ui_raycasting_fun/
+    :created: 1462828581.0
+    :editd: 1462800325.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 5
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Indie car racing game car design and naming
+    :fullname: t3_4ij7nl
+    :url: https://www.reddit.com/r/gamedev/comments/4ij7nl/indie_car_racing_game_car_design_and_naming/
+    :created: 1462823647.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 20
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Curious about game graphics Are games like Pillars of Eternity other
+      new CRPGs using 3D models or just visual tricks to look 3D '
+    :fullname: t3_4iidd0
+    :url: https://www.reddit.com/r/gamedev/comments/4iidd0/curious_about_game_graphics_are_games_like/
+    :created: 1462803597.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 8
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Anyone know where I can find free or cheap cohesive music packs sets '
+    :fullname: t3_4imlnu
+    :url: https://www.reddit.com/r/gamedev/comments/4imlnu/anyone_know_where_i_can_find_free_or_cheap/
+    :created: 1462868335.0
+    :editd: false
+    :author_flair:
+      :text: http www elysrealm com blog
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 0
+    :category: Stream
+    :category_css: stream cat-event
+    :gilded: 0
+  :info:
+    :title: 'DEV Live Stream Map making for Divided We Fall in Unity x post from r
+      Unity3D '
+    :fullname: t3_4ik1qh
+    :url: https://www.reddit.com/r/gamedev/comments/4ik1qh/dev_live_stream_map_making_for_divided_we_fall_in/
+    :created: 1462836362.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Stream
+      :css: stream cat-event
+- :stats:
+    :score: 0
+    :comments: 2
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Curious about Diablo 2 s user interface creation
+    :fullname: t3_4ikduk
+    :url: https://www.reddit.com/r/gamedev/comments/4ikduk/curious_about_diablo_2s_user_interface_creation/
+    :created: 1462840540.0
+    :editd: 1462811993.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 5 Growth Marketing strategies for your App or Mobile Game
+    :fullname: t3_4ijmrv
+    :url: https://www.reddit.com/r/gamedev/comments/4ijmrv/5_growth_marketing_strategies_for_your_app_or/
+    :created: 1462830778.0
+    :editd: 1462802917.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
