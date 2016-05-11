@@ -1,0 +1,822 @@
+---
+:meta:
+  :time_utc: 2016-05-11 05:00:06 UTC
+  :time_local: '2016-05-10 22:00:06 -0700'
+  :label: :24h
+  :period: :day
+:stats:
+  :general:
+    :scores:
+      :min: 0
+      :q1: 1.0
+      :q2: 3.5
+      :q3: 12.75
+      :max: 239
+      :mean: 20.105263157894736
+      :sum: 764.0
+    :comments:
+      :min: 0
+      :q1: 1.25
+      :q2: 4.0
+      :q3: 7.5
+      :max: 55
+      :mean: 7.157894736842105
+      :sum: 272.0
+    :count: 38
+  :by_category:
+    Release:
+      :scores:
+        :min: 239
+        :q1: 239.0
+        :q2: 239.0
+        :q3: 239.0
+        :max: 239
+        :mean: 239.0
+        :sum: 239.0
+      :comments:
+        :min: 55
+        :q1: 55.0
+        :q2: 55.0
+        :q3: 55.0
+        :max: 55
+        :mean: 55.0
+        :sum: 55.0
+      :count: 1
+    Article:
+      :scores:
+        :min: 2
+        :q1: 16.0
+        :q2: 34.0
+        :q3: 40.0
+        :max: 190
+        :mean: 56.4
+        :sum: 282.0
+      :comments:
+        :min: 2
+        :q1: 5.0
+        :q2: 5.0
+        :q3: 10.0
+        :max: 37
+        :mean: 11.8
+        :sum: 59.0
+      :count: 5
+    Resource:
+      :scores:
+        :min: 1
+        :q1: 15.0
+        :q2: 29.0
+        :q3: 58.5
+        :max: 88
+        :mean: 39.333333333333336
+        :sum: 118.0
+      :comments:
+        :min: 2
+        :q1: 2.5
+        :q2: 3.0
+        :q3: 7.5
+        :max: 12
+        :mean: 5.666666666666667
+        :sum: 17.0
+      :count: 3
+    Question:
+      :scores:
+        :min: 1
+        :q1: 1.0
+        :q2: 4.0
+        :q3: 11.5
+        :max: 15
+        :mean: 6.090909090909091
+        :sum: 67.0
+      :comments:
+        :min: 0
+        :q1: 1.5
+        :q2: 3.0
+        :q3: 10.5
+        :max: 24
+        :mean: 7.090909090909091
+        :sum: 78.0
+      :count: 11
+    ! '':
+      :scores:
+        :min: 0
+        :q1: 1.0
+        :q2: 2.0
+        :q3: 4.0
+        :max: 12
+        :mean: 3.2666666666666666
+        :sum: 49.0
+      :comments:
+        :min: 0
+        :q1: 1.0
+        :q2: 4.0
+        :q3: 5.5
+        :max: 10
+        :mean: 3.6666666666666665
+        :sum: 55.0
+      :count: 15
+    Video:
+      :scores:
+        :min: 7
+        :q1: 7.0
+        :q2: 7.0
+        :q3: 7.0
+        :max: 7
+        :mean: 7.0
+        :sum: 7.0
+      :comments:
+        :min: 4
+        :q1: 4.0
+        :q2: 4.0
+        :q3: 4.0
+        :max: 4
+        :mean: 4.0
+        :sum: 4.0
+      :count: 1
+    Discussion:
+      :scores:
+        :min: 1
+        :q1: 1.0
+        :q2: 1.0
+        :q3: 1.0
+        :max: 1
+        :mean: 1.0
+        :sum: 1.0
+      :comments:
+        :min: 3
+        :q1: 3.0
+        :q2: 3.0
+        :q3: 3.0
+        :max: 3
+        :mean: 3.0
+        :sum: 3.0
+      :count: 1
+    Stream:
+      :scores:
+        :min: 1
+        :q1: 1.0
+        :q2: 1.0
+        :q3: 1.0
+        :max: 1
+        :mean: 1.0
+        :sum: 1.0
+      :comments:
+        :min: 1
+        :q1: 1.0
+        :q2: 1.0
+        :q3: 1.0
+        :max: 1
+        :mean: 1.0
+        :sum: 1.0
+      :count: 1
+:data:
+- :stats:
+    :score: 239
+    :comments: 55
+    :category: Release
+    :category_css: release cat-game
+    :gilded: 0
+  :info:
+    :title: 'Banshee Engine v0 3 released I m making a game engine '
+    :fullname: t3_4ip3to
+    :url: https://www.reddit.com/r/gamedev/comments/4ip3to/banshee_engine_v03_released_im_making_a_game/
+    :created: 1462914326.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Release
+      :css: release cat-game
+- :stats:
+    :score: 190
+    :comments: 37
+    :category: Article
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Disney Infinite Shuts Down Avalanche Studio Disbanded 300 laid off
+    :fullname: t3_4irz6w
+    :url: https://www.reddit.com/r/gamedev/comments/4irz6w/disney_infinite_shuts_down_avalanche_studio/
+    :created: 1462950144.0
+    :editd: 1462932506.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article
+      :css: article cat-resource
+- :stats:
+    :score: 88
+    :comments: 12
+    :category: Resource
+    :category_css: resource cat-resource
+    :gilded: 0
+  :info:
+    :title: Simple amp Well Documented Node Phaser MMO template
+    :fullname: t3_4inupz
+    :url: https://www.reddit.com/r/gamedev/comments/4inupz/simple_well_documented_node_phaser_mmo_template/
+    :created: 1462888268.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Resource
+      :css: resource cat-resource
+- :stats:
+    :score: 40
+    :comments: 10
+    :category: Article
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: 'Part one of a series on my creative process and how I got into game dev
+      Getting work done by your lonesome '
+    :fullname: t3_4iqduq
+    :url: https://www.reddit.com/r/gamedev/comments/4iqduq/part_one_of_a_series_on_my_creative_process_and/
+    :created: 1462930582.0
+    :editd: 1462902605.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article
+      :css: article cat-resource
+- :stats:
+    :score: 34
+    :comments: 5
+    :category: Article
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Adding visual variety using a few Photoshop like tricks
+    :fullname: t3_4ioo6q
+    :url: https://www.reddit.com/r/gamedev/comments/4ioo6q/adding_visual_variety_using_a_few_photoshoplike/
+    :created: 1462906881.0
+    :editd: false
+    :author_flair:
+      :text: lunaticpixels com
+    :link_flair:
+      :text: Article
+      :css: article cat-resource
+- :stats:
+    :score: 29
+    :comments: 2
+    :category: Resource
+    :category_css: resource cat-resource
+    :gilded: 0
+  :info:
+    :title: 'Building a better website for your game Slides Audio '
+    :fullname: t3_4ipc52
+    :url: https://www.reddit.com/r/gamedev/comments/4ipc52/building_a_better_website_for_your_game/
+    :created: 1462917703.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Resource
+      :css: resource cat-resource
+- :stats:
+    :score: 15
+    :comments: 15
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'What tools do you find useful to help plan game flow mechanics '
+    :fullname: t3_4ip874
+    :url: https://www.reddit.com/r/gamedev/comments/4ip874/what_tools_do_you_find_useful_to_help_plan_game/
+    :created: 1462916165.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 15
+    :comments: 2
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How a Dev can make the Most of attending E3 '
+    :fullname: t3_4is26b
+    :url: https://www.reddit.com/r/gamedev/comments/4is26b/how_a_dev_can_make_the_most_of_attending_e3/
+    :created: 1462951310.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 16
+    :comments: 5
+    :category: Article
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Make Awesome Game Trailers Get Tons of Downloads
+    :fullname: t3_4intju
+    :url: https://www.reddit.com/r/gamedev/comments/4intju/make_awesome_game_trailers_get_tons_of_downloads/
+    :created: 1462887685.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article
+      :css: article cat-resource
+- :stats:
+    :score: 12
+    :comments: 6
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Custom Indie Arcade Cabinet Helios Warp
+    :fullname: t3_4ipzua
+    :url: https://www.reddit.com/r/gamedev/comments/4ipzua/custom_indie_arcade_cabinet_helios_warp/
+    :created: 1462925984.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 13
+    :comments: 20
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Making a game that needs users to log in register Need some guidelines
+      tutorials
+    :fullname: t3_4ioicc
+    :url: https://www.reddit.com/r/gamedev/comments/4ioicc/making_a_game_that_needs_users_to_log_inregister/
+    :created: 1462903270.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 12
+    :comments: 4
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'What genres highlight what skills as a developer '
+    :fullname: t3_4ip2ew
+    :url: https://www.reddit.com/r/gamedev/comments/4ip2ew/what_genres_highlight_what_skills_as_a_developer/
+    :created: 1462913735.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 10
+    :comments: 24
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Question Save game safety '
+    :fullname: t3_4io6g8
+    :url: https://www.reddit.com/r/gamedev/comments/4io6g8/question_save_game_safety/
+    :created: 1462895265.0
+    :editd: false
+    :author_flair:
+      :text: Nowhere Prophet Dev
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 7
+    :comments: 4
+    :category: Video
+    :category_css: video cat-resource
+    :gilded: 0
+  :info:
+    :title: 'Interview with Jonathan Blow here at WPI Audio only 56 12 '
+    :fullname: t3_4iral8
+    :url: https://www.reddit.com/r/gamedev/comments/4iral8/interview_with_jonathan_blow_here_at_wpi_audio/
+    :created: 1462941410.0
+    :editd: false
+    :author_flair:
+      :text: Worcester Polytechnic Institute
+    :link_flair:
+      :text: Video
+      :css: video cat-resource
+- :stats:
+    :score: 6
+    :comments: 9
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'I don t have the best computer for 3D modeling photogrammetry atm nor
+      do I have the proper experience What do I do since I really want a 3D model
+      of myself etc for personal use in games '
+    :fullname: t3_4ioy89
+    :url: https://www.reddit.com/r/gamedev/comments/4ioy89/i_dont_have_the_best_computer_for_3d/
+    :created: 1462911951.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 4
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Scope innovation fear for the future
+    :fullname: t3_4is94t
+    :url: https://www.reddit.com/r/gamedev/comments/4is94t/scope_innovation_fear_for_the_future/
+    :created: 1462953973.0
+    :editd: 1462925357.0
+    :author_flair:
+      :text: http www indiedb com games warzone story of our lives
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 4
+    :comments: 0
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Running a game studio questions
+    :fullname: t3_4is1ee
+    :url: https://www.reddit.com/r/gamedev/comments/4is1ee/running_a_game_studio_questions/
+    :created: 1462951008.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 4
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Unlocked frame rate and no cost fullscreen for Universal Windows apps
+    :fullname: t3_4irmoc
+    :url: https://www.reddit.com/r/gamedev/comments/4irmoc/unlocked_frame_rate_and_nocost_fullscreen_for/
+    :created: 1462945556.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 3
+    :comments: 5
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Project management in the Game industry
+    :fullname: t3_4iqam1
+    :url: https://www.reddit.com/r/gamedev/comments/4iqam1/project_management_in_the_game_industry/
+    :created: 1462929541.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Card Packs and Crates Chests
+    :fullname: t3_4ispky
+    :url: https://www.reddit.com/r/gamedev/comments/4ispky/card_packs_and_crateschests/
+    :created: 1462960764.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 2
+    :comments: 2
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'When and how should you use peer to peer networking '
+    :fullname: t3_4is7n1
+    :url: https://www.reddit.com/r/gamedev/comments/4is7n1/when_and_how_should_you_use_peertopeer_networking/
+    :created: 1462953394.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 2
+    :comments: 2
+    :category: Article
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Improving localization in video games one step at a time
+    :fullname: t3_4is4q0
+    :url: https://www.reddit.com/r/gamedev/comments/4is4q0/improving_localization_in_video_games_one_step_at/
+    :created: 1462952276.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article
+      :css: article cat-resource
+- :stats:
+    :score: 2
+    :comments: 4
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Need advice on what route to get into game design '
+    :fullname: t3_4iokap
+    :url: https://www.reddit.com/r/gamedev/comments/4iokap/need_advice_on_what_route_to_get_into_game_design/
+    :created: 1462904512.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 4
+    :comments: 3
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: '3D models or 2D sprites for animation '
+    :fullname: t3_4inl2i
+    :url: https://www.reddit.com/r/gamedev/comments/4inl2i/3dmodels_or_2dsprites_for_animation/
+    :created: 1462883219.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 3
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'Should Indie Games be Paid for '
+    :fullname: t3_4it399
+    :url: https://www.reddit.com/r/gamedev/comments/4it399/should_indie_games_be_paid_for/
+    :created: 1462966597.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: " Best way to deal with game keys generate validate "
+    :fullname: t3_4it144
+    :url: https://www.reddit.com/r/gamedev/comments/4it144/best_way_to_deal_with_game_keys_generatevalidate/
+    :created: 1462965641.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'How do you implement a hit box system in a fighting game '
+    :fullname: t3_4it0jg
+    :url: https://www.reddit.com/r/gamedev/comments/4it0jg/how_do_you_implement_a_hit_box_system_in_a/
+    :created: 1462965406.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Releasing before or after e3 '
+    :fullname: t3_4isxpo
+    :url: https://www.reddit.com/r/gamedev/comments/4isxpo/releasing_before_or_after_e3/
+    :created: 1462964184.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 6
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: A Game Engine with Great UI Support
+    :fullname: t3_4irtd0
+    :url: https://www.reddit.com/r/gamedev/comments/4irtd0/a_game_engine_with_great_ui_support/
+    :created: 1462948015.0
+    :editd: 1462921671.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 1
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Usage of acronyms '
+    :fullname: t3_4irjvd
+    :url: https://www.reddit.com/r/gamedev/comments/4irjvd/usage_of_acronyms/
+    :created: 1462944575.0
+    :editd: 1462919844.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 1
+    :category: Stream
+    :category_css: stream cat-event
+    :gilded: 0
+  :info:
+    :title: Streaming now Elfin
+    :fullname: t3_4iqrp1
+    :url: https://www.reddit.com/r/gamedev/comments/4iqrp1/streaming_now_elfin/
+    :created: 1462935178.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Stream
+      :css: stream cat-event
+- :stats:
+    :score: 1
+    :comments: 5
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'How can I do multiplayer in an FPS game How does it work '
+    :fullname: t3_4iqa29
+    :url: https://www.reddit.com/r/gamedev/comments/4iqa29/how_can_i_do_multiplayer_in_an_fps_game_how_does/
+    :created: 1462929361.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 3
+    :category: Resource
+    :category_css: resource cat-resource
+    :gilded: 0
+  :info:
+    :title: 'Trying to reach working people in Games This a good place '
+    :fullname: t3_4iq9vm
+    :url: https://www.reddit.com/r/gamedev/comments/4iq9vm/trying_to_reach_working_people_in_games_this_a/
+    :created: 1462929301.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Resource
+      :css: resource cat-resource
+- :stats:
+    :score: 1
+    :comments: 10
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Looking for games with a quiz that effects starting class stats '
+    :fullname: t3_4ip0b6
+    :url: https://www.reddit.com/r/gamedev/comments/4ip0b6/looking_for_games_with_a_quiz_that_effects/
+    :created: 1462912848.0
+    :editd: 1462885241.0
+    :author_flair:
+      :text: " lt _ lt "
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 4
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'I m 14 looking to do game production and I need some guidance '
+    :fullname: t3_4issn3
+    :url: https://www.reddit.com/r/gamedev/comments/4issn3/im_14_looking_to_do_game_production_and_i_need/
+    :created: 1462962033.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 8
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Wants to be able to code Quake on mac os 9 for nostalgia and personal
+      project but dont know where to start '
+    :fullname: t3_4iptnv
+    :url: https://www.reddit.com/r/gamedev/comments/4iptnv/wants_to_be_able_to_code_quake_on_mac_os_9_for/
+    :created: 1462923868.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Finding an internship as a game designer The struggle '
+    :fullname: t3_4ip93m
+    :url: https://www.reddit.com/r/gamedev/comments/4ip93m/finding_an_internship_as_a_game_designer_the/
+    :created: 1462916529.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: Engine Suggestion
+    :fullname: t3_4iplcf
+    :url: https://www.reddit.com/r/gamedev/comments/4iplcf/engine_suggestion/
+    :created: 1462921047.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
