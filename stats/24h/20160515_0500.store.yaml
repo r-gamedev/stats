@@ -1,0 +1,602 @@
+---
+:meta:
+  :time_utc: 2016-05-15 05:00:10 UTC
+  :time_local: '2016-05-14 22:00:10 -0700'
+  :label: :24h
+  :period: :day
+:stats:
+  :general:
+    :scores:
+      :min: 0
+      :q1: 0.0
+      :q2: 6.0
+      :q3: 14.0
+      :max: 156
+      :mean: 20.36
+      :sum: 509.0
+    :comments:
+      :min: 0
+      :q1: 2.0
+      :q2: 8.0
+      :q3: 14.0
+      :max: 136
+      :mean: 14.04
+      :sum: 351.0
+    :count: 25
+  :by_category:
+    Article:
+      :scores:
+        :min: 8
+        :q1: 32.0
+        :q2: 56.0
+        :q3: 106.0
+        :max: 156
+        :mean: 73.33333333333333
+        :sum: 220.0
+      :comments:
+        :min: 2
+        :q1: 8.0
+        :q2: 14.0
+        :q3: 15.5
+        :max: 17
+        :mean: 11.0
+        :sum: 33.0
+      :count: 3
+    ! '':
+      :scores:
+        :min: 0
+        :q1: 0.0
+        :q2: 1.0
+        :q3: 17.0
+        :max: 149
+        :mean: 21.22222222222222
+        :sum: 191.0
+      :comments:
+        :min: 1
+        :q1: 2.0
+        :q2: 6.0
+        :q3: 10.0
+        :max: 32
+        :mean: 9.11111111111111
+        :sum: 82.0
+      :count: 9
+    SSS:
+      :scores:
+        :min: 28
+        :q1: 28.0
+        :q2: 28.0
+        :q3: 28.0
+        :max: 28
+        :mean: 28.0
+        :sum: 28.0
+      :comments:
+        :min: 136
+        :q1: 136.0
+        :q2: 136.0
+        :q3: 136.0
+        :max: 136
+        :mean: 136.0
+        :sum: 136.0
+      :count: 1
+    Stream:
+      :scores:
+        :min: 0
+        :q1: 3.25
+        :q2: 6.5
+        :q3: 9.75
+        :max: 13
+        :mean: 6.5
+        :sum: 13.0
+      :comments:
+        :min: 0
+        :q1: 1.0
+        :q2: 2.0
+        :q3: 3.0
+        :max: 4
+        :mean: 2.0
+        :sum: 4.0
+      :count: 2
+    Question:
+      :scores:
+        :min: 0
+        :q1: 0.5
+        :q2: 5.0
+        :q3: 7.0
+        :max: 14
+        :mean: 4.857142857142857
+        :sum: 34.0
+      :comments:
+        :min: 0
+        :q1: 4.5
+        :q2: 10.0
+        :q3: 11.5
+        :max: 20
+        :mean: 8.857142857142858
+        :sum: 62.0
+      :count: 7
+    Discussion:
+      :scores:
+        :min: 10
+        :q1: 10.0
+        :q2: 10.0
+        :q3: 10.0
+        :max: 10
+        :mean: 10.0
+        :sum: 10.0
+      :comments:
+        :min: 23
+        :q1: 23.0
+        :q2: 23.0
+        :q3: 23.0
+        :max: 23
+        :mean: 23.0
+        :sum: 23.0
+      :count: 1
+    Technical:
+      :scores:
+        :min: 8
+        :q1: 8.0
+        :q2: 8.0
+        :q3: 8.0
+        :max: 8
+        :mean: 8.0
+        :sum: 8.0
+      :comments:
+        :min: 11
+        :q1: 11.0
+        :q2: 11.0
+        :q3: 11.0
+        :max: 11
+        :mean: 11.0
+        :sum: 11.0
+      :count: 1
+    STS:
+      :scores:
+        :min: 5
+        :q1: 5.0
+        :q2: 5.0
+        :q3: 5.0
+        :max: 5
+        :mean: 5.0
+        :sum: 5.0
+      :comments:
+        :min: 0
+        :q1: 0.0
+        :q2: 0.0
+        :q3: 0.0
+        :max: 0
+        :mean: 0.0
+        :sum: 0.0
+      :count: 1
+:data:
+- :stats:
+    :score: 156
+    :comments: 17
+    :category: Article
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: 'Understanding vertical slicing or how to create feature based iterations
+      of your game '
+    :fullname: t3_4jaso2
+    :url: https://www.reddit.com/r/gamedev/comments/4jaso2/understanding_vertical_slicing_or_how_to_create/
+    :created: 1463247232.0
+    :editd: false
+    :author_flair:
+      :text: hacknplan com
+    :link_flair:
+      :text: Article
+      :css: article cat-resource
+- :stats:
+    :score: 149
+    :comments: 32
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'You can finish your game '
+    :fullname: t3_4jcyml
+    :url: https://www.reddit.com/r/gamedev/comments/4jcyml/you_can_finish_your_game/
+    :created: 1463285987.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 56
+    :comments: 14
+    :category: Article
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: A brief look at embedding the Wren scripting language in your C game
+    :fullname: t3_4jb2vp
+    :url: https://www.reddit.com/r/gamedev/comments/4jb2vp/a_brief_look_at_embedding_the_wren_scripting/
+    :created: 1463254619.0
+    :editd: 1463235954.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article
+      :css: article cat-resource
+- :stats:
+    :score: 28
+    :comments: 136
+    :category: SSS
+    :category_css: sss cat-weekly
+    :gilded: 0
+  :info:
+    :title: Screenshot Saturday 276 Time to shine
+    :fullname: t3_4j9ywl
+    :url: https://www.reddit.com/r/gamedev/comments/4j9ywl/screenshot_saturday_276_time_to_shine/
+    :created: 1463227416.0
+    :editd: false
+    :author_flair:
+      :text: " LucklessSeven"
+    :link_flair:
+      :text: SSS
+      :css: sss cat-weekly
+- :stats:
+    :score: 22
+    :comments: 10
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Anyone still got the whole mixamo pack '
+    :fullname: t3_4jb68g
+    :url: https://www.reddit.com/r/gamedev/comments/4jb68g/anyone_still_got_the_whole_mixamo_pack/
+    :created: 1463256665.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 17
+    :comments: 8
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: " Character Rigging Conventions for naming bones "
+    :fullname: t3_4jal9y
+    :url: https://www.reddit.com/r/gamedev/comments/4jal9y/character_rigging_conventions_for_naming_bones/
+    :created: 1463241764.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 13
+    :comments: 0
+    :category: Stream
+    :category_css: stream cat-event
+    :gilded: 0
+  :info:
+    :title: 'Interested in learning how to create a networked world in Unity Live
+      streaming now '
+    :fullname: t3_4jc640
+    :url: https://www.reddit.com/r/gamedev/comments/4jc640/interested_in_learning_how_to_create_a_networked/
+    :created: 1463273934.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Stream
+      :css: stream cat-event
+- :stats:
+    :score: 14
+    :comments: 10
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Public Domain math library for game devs available '
+    :fullname: t3_4jc2l7
+    :url: https://www.reddit.com/r/gamedev/comments/4jc2l7/public_domain_math_library_for_game_devs_available/
+    :created: 1463272438.0
+    :editd: 1463249302.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 10
+    :comments: 23
+    :category: Discussion
+    :category_css: discussion cat-talk
+    :gilded: 0
+  :info:
+    :title: 'How do puzzles game like Portal which revolve around a mostly singular
+      concept keep themselves from being stale '
+    :fullname: t3_4jd020
+    :url: https://www.reddit.com/r/gamedev/comments/4jd020/how_do_puzzles_game_like_portal_which_revolve/
+    :created: 1463286633.0
+    :editd: false
+    :author_flair:
+      :text: http www elysrealm com blog
+    :link_flair:
+      :text: Discussion
+      :css: discussion cat-talk
+- :stats:
+    :score: 8
+    :comments: 5
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Can anybody share their experience of working with a publisher '
+    :fullname: t3_4jc4bi
+    :url: https://www.reddit.com/r/gamedev/comments/4jc4bi/can_anybody_share_their_experience_of_working/
+    :created: 1463273185.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 6
+    :comments: 13
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Loading terrain as game is running '
+    :fullname: t3_4jby4z
+    :url: https://www.reddit.com/r/gamedev/comments/4jby4z/loading_terrain_as_game_is_running/
+    :created: 1463270479.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 8
+    :comments: 11
+    :category: Technical
+    :category_css: technical cat-resource
+    :gilded: 0
+  :info:
+    :title: Non Bezier Sigmoid Easing Curves
+    :fullname: t3_4je7bz
+    :url: https://www.reddit.com/r/gamedev/comments/4je7bz/nonbezier_sigmoid_easing_curves/
+    :created: 1463306858.0
+    :editd: 1463278371.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Technical
+      :css: technical cat-resource
+- :stats:
+    :score: 5
+    :comments: 4
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: Eclipse android live debug code upload
+    :fullname: t3_4jc6jj
+    :url: https://www.reddit.com/r/gamedev/comments/4jc6jj/eclipse_android_live_debug_code_upload/
+    :created: 1463274107.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 1
+    :comments: 6
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Will I be able to achieve the same effect in Unity '
+    :fullname: t3_4jdrcr
+    :url: https://www.reddit.com/r/gamedev/comments/4jdrcr/will_i_be_able_to_achieve_the_same_effect_in_unity/
+    :created: 1463299032.0
+    :editd: 1463270574.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 8
+    :comments: 2
+    :category: Article
+    :category_css: article cat-resource
+    :gilded: 0
+  :info:
+    :title: Ruin of the Reckless an in depth look at our first two days on Steam Greenlight
+    :fullname: t3_4jel44
+    :url: https://www.reddit.com/r/gamedev/comments/4jel44/ruin_of_the_reckless_an_in_depth_look_at_our/
+    :created: 1463313749.0
+    :editd: 1463286277.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Article
+      :css: article cat-resource
+- :stats:
+    :score: 5
+    :comments: 0
+    :category: STS
+    :category_css: sts cat-weekly
+    :gilded: 0
+  :info:
+    :title: Soundtrack Sunday 140 Continuous Replay
+    :fullname: t3_4jel3e
+    :url: https://www.reddit.com/r/gamedev/comments/4jel3e/soundtrack_sunday_140_continuous_replay/
+    :created: 1463313739.0
+    :editd: false
+    :author_flair:
+      :text: " LucklessSeven"
+    :link_flair:
+      :text: STS
+      :css: sts cat-weekly
+- :stats:
+    :score: 2
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Where can I find out more about the method of fake 3D in wolfenstein
+      3D '
+    :fullname: t3_4jekzj
+    :url: https://www.reddit.com/r/gamedev/comments/4jekzj/where_can_i_find_out_more_about_the_method_of/
+    :created: 1463313688.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 1
+    :comments: 0
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Is International Technological University ITU a good school '
+    :fullname: t3_4je391
+    :url: https://www.reddit.com/r/gamedev/comments/4je391/is_international_technological_universityitu_a/
+    :created: 1463304794.0
+    :editd: 1463287633.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 4
+    :category: Stream
+    :category_css: stream cat-event
+    :gilded: 0
+  :info:
+    :title: 'My friend is currently streaming his work on a new 6DOF game if anyone
+      wants to see a programmer of trade make his 1st game '
+    :fullname: t3_4jbzej
+    :url: https://www.reddit.com/r/gamedev/comments/4jbzej/my_friend_is_currently_streaming_his_work_on_a/
+    :created: 1463271000.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Stream
+      :css: stream cat-event
+- :stats:
+    :score: 0
+    :comments: 2
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'What Is It Like To Work As A Game Programmer For Naughty Dog '
+    :fullname: t3_4jamqw
+    :url: https://www.reddit.com/r/gamedev/comments/4jamqw/what_is_it_like_to_work_as_a_game_programmer_for/
+    :created: 1463242810.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 15
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'Would you buy a game that only let you play a little each day '
+    :fullname: t3_4jbat4
+    :url: https://www.reddit.com/r/gamedev/comments/4jbat4/would_you_buy_a_game_that_only_let_you_play_a/
+    :created: 1463259293.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 10
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'Do Cartridge based consoles need less raw power then CD consoles '
+    :fullname: t3_4jd1k8
+    :url: https://www.reddit.com/r/gamedev/comments/4jd1k8/do_cartridge_based_consoles_need_less_raw_power/
+    :created: 1463287284.0
+    :editd: 1463259226.0
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 6
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: 'What game development software should I use '
+    :fullname: t3_4jbc4u
+    :url: https://www.reddit.com/r/gamedev/comments/4jbc4u/what_game_development_software_should_i_use/
+    :created: 1463259971.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
+- :stats:
+    :score: 0
+    :comments: 20
+    :category: Question
+    :category_css: question
+    :gilded: 0
+  :info:
+    :title: 'What game engine in your opinion is best for MMOs '
+    :fullname: t3_4jbbi4
+    :url: https://www.reddit.com/r/gamedev/comments/4jbbi4/what_game_engine_in_your_opinion_is_best_for_mmos/
+    :created: 1463259659.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: Question
+      :css: question
+- :stats:
+    :score: 0
+    :comments: 1
+    :category: 
+    :category_css: 
+    :gilded: 0
+  :info:
+    :title: " The Rookies Game Art Contest my submission is doing very well but I
+      need your support "
+    :fullname: t3_4jbrvs
+    :url: https://www.reddit.com/r/gamedev/comments/4jbrvs/the_rookies_game_art_contest_my_submission_is/
+    :created: 1463267738.0
+    :editd: false
+    :author_flair:
+      :text: 
+    :link_flair:
+      :text: 
+      :css: 
